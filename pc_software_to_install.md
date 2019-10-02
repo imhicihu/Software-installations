@@ -1,4 +1,4 @@
-## Software to install (mostly Microsoft WindowsÂ® environment)
+## Software to install (mostly Microsoft Windows® environment)
 * Backup
 	- [Duplicati](https://www.duplicati.com/): backup software with multiple options: schedule tasks, data encryption, etc.
 	- [Google Backup and sync](https://www.google.com/drive/download/backup-and-sync/)
@@ -91,6 +91,7 @@
 	- [ImageMagick](https://imagemagick.org/script/download.php#windows)
 	- [Dark Table](https://www.darktable.org/install/#windows): image treatment, enhancer in a non destructive way
 	- [DigiKam](https://www.digikam.org/download/): photo management
+	- [DJVUlibre](https://sourceforge.net/projects/djvu/files/DjVuLibre_Windows/): image viewer
 * Document management
 	- [PaperWork](https://openpaper.work/en-us/)
 * Digital notebook / Note taking
