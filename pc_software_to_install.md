@@ -92,6 +92,8 @@
 	- [Dark Table](https://www.darktable.org/install/#windows): image treatment, enhancer in a non destructive way
 	- [DigiKam](https://www.digikam.org/download/): photo management
 	- [DJVUlibre](https://sourceforge.net/projects/djvu/files/DjVuLibre_Windows/): image viewer
+	- [ImageJ](https://imagej.nih.gov/ij/): Java-based image editing
+
 * Document management
 	- [PaperWork](https://openpaper.work/en-us/)
 * Digital notebook / Note taking
