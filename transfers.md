@@ -1,5 +1,6 @@
-| [Duplicati](https://www.duplicati.com/)                      | Wetransfer                                                   |
+| Software to transfer                     | Transfer mode                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Duplicati](https://www.duplicati.com/)                      | Wetransfer                                                   |
 | [Google Backup and sync](https://www.google.com/drive/download/backup-and-sync/) |                                          |
 | [Ccleaner](https://www.ccleaner.com/)                        | WeTransfer                                                   |
 | [Defraggler](https://www.ccleaner.com/defraggler)            | WeTransfer                                                   |
@@ -8,18 +9,18 @@
 | [CloneApp UA](http://www.mirinsoft.com/download/category/13-ca-ua) |                                                        |
 | [Ditto Clipboard](https://www.microsoft.com/en-us/p/ditto-clipboard/9nblggh3zbjq?rtc=1&ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-xUPCRvXAQestQG5TTcXtoQ&epi=TnL5HPStwNw-xUPCRvXAQestQG5TTcXtoQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=(ir__wwnolxiwuskfryltkk0sohzj0e2xg3nagvo3xfww00)(7593)(1243925)(TnL5HPStwNw-xUPCRvXAQestQG5TTcXtoQ)()&irclickid=_wwnolxiwuskfryltkk0sohzj0e2xg3nagvo3xfww00&activetab=pivot:overviewtab) | Needs an hotmail account. And a Windows environment to install it |
 | [Daemon Tools _lite_](https://www.daemon-tools.cc/products/dtLite) |                                                              |
-| [7-Zip](https://www.7-zip.org/)                              |                                                              |
-| [Peazip](https://www.peazip.org/)                            |                                                              |
-| [HJSplit](https://www.usitility.com/es/hjsplit/)             |                                                              |
-| [ImgBurn](http://www.imgburn.com/)                           |                                                              |
+| [7-Zip](https://www.7-zip.org/)                              | WeTransfer                                                              |
+| [Peazip](https://www.peazip.org/)                            | WeTransfer                                                              |
+| [HJSplit](https://www.usitility.com/es/hjsplit/)             | WeTransfer                                                              |
+| [ImgBurn](http://www.imgburn.com/)                           |  WeTransfer                                                             |
 | [Free ISO Creator](http://www.minidvdsoft.com/isocreator/download_free_iso_creator.html) |                                                              |
 | [IsoCreator](https://sourceforge.net/projects/iso-creator-cs/) |                                                              |
 | [Iso Recorder](http://isorecorder.alexfeinman.com/#/)        |                                                              |
-| [OSFMount](https://www.osforensics.com/tools/mount-disk-images.html) |                                                              |
-| [WinIso](http://www.winiso.com/products/winiso-free.html)    |                                                              |
+| [OSFMount](https://www.osforensics.com/tools/mount-disk-images.html) |  WeTransfer                                                             |
+| [WinIso](http://www.winiso.com/products/winiso-free.html)    |  WeTransfer                                                             |
 | [Speccy](https://www.ccleaner.com/speccy)                    |                                                              |
 | [VLC](http://www.videolan.org)                               | WeTransfer                                                   |
-| [K-Lite Codec Pack](https://codecguide.com/download_kl.htm)  |                                                              |
+| [K-Lite Codec Pack](https://codecguide.com/download_kl.htm)  | WeTransfer                                                              |
 | [Filmulator](https://github.com/CarVac/filmulator-gui/releases) | Binary not available at time request                         |
 | [Dropbox](https://dropbox.com/)                              | Needs a pc with a Windows environment to download the main app |
 | [Google Chrome](https://www.google.com/intl/es-419/chrome/)  |                                                              |
