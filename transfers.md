@@ -1,21 +1,21 @@
-| Software to transfer                     | Transfer mode                                                  |
+| Software to transfer                     | Sharing mode                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Duplicati](https://www.duplicati.com/)                      | Wetransfer                                                   |
-| [Google Backup and sync](https://www.google.com/drive/download/backup-and-sync/) |                                          |
+| [Google Backup and sync](https://www.google.com/drive/download/backup-and-sync/) | Needs a pc with a Windows environment to download the main app                                         |
 | [Ccleaner](https://www.ccleaner.com/)                        | WeTransfer                                                   |
 | [Defraggler](https://www.ccleaner.com/defraggler)            | WeTransfer                                                   |
 | [Recuva](https://www.ccleaner.com/recuva)                    | WeTransfer                                                   |
-| [Cloneapp](http://www.mirinsoft.com/download/category/2-cloneapp) |                                                         |
-| [CloneApp UA](http://www.mirinsoft.com/download/category/13-ca-ua) |                                                        |
+| [Cloneapp](http://www.mirinsoft.com/download/category/2-cloneapp) |  WeTransfer                                                       |
+| [CloneApp UA](http://www.mirinsoft.com/download/category/13-ca-ua) | WeTransfer                                                       |
 | [Ditto Clipboard](https://www.microsoft.com/en-us/p/ditto-clipboard/9nblggh3zbjq?rtc=1&ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-xUPCRvXAQestQG5TTcXtoQ&epi=TnL5HPStwNw-xUPCRvXAQestQG5TTcXtoQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=(ir__wwnolxiwuskfryltkk0sohzj0e2xg3nagvo3xfww00)(7593)(1243925)(TnL5HPStwNw-xUPCRvXAQestQG5TTcXtoQ)()&irclickid=_wwnolxiwuskfryltkk0sohzj0e2xg3nagvo3xfww00&activetab=pivot:overviewtab) | Needs an hotmail account. And a Windows environment to install it |
-| [Daemon Tools _lite_](https://www.daemon-tools.cc/products/dtLite) |                                                              |
+| [Daemon Tools _lite_](https://www.daemon-tools.cc/products/dtLite) | WeTransfer                                                             |
 | [7-Zip](https://www.7-zip.org/)                              | WeTransfer                                                              |
 | [Peazip](https://www.peazip.org/)                            | WeTransfer                                                              |
 | [HJSplit](https://www.usitility.com/es/hjsplit/)             | WeTransfer                                                              |
 | [ImgBurn](http://www.imgburn.com/)                           | WeTransfer                                                             |
 | [Free ISO Creator](http://www.minidvdsoft.com/isocreator/download_free_iso_creator.html) |                                                              |
-| [IsoCreator](https://sourceforge.net/projects/iso-creator-cs/) |                                                              |
-| [Iso Recorder](http://isorecorder.alexfeinman.com/#/)        |                                                              |
+| [IsoCreator](https://sourceforge.net/projects/iso-creator-cs/) | WeTransfer                                                             |
+| [Iso Recorder](http://isorecorder.alexfeinman.com/#/)        | WeTransfer                                                             |
 | [OSFMount](https://www.osforensics.com/tools/mount-disk-images.html) |  WeTransfer                                                             |
 | [WinIso](http://www.winiso.com/products/winiso-free.html)    |  WeTransfer                                                             |
 | [Speccy](https://www.ccleaner.com/speccy)                    | WeTransfer                                                              |
@@ -33,7 +33,7 @@
 | [BlueStacks](https://www.bluestacks.com/bluestacks-android-n.html) | Needs a pc with a Windows environment to download the main app |
 | [QGIS](https://qgis.org/en/site/)                            | WeTransfer                                                   |
 | [Google Earth](https://www.google.com/intl/es-419_ALL/earth/versions/#earth-pro) | Needs a pc with a Windows environment to download the main app |
-| [LibreOffice](https://www.libreoffice.org/download/download/) |                                                              |
+| [LibreOffice](https://www.libreoffice.org/download/download/) | WeTransfer                                                             |
 | [Pandoc](https://pandoc.org/installing.html)                 | WeTransfer                                                   |
 | [Texts](http://www.texts.io/Texts-1.5.msi)                   | WeTransfer                                                              |
 | [Calibre](https://calibre-ebook.com/download)                | WeTransfer                                                              |
@@ -56,15 +56,15 @@
 | [Dstretch](http://www.dstretch.com)                          | At this time, plugin is not available to download            |
 | [GIMP](https://www.gimp.org/)                                | WeTransfer                                                   |
 | [ImageMagick](https://imagemagick.org/script/download.php#windows) | WeTransfer                                                   |
-| [Dark Table](https://www.darktable.org/install/#windows)     |                                                              |
+| [Dark Table](https://www.darktable.org/install/#windows)     | WeTransfer                                                             |
 | [DigiKam](https://www.digikam.org/download/)                 | WeTransfer                                                   |
 | [DJVUlibre](https://sourceforge.net/projects/djvu/files/DjVuLibre_Windows/) |                                                              |
 | [ImageJ](https://imagej.nih.gov/ij/)                         | WeTransfer                                                   |
-| [PaperWork](https://openpaper.work/en-us/)                   |                                                              |
+| [PaperWork](https://openpaper.work/en-us/)                   | WeTransfer                                                             |
 | [Evernote](https://evernote.com)                             |                                                              |
 | [OneNote](https://www.microsoft.com/en-us/p/onenote/9wzdncrfhvjl?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-0bWFkjY_lWttiRhTw72ecw&epi=TnL5HPStwNw-0bWFkjY_lWttiRhTw72ecw&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=(ir__wwnolxiwuskfryltkk0sohzj0e2xg3nobfo3xfww00)(7593)(1243925)(TnL5HPStwNw-0bWFkjY_lWttiRhTw72ecw)()&irclickid=_wwnolxiwuskfryltkk0sohzj0e2xg3nobfo3xfww00&activetab=pivot:overviewtab) |                                                              |
 | [Notepad++](https://notepad-plus-plus.org/downloads/)        | WeTransfer                                                   |
-| [FileZilla](https://filezilla-project.org/)                  |                                                              |
+| [FileZilla](https://filezilla-project.org/)                  | WeTransfer                                                             |
 | [Skype](https://www.skype.com/es/get-skype/)                 | Needs a pc with a Windows environment to download the main app |
 | [Zoom.us](https://zoom.us/download#client_4meeting)          | WeTransfer                                                   |
 | [Wireshark](https://www.wireshark.org/#download)             | WeTransfer                                                   |
@@ -72,20 +72,20 @@
 | [WampServer](http://www.wampserver.com/en/#download-wrapper) | WeTransfer                                                   |
 | [DataProofer](https://github.com/dataproofer/Dataproofer/releases) | WeTransfer                                                   |
 | [Talent open studio for data quality](https://www.talend.com/products/data-quality/data-quality-open-studio/) |                                                              |
-| [OpenRefine](http://openrefine.org/download.html)            |                                                              |
-| [md5-app](https://github.com/mhmdkrmabd/md5-app/releases)    |                                                              |
+| [OpenRefine](http://openrefine.org/download.html)            | WeTransfer                                                             |
+| [md5-app](https://github.com/mhmdkrmabd/md5-app/releases)    | WeTransfer                                                             |
 | [R](http://cran.r-project.org/mirrors.html)                  | Needs a pc with a Windows environment to download the main app |
 | [R Studio](https://rstudio.com/products/rstudio/download/)   | WeTransfer                                                   |
-| [cGPSMapper](https://www.gpsfiledepot.com/tools/cgpsmapper.php) |                                                              |
-| [GMapTool](https://www.gmaptool.eu/en/content/windows-setup) |                                                              |
-| [GeoViewer](https://www.extensis.com/download-geoviewer)     |                                                              |
+| [cGPSMapper](https://www.gpsfiledepot.com/tools/cgpsmapper.php) | WeTransfer                                                             |
+| [GMapTool](https://www.gmaptool.eu/en/content/windows-setup) | WeTransfer                                                             |
+| [GeoViewer](https://www.extensis.com/download-geoviewer)     |  needs email registration                                                            |
 | [iTunes](https://www.apple.com/la/itunes/)                   | Needs a pc with a Windows environment to download the main app |
 | [Adobe Flash player](https://get.adobe.com/es/flashplayer/)  | Needs a pc with a Windows environment to download the main app |
-| [Rufus](https://rufus.ie/)                                   |                                                              |
-| [File Optimizer](https://sourceforge.net/projects/nikkhokkho/files/latest/download) |                                                              |
+| [Rufus](https://rufus.ie/)                                   | WeTransfer                                                             |
+| [File Optimizer](https://sourceforge.net/projects/nikkhokkho/files/latest/download) | WeTransfer                                                             |
 | [Java](https://www.java.com/es/download/)                    | WeTransfer                                                   |
-| [Microsoft .NET Framework 4.5](https://www.microsoft.com/es-ar/download/details.aspx?id=30653) |                                                              |
-| [File renamer](http://www.joejoesoft.com/vcms/108/)          |                                                              |
+| [Microsoft .NET Framework 4.5](https://www.microsoft.com/es-ar/download/details.aspx?id=30653) | not compatible with Windows 10                                                             |
+| [File renamer](http://www.joejoesoft.com/vcms/108/)          | WeTransfer                                                             |
 | [Wox](https://github.com/Wox-launcher/Wox/releases)          | WeTransfer                                                   |
 | [Dependency walker](http://www.dependencywalker.com/)        | WeTransfer                                                   |
 | [The PC Decrapifier](https://www.pcdecrapifier.com/)         | WeTransfer                                                   |
