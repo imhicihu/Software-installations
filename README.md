@@ -4,31 +4,31 @@
 
 # RATIONALE #
 
-* First time installation procedures. A quick list of software with a focus on open source projects. A work in perpetual progress
+* First time installation procedures. A quick list of software with a focus on open source projects mostly for the Microsoft Windows environment. A work in _perpetual_ progress
 * This repo is a living document that will grow and adapt over time
 
-![software.png](https://bitbucket.org/repo/p8AERab/images/2498552050-transfer.jpg)
+![software.png](https://bitbucket.org/repo/p8AERab/images/3938803628-2498552050-transfer.jpg)
 
 ### What is this repository for? ###
 
 * Quick summary
-    - 
+    - A quick-list of software to install in a brand new CPU, with a focus on open-source tools
 * Version 1.01
 
 ### How do I get set up? ###
 
 * Summary of set up
-    - 
+    - Check [software to install.md](https://bitbucket.org/imhicihu/software-installations/src/master/pc_software_to_install.md)
 * Configuration
-    - 
+    - There is no `this law applies to all` situation, since there is _some_ interdependencies between parties, ie: [Dstretch](http://www.dstretch.com/) needs [ImageJ](https://imagej.nih.gov/ij/index.html) and itself [ImageJ](https://imagej.nih.gov/ij/index.html) needs [Java](https://www.java.com/es/download/). The former example is a `rara avis` situation.
 * Dependencies
-    - 
+    - some software involved (mostly [R](https://www.r-project.org/), [ImageJ](https://imagej.nih.gov/ij/index.html) and [Node.js](https://nodejs.org/) ) is prone to check inter-dependencies by default 
 * Database configuration
-    - 
+    - Our database since minimal -at first- will evolve according operating system issues and needs. The same evolution of technology paradigms will result in deeply changes across time. 
 * How to run tests
-    - 
+    - There is no run-to-test method to apply, at least, up to now
 * Deployment instructions
-    - 
+    - Every softwre involves install-uninstall properties/method. 
 
 ### Source ###
 
