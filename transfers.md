@@ -12,13 +12,13 @@
 | [7-Zip](https://www.7-zip.org/)                              | WeTransfer                                                              |
 | [Peazip](https://www.peazip.org/)                            | WeTransfer                                                              |
 | [HJSplit](https://www.usitility.com/es/hjsplit/)             | WeTransfer                                                              |
-| [ImgBurn](http://www.imgburn.com/)                           |  WeTransfer                                                             |
+| [ImgBurn](http://www.imgburn.com/)                           | WeTransfer                                                             |
 | [Free ISO Creator](http://www.minidvdsoft.com/isocreator/download_free_iso_creator.html) |                                                              |
 | [IsoCreator](https://sourceforge.net/projects/iso-creator-cs/) |                                                              |
 | [Iso Recorder](http://isorecorder.alexfeinman.com/#/)        |                                                              |
 | [OSFMount](https://www.osforensics.com/tools/mount-disk-images.html) |  WeTransfer                                                             |
 | [WinIso](http://www.winiso.com/products/winiso-free.html)    |  WeTransfer                                                             |
-| [Speccy](https://www.ccleaner.com/speccy)                    |                                                              |
+| [Speccy](https://www.ccleaner.com/speccy)                    | WeTransfer                                                              |
 | [VLC](http://www.videolan.org)                               | WeTransfer                                                   |
 | [K-Lite Codec Pack](https://codecguide.com/download_kl.htm)  | WeTransfer                                                              |
 | [Filmulator](https://github.com/CarVac/filmulator-gui/releases) | Binary not available at time request                         |
@@ -35,19 +35,19 @@
 | [Google Earth](https://www.google.com/intl/es-419_ALL/earth/versions/#earth-pro) | Needs a pc with a Windows environment to download the main app |
 | [LibreOffice](https://www.libreoffice.org/download/download/) |                                                              |
 | [Pandoc](https://pandoc.org/installing.html)                 | WeTransfer                                                   |
-| [Texts](http://www.texts.io/Texts-1.5.msi)                   |                                                              |
-| [Calibre](https://calibre-ebook.com/download)                |                                                              |
-| [doPDF](https://www.dopdf.com/download.html)                 |                                                              |
-| [PDFCreator](https://www.pdfforge.org/pdfcreator/download)   |                                                              |
+| [Texts](http://www.texts.io/Texts-1.5.msi)                   | WeTransfer                                                              |
+| [Calibre](https://calibre-ebook.com/download)                | WeTransfer                                                              |
+| [doPDF](https://www.dopdf.com/download.html)                 | WeTransfer                                                              |
+| [PDFCreator](https://www.pdfforge.org/pdfcreator/download)   | WeTransfer                                                              |
 | [Foxit Reader](https://www.foxitsoftware.com/downloads/#Foxit-Reader/) | WeTransfer                                                   |
-| [SumatraPDF](https://www.sumatrapdfreader.org/download.html) |                                                              |
-| [PDFedit](http://pdfedit.cz/en/pdfedit_windows.html)         |                                                              |
-| [LibreOffice Draw PDF editor](https://www.libreoffice.org/download/download/) |                                                              |
+| [SumatraPDF](https://www.sumatrapdfreader.org/download.html) | WeTransfer                                                              |
+| [PDFedit](http://pdfedit.cz/en/pdfedit_windows.html)         | WeTransfer                                                              |
+| [LibreOffice Draw PDF editor](https://www.libreoffice.org/download/download/) |  WeTransfer                                                             |
 | [Apache OpenOffice Draw](https://www.openoffice.org/es/producto/draw.html) |                                                              |
-| [PDFSam](https://pdfsam.org/es/download-pdfsam-basic/)       |                                                              |
+| [PDFSam](https://pdfsam.org/es/download-pdfsam-basic/)       |  WeTransfer                                                             |
 | [Inkscape](https://inkscape.org/release/)                    | WeTransfer                                                   |
-| [Xnview MP](https://www.xnview.com/en/xnviewmp/)             |                                                              |
-| [Fontba.se](https://fontba.se/)                              |                                                              |
+| [Xnview MP](https://www.xnview.com/en/xnviewmp/)             | WeTransfer                                                              |
+| [Fontba.se](https://fontba.se/)                              |  WeTransfer                                                             |
 | [Meshlab](http://www.meshlab.net)                            | WeTransfer                                                   |
 | [Blender](https://www.blender.org)                           | WeTransfer                                                   |
 | [Cloud Compare](http://www.cloudcompare.org/release/index.html) | WeTransfer                                                   |
