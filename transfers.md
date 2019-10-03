@@ -53,7 +53,7 @@
 | [Cloud Compare](http://www.cloudcompare.org/release/index.html) | WeTransfer                                                   |
 | [Clay-viewer](https://github.com/pissang/clay-viewer/releases) | WeTransfer                                                   |
 | [3DEM](http://www.hangsim.com/files/3dem_setup.exe)          | WeTransfer                                                   |
-| [Dstretch](http://www.dstretch.com)                          | At this time, plugin is not available to download            |
+| ~~[Dstretch](http://www.dstretch.com)~~                          | At this time, plugin is not available to download            |
 | [GIMP](https://www.gimp.org/)                                | WeTransfer                                                   |
 | [ImageMagick](https://imagemagick.org/script/download.php#windows) | WeTransfer                                                   |
 | [Dark Table](https://www.darktable.org/install/#windows)     | WeTransfer                                                             |
@@ -70,6 +70,7 @@
 | [Wireshark](https://www.wireshark.org/#download)             | WeTransfer                                                   |
 | [ScienceFair](http://sciencefair-app.com/)                   | WeTransfer                                                   |
 | [WampServer](http://www.wampserver.com/en/#download-wrapper) | WeTransfer                                                   |
+| [Node JS](https://nodejs.org/es/download/)  | WeTransfer                                                   |
 | [DataProofer](https://github.com/dataproofer/Dataproofer/releases) | WeTransfer                                                   |
 | [Talent open studio for data quality](https://www.talend.com/products/data-quality/data-quality-open-studio/) | WeTransfer                                                             |
 | [OpenRefine](http://openrefine.org/download.html)            | WeTransfer                                                             |
