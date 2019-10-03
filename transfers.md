@@ -61,8 +61,8 @@
 | [DJVUlibre](https://sourceforge.net/projects/djvu/files/DjVuLibre_Windows/) | WeTransfer                                                             |
 | [ImageJ](https://imagej.nih.gov/ij/)                         | WeTransfer                                                   |
 | [PaperWork](https://openpaper.work/en-us/)                   | WeTransfer                                                             |
-| [Evernote](https://evernote.com)                             | Needs a pc with a Windows environment to download the main app                                                             |
-| [OneNote](https://www.microsoft.com/en-us/p/onenote/9wzdncrfhvjl?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-0bWFkjY_lWttiRhTw72ecw&epi=TnL5HPStwNw-0bWFkjY_lWttiRhTw72ecw&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=(ir__wwnolxiwuskfryltkk0sohzj0e2xg3nobfo3xfww00)(7593)(1243925)(TnL5HPStwNw-0bWFkjY_lWttiRhTw72ecw)()&irclickid=_wwnolxiwuskfryltkk0sohzj0e2xg3nobfo3xfww00&activetab=pivot:overviewtab) | Needs an hotmail account. And a Windows environment to install it |
+| [Evernote](https://evernote.com) + Evernote for Firefox & Chrome                         | Needs a pc with a Windows environment to download the main app                                                             |
+| [OneNote](https://www.microsoft.com/en-us/p/onenote/9wzdncrfhvjl?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-0bWFkjY_lWttiRhTw72ecw&epi=TnL5HPStwNw-0bWFkjY_lWttiRhTw72ecw&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=(ir__wwnolxiwuskfryltkk0sohzj0e2xg3nobfo3xfww00)(7593)(1243925)(TnL5HPStwNw-0bWFkjY_lWttiRhTw72ecw)()&irclickid=_wwnolxiwuskfryltkk0sohzj0e2xg3nobfo3xfww00&activetab=pivot:overviewtab) + OneNote for Firefox & Chrome  | Needs an hotmail account. And a Windows environment to install it |
 | [Notepad++](https://notepad-plus-plus.org/downloads/)        | WeTransfer                                                   |
 | [FileZilla](https://filezilla-project.org/)                  | WeTransfer                                                             |
 | [Skype](https://www.skype.com/es/get-skype/)                 | Needs a pc with a Windows environment to download the main app |
@@ -85,7 +85,7 @@
 | [Rufus](https://rufus.ie/)                                   | WeTransfer                                                             |
 | [File Optimizer](https://sourceforge.net/projects/nikkhokkho/files/latest/download) | WeTransfer                                                             |
 | [Java](https://www.java.com/es/download/)                    | WeTransfer                                                   |
-| ~~[Microsoft .NET Framework 4.5](https://www.microsoft.com/es-ar/download/details.aspx?id=30653)~~ | not compatible with Windows 10                                                             |
+| ~~[Microsoft .NET Framework 4.5](https://www.microsoft.com/es-ar/download/details.aspx?id=30653)~~ | not needed in Windows 10                                                             |
 | [File renamer](http://www.joejoesoft.com/vcms/108/)          | WeTransfer                                                             |
 | [Wox](https://github.com/Wox-launcher/Wox/releases)          | WeTransfer                                                   |
 | [Dependency walker](http://www.dependencywalker.com/)        | WeTransfer                                                   |
