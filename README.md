@@ -4,8 +4,8 @@
 
 # RATIONALE #
 
-* First time installation procedures. A _quick-list_ of software to install with a focus on open-source projects mostly for the Microsoft WindowsÂ© realm. By the way, a repo in _perpetual_ progress
-* This repo is a living document that will grow and adapt over time according to meet needs, budget, CPU's power, internal projects, etc.
+* First time installation procedures. A _quick-list_ of software to install with a focus on open-source projects mostly for the Microsoft Windows© realm. By the way, a repo in _perpetual_ progress
+* This repo is a living document that will grow and adapt over time according to meet needs, budgets, CPU's power, internal projects, etc.
 
 ![software.png](https://bitbucket.org/repo/p8AERab/images/3938803628-2498552050-transfer.jpg)
 
@@ -22,7 +22,7 @@
 * Configuration
     - There is no `this law applies to all` situation, since there is _some_ interdependencies between parties, ie: [Dstretch](http://www.dstretch.com/) needs [ImageJ](https://imagej.nih.gov/ij/index.html) and itself [ImageJ](https://imagej.nih.gov/ij/index.html) needs [Java](https://www.java.com/es/download/). The former example is a `rara avis` situation.
 * Dependencies
-    - some software involved (mostly [R](https://www.r-project.org/), [ImageJ](https://imagej.nih.gov/ij/index.html) and [Node.js](https://nodejs.org/) ) are prone to check inter-dependencies by default 
+    - Some software involved (mostly [R](https://www.r-project.org/), [ImageJ](https://imagej.nih.gov/ij/index.html) and [Node.js](https://nodejs.org/) ) are prone to check inter-dependencies by default 
 * Database configuration
     - Our database since minimal -at first- will evolve according operating system issues and needs. The same evolution of technology paradigms will result in deeply changes across time. 
 * How to run tests
