@@ -27,15 +27,15 @@
 	- [OSFMount](https://www.osforensics.com/tools/mount-disk-images.html): mount `ISO` images from mac environment on Windows
 	- [WinIso](http://www.winiso.com/products/winiso-free.html)
 * Data collector
-	- [Speccy](https://www.ccleaner.com/speccy): data collected about hardware
+	- [Speccy](https://www.ccleaner.com/speccy): data collected about _your_ hardware
 * Video viewer
 	- [VLC](http://www.videolan.org): multi-format viewer
 * Video codecs
 	- [K-Lite Codec Pack](https://codecguide.com/download_kl.htm): multi-format file format handler
 * RAW viewer
-	- ~~[Filmulator](https://github.com/CarVac/filmulator-gui/releases)~~ (No binaries to install, so out of this list)
+	- ~~[Filmulator](https://github.com/CarVac/filmulator-gui/releases)~~ (No binaries to install, so out of the scope of this list)
 * Cloud hosting
-	- [Dropbox](https://dropbox.com/): cloud hosting
+	- [Dropbox](https://www.dropbox.com/es/downloading): cloud hosting
 * Browsers
 	- [Google Chrome](https://www.google.com/intl/es-419/chrome/): internet browser
 	- [Mozilla Firefox](https://www.mozilla.org/es-AR/firefox/): internet browser
@@ -43,8 +43,8 @@
 	- [Opera](https://www.opera.com/es): internet browser
 * Virtualization
 	- [Oracle VirtualBox](https://www.virtualbox.org): virtualization of operating systems, _et. al._
-	- [Virtualbox extension pack](https://www.virtualbox.org/wiki/Downloads)
-	- [Windows XP Mode for Windows 7](https://www.microsoft.com/es-ar/download/details.aspx?id=8002): virtual Windows XP on Windows 7
+	- [Virtualbox extension pack](https://www.virtualbox.org/wiki/Downloads): add-on for Oracle VirtualBox
+	- [Windows XP Mode for Windows 7](https://www.microsoft.com/es-ar/download/details.aspx?id=8002): run a _virtual_ Windows XP on Windows 7
 * Android emulators
 	- [BlueStacks](https://www.bluestacks.com/bluestacks-android-n.html): android emulator
 	- ~~[GenyMotion](https://www.genymotion.com/desktop/): android emulator~~
@@ -52,18 +52,18 @@
 	- [QGIS](https://qgis.org/en/site/): GIS handling
 	- [Google Earth](https://www.google.com/intl/es-419_ALL/earth/versions/#earth-pro): 
 * Office automation
-	- [LibreOffice](https://www.libreoffice.org/download/download/)
+	- [LibreOffice](https://www.libreoffice.org/download/download/): ofimatic
 * Text converter
 	- [Pandoc](https://pandoc.org/installing.html): universal file text converter
 * Rich text editor
 	- [Texts](http://www.texts.io/Texts-1.5.msi): markdown file format viewer and editor
 * Ebook manager (plus metadata editor)
-	- [Calibre](https://calibre-ebook.com/download)
+	- [Calibre](https://calibre-ebook.com/download): multi-format ebook reader, cataloguer
 * PDF virtual printer
-	- [doPDF](https://www.dopdf.com/download.html)
-	- [PDFCreator](https://www.pdfforge.org/pdfcreator/download)
+	- [doPDF](https://www.dopdf.com/download.html): virtual pdf driver 
+	- [PDFCreator](https://www.pdfforge.org/pdfcreator/download): virtual pdf driver 
 * PDF Reader
-	- [Foxit Reader](https://www.foxitsoftware.com/downloads/#Foxit-Reader/)
+	- [Foxit Reader](https://www.foxitsoftware.com/downloads/#Foxit-Reader/): pdf reader 
 * PDF Viewer
 	- [SumatraPDF](https://www.sumatrapdfreader.org/download.html): with capabilities of become a EPUB, MOBI, FB2, CHM, XPS, DjVu file format reader too.
 	- ~~[Okular](https://okular.kde.org): with capabilities of become a EPUB, MOBI, FB2, CHM, XPS, DjVu file format reader too.~~
@@ -86,14 +86,13 @@
 	- [Clay-viewer](https://github.com/pissang/clay-viewer/releases)
 	- [3DEM](http://www.hangsim.com/files/3dem_setup.exe)
 * Image enhancer & editor
-	- [Dstretch](http://www.dstretch.com)
-	- [GIMP](https://www.gimp.org/)
-	- [ImageMagick](https://imagemagick.org/script/download.php#windows)
+	- [Dstretch](http://www.dstretch.com): imageJ plugin for the rock art digital treatment
+	- [GIMP](https://www.gimp.org/): image editor and converter
+	- [ImageMagick](https://imagemagick.org/script/download.php#windows): image editor and converter
 	- [Dark Table](https://www.darktable.org/install/#windows): image treatment, enhancer in a non destructive way
 	- [DigiKam](https://www.digikam.org/download/): photo management
-	- [DJVUlibre](https://sourceforge.net/projects/djvu/files/DjVuLibre_Windows/): image viewer
-	- [ImageJ](https://imagej.nih.gov/ij/): Java-based image editing
-
+	- [DJVUlibre](https://sourceforge.net/projects/djvu/files/DjVuLibre_Windows/): DJVU viewer 
+	- [ImageJ](https://imagej.nih.gov/ij/): Java-based image processing and analysis
 * Document management
 	- [PaperWork](https://openpaper.work/en-us/)
 * Digital notebook / Note taking
@@ -101,7 +100,7 @@
 		+ Add this add-on: [Evernote for Firefox](https://addons.mozilla.org/es/firefox/addon/evernote-web-clipper/); [Evernote for Google Chrome](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?hl=es); 
 	- [OneNote](https://www.microsoft.com/en-us/p/onenote/9wzdncrfhvjl?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-0bWFkjY_lWttiRhTw72ecw&epi=TnL5HPStwNw-0bWFkjY_lWttiRhTw72ecw&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=(ir__wwnolxiwuskfryltkk0sohzj0e2xg3nobfo3xfww00)(7593)(1243925)(TnL5HPStwNw-0bWFkjY_lWttiRhTw72ecw)()&irclickid=_wwnolxiwuskfryltkk0sohzj0e2xg3nobfo3xfww00&activetab=pivot:overviewtab)
 		+ Add this add-on: [OneNote for Google Chrome](https://www.onenote.com/clipper)
-	- [Notepad++](https://notepad-plus-plus.org/downloads/)
+	- [Notepad++](https://notepad-plus-plus.org/downloads/): NotePad enhanced
 * FTP
 	- [FileZilla](https://filezilla-project.org/): file sharing and uploader to webservers
 * Video calls
@@ -110,15 +109,15 @@
 * Network tools
 	- [Wireshark](https://www.wireshark.org/#download): wifi analyzer
 * Bibliography searcher
-	- [ScienceFair](http://sciencefair-app.com/)
+	- [ScienceFair](http://sciencefair-app.com/): discover, collect, organise, read and analyse scientific papers.
 * Virtual server environment
-	- [WampServer](http://www.wampserver.com/en/#download-wrapper)
+	- [WampServer](http://www.wampserver.com/en/#download-wrapper): PHP, MySQL and Apache running on Windows
 * Data validator 
-	- [DataProofer](https://github.com/dataproofer/Dataproofer/releases)
-	- [Talent open studio for data quality](https://www.talend.com/products/data-quality/data-quality-open-studio/)
-	- [OpenRefine](http://openrefine.org/download.html)
+	- [DataProofer](https://github.com/dataproofer/Dataproofer/releases): proofreader for your data
+	- [Talent open studio for data quality](https://www.talend.com/products/data-quality/data-quality-open-studio/): Data profiling and analytics with graphical charts and drilldown data
+	- [OpenRefine](http://openrefine.org/download.html): tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data
 * Hash validators
-	- [md5-app](https://github.com/mhmdkrmabd/md5-app/releases)
+	- [md5-app](https://github.com/mhmdkrmabd/md5-app/releases): creates and verifies an MD5 hash value with a focus on securitization of data
 * Statistics
 	- [R](http://cran.r-project.org/mirrors.html)
 	- [R Studio](https://rstudio.com/products/rstudio/download/)
