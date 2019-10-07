@@ -4,7 +4,7 @@
 
 # RATIONALE #
 
-* First time installation procedures. A _quick-list_ of software to install with a focus on open-source projects mostly for the Microsoft Windows realm. By the way, a repo in _perpetual_ progress
+* First time installation procedures. A _quick-list_ of software to install with a focus on open-source projects mostly for the Microsoft Windows© realm. By the way, a repo in _perpetual_ progress
 * This repo is a living document that will grow and adapt over time according to meet needs, budget, CPU's power, internal projects, etc.
 
 ![software.png](https://bitbucket.org/repo/p8AERab/images/3938803628-2498552050-transfer.jpg)
@@ -12,7 +12,7 @@
 ### What is this repository for? ###
 
 * Quick summary
-    - A quick-list of software to install in a brand new CPU, with a focus on open-source tools
+    - A quick-list of software to install in a brand new CPU, with a focus on open-source software tools
 * Version 1.01
 
 ### How do I get set up? ###
