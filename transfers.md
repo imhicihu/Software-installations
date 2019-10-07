@@ -59,7 +59,7 @@
 | [Dark Table](https://www.darktable.org/install/#windows)     | WeTransfer                                                             |
 | [DigiKam](https://www.digikam.org/download/)                 | WeTransfer                                                   |
 | [DJVUlibre](https://sourceforge.net/projects/djvu/files/DjVuLibre_Windows/) | WeTransfer                                                             |
-| [ImageJ](https://imagej.nih.gov/ij/)                         | WeTransfer                                                   |
+| [ImageJ](https://imagej.nih.gov/ij/) (needs Oracle Java installed previously) | WeTransfer                                                   |
 | [PaperWork](https://openpaper.work/en-us/)                   | WeTransfer                                                             |
 | [Evernote](https://evernote.com)                             | Needs a pc with a Windows environment to download the main app                                                             |
 | [OneNote](https://www.microsoft.com/en-us/p/onenote/9wzdncrfhvjl?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-0bWFkjY_lWttiRhTw72ecw&epi=TnL5HPStwNw-0bWFkjY_lWttiRhTw72ecw&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=(ir__wwnolxiwuskfryltkk0sohzj0e2xg3nobfo3xfww00)(7593)(1243925)(TnL5HPStwNw-0bWFkjY_lWttiRhTw72ecw)()&irclickid=_wwnolxiwuskfryltkk0sohzj0e2xg3nobfo3xfww00&activetab=pivot:overviewtab) | Needs an hotmail account. And a Windows environment to install it |
