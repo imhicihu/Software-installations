@@ -1,11 +1,11 @@
 ## Software to install (mostly Microsoft Windows® environment)
 * Backup
 	- [Duplicati](https://www.duplicati.com/): backup software with multiple options: schedule tasks, data encryption, etc.
-	- [Google Backup and sync](https://www.google.com/drive/download/backup-and-sync/)
+	- [Google Backup and sync](https://www.google.com/drive/download/backup-and-sync/): Windows-based backup tool
 * Windows cleaning
 	- [Ccleaner](https://www.ccleaner.com/)
 * Defragmenter
-	- [Defraggler](https://www.ccleaner.com/defraggler)
+	- [Defraggler](https://www.ccleaner.com/defraggler): disk drive defragmenter
 * Recover deleted files
 	- [Recuva](https://www.ccleaner.com/recuva)
 * Hard disk cloner
@@ -16,8 +16,8 @@
 * Virtual drive
 	- [Daemon Tools _lite_](https://www.daemon-tools.cc/products/dtLite): virtual disc drive
 * Compressors
-	- [7-Zip](https://www.7-zip.org/)
-	- [Peazip](https://www.peazip.org/)
+	- [7-Zip](https://www.7-zip.org/): multi-format file types handler
+	- [Peazip](https://www.peazip.org/): compressor and handler of compressed files
 	- [HJSplit](https://www.usitility.com/es/hjsplit/): multipart zip processor
 * Data backup
 	- [ImgBurn](http://www.imgburn.com/): CD/DVD/DVD/Blu-ray burning application
@@ -29,11 +29,11 @@
 * Data collector
 	- [Speccy](https://www.ccleaner.com/speccy): data collected about hardware
 * Video viewer
-	- [VLC](http://www.videolan.org)
+	- [VLC](http://www.videolan.org): multi-format viewer
 * Video codecs
-	- [K-Lite Codec Pack](https://codecguide.com/download_kl.htm)
+	- [K-Lite Codec Pack](https://codecguide.com/download_kl.htm): multi-format file format handler
 * RAW viewer
-	- [Filmulator](https://github.com/CarVac/filmulator-gui/releases)	
+	- ~~[Filmulator](https://github.com/CarVac/filmulator-gui/releases)~~ (No binaries to install, so out of this list)
 * Cloud hosting
 	- [Dropbox](https://dropbox.com/): cloud hosting
 * Browsers
@@ -47,16 +47,16 @@
 	- [Windows XP Mode for Windows 7](https://www.microsoft.com/es-ar/download/details.aspx?id=8002): virtual Windows XP on Windows 7
 * Android emulators
 	- [BlueStacks](https://www.bluestacks.com/bluestacks-android-n.html): android emulator
-	- [GenyMotion](https://www.genymotion.com/desktop/): android emulator
+	- ~~[GenyMotion](https://www.genymotion.com/desktop/): android emulator~~
 * GIS & maps
-	- [QGIS](https://qgis.org/en/site/)
-	- [Google Earth](https://www.google.com/intl/es-419_ALL/earth/versions/#earth-pro)
+	- [QGIS](https://qgis.org/en/site/): GIS handling
+	- [Google Earth](https://www.google.com/intl/es-419_ALL/earth/versions/#earth-pro): 
 * Office automation
 	- [LibreOffice](https://www.libreoffice.org/download/download/)
 * Text converter
-	- [Pandoc](https://pandoc.org/installing.html): universal text converter
+	- [Pandoc](https://pandoc.org/installing.html): universal file text converter
 * Rich text editor
-	- [Texts](http://www.texts.io/Texts-1.5.msi)
+	- [Texts](http://www.texts.io/Texts-1.5.msi): markdown file format viewer and editor
 * Ebook manager (plus metadata editor)
 	- [Calibre](https://calibre-ebook.com/download)
 * PDF virtual printer
@@ -77,7 +77,7 @@
 * Raster image viewer
 	- [Xnview MP](https://www.xnview.com/en/xnviewmp/)
 * Font Management
-	- [Fontba.se](https://fontba.se/)
+	- [Fontba.se](https://fontba.se/): tipography management
 * 3D editing
 	- [Meshlab](http://www.meshlab.net)
 	- [Blender](https://www.blender.org)
@@ -103,12 +103,12 @@
 		+ Add this add-on: [OneNote for Google Chrome](https://www.onenote.com/clipper)
 	- [Notepad++](https://notepad-plus-plus.org/downloads/)
 * FTP
-	- [FileZilla](https://filezilla-project.org/)
+	- [FileZilla](https://filezilla-project.org/): file sharing and uploader to webservers
 * Video calls
-	- [Skype](https://www.skype.com/es/get-skype/)
-	- [Zoom.us](https://zoom.us/download#client_4meeting)
+	- [Skype](https://www.skype.com/es/get-skype/): virtual meetings
+	- [Zoom.us](https://zoom.us/download#client_4meeting): virtual meetings
 * Network tools
-	- [Wireshark](https://www.wireshark.org/#download)
+	- [Wireshark](https://www.wireshark.org/#download): wifi analyzer
 * Bibliography searcher
 	- [ScienceFair](http://sciencefair-app.com/)
 * Virtual server environment
