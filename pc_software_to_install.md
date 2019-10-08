@@ -36,6 +36,8 @@
 	- ~~[Filmulator](https://github.com/CarVac/filmulator-gui/releases)~~ (No binaries to install, so out of the scope of this list)
 * Cloud hosting
 	- [Dropbox](https://www.dropbox.com/es/downloading): cloud hosting
+* File syncronization
+	-  [FreeFileSync](https://freefilesync.org/download.php): folder comparison and synchronization that creates and manages backup copies of all kind of files
 * Browsers
 	- [Google Chrome](https://www.google.com/intl/es-419/chrome/): internet browser
 	- [Mozilla Firefox](https://www.mozilla.org/es-AR/firefox/): internet browser
