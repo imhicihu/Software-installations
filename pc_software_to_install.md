@@ -90,6 +90,7 @@
 * Image enhancer & editor
 	- [Dstretch](http://www.dstretch.com): imageJ plugin for the rock art digital treatment
 	- [GIMP](https://www.gimp.org/): image editor and converter
+	- [GIMPshop](https://www.gimpshop.com/downloads): free alternative to Photoshop
 	- [ImageMagick](https://imagemagick.org/script/download.php#windows): image editor and converter
 	- [Dark Table](https://www.darktable.org/install/#windows): image treatment, enhancer in a non destructive way
 	- [DigiKam](https://www.digikam.org/download/): photo management
