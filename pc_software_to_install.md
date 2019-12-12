@@ -124,6 +124,8 @@
 * Statistics
 	- [R](http://cran.r-project.org/mirrors.html)
 	- [R Studio](https://rstudio.com/products/rstudio/download/)
+* Updater (automatic watchdog for updates)
+	- [RoboGet](https://github.com/Mirinsoft/Roboget/releases)
 * Maps treatment
 	- [cGPSMapper](https://www.gpsfiledepot.com/tools/cgpsmapper.php)
 	- [GMapTool](https://www.gmaptool.eu/en/content/windows-setup): program for splitting and merging maps in Garmin format
