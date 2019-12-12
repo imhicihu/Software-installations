@@ -4,6 +4,7 @@
 	- [Google Backup and sync](https://www.google.com/drive/download/backup-and-sync/): Windows-based backup tool
 * Windows cleaning
 	- [Ccleaner](https://www.ccleaner.com/)
+	- [Cleanmgr+](https://www.getclone.app/cleanmgrplus)
 * Defragmenter
 	- [Defraggler](https://www.ccleaner.com/defraggler): disk drive defragmenter
 * Recover deleted files
