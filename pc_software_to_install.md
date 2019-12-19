@@ -5,6 +5,9 @@
 * Windows cleaning
 	- [Ccleaner](https://www.ccleaner.com/)
 	- [Cleanmgr+](https://www.getclone.app/cleanmgrplus)
+* Text editor (multipurpose)
+	- [Atom](http://atom.io/
+	- [Brackets](http://brackets.io/)
 * Defragmenter
 	- [Defraggler](https://www.ccleaner.com/defraggler): disk drive defragmenter
 * Recover deleted files
