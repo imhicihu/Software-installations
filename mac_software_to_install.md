@@ -6,6 +6,9 @@
     - [MachineProfile](http://www.micromat.com/products/machineprofile)
 * Virtual drive
 	- [Daemon Tools _lite_](https://www.daemon-tools.cc/products/dtLite): virtual disc drive
+* Text editor (multipurpose)
+	- [Atom](http://atom.io/
+	- [Brackets](http://brackets.io/)
 * Compressors
 	- [7-Zip](https://www.7-zip.org/): multi-format file types handler
 	- [Peazip](https://www.peazip.org/): compressor and handler of compressed files
