@@ -7,7 +7,7 @@
 * Virtual drive
 	- [Daemon Tools _lite_](https://www.daemon-tools.cc/products/dtLite): virtual disc drive
 * Text editor (multipurpose)
-	- [Atom](http://atom.io/
+	- [Atom](http://atom.io/)
 	- [Brackets](http://brackets.io/)
 * Compressors
 	- [7-Zip](https://www.7-zip.org/): multi-format file types handler
@@ -34,6 +34,8 @@
 	- [Mozilla Firefox](https://www.mozilla.org/es-AR/firefox/): internet browser
 	- [Vivaldi](https://vivaldi.com/): internet browser
 	- [Opera](https://www.opera.com/es): internet browser
+* Personal groups, files, and chat
+	- [Keybase](https://keybase.io/)
 * Virtualization
 	- [Oracle VirtualBox](https://www.virtualbox.org): virtualization of operating systems, _et. al._
 	- [Virtualbox extension pack](https://www.virtualbox.org/wiki/Downloads): add-on for Oracle VirtualBox
