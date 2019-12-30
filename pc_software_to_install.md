@@ -12,6 +12,8 @@
 	- [Defraggler](https://www.ccleaner.com/defraggler): disk drive defragmenter
 * Recover deleted files
 	- [Recuva](https://www.ccleaner.com/recuva)
+* Personal groups, files, and chat
+	- [Keybase](https://keybase.io/)
 * Hard disk cloner
 	- [Cloneapp](http://www.mirinsoft.com/download/category/2-cloneapp): backup Application Settings of Windows programs
 	- [CloneApp UA](http://www.mirinsoft.com/download/category/13-ca-ua): backup Application Settings of Universal apps (UWP)
