@@ -114,6 +114,7 @@
 	- [iTunes](https://www.apple.com/la/itunes/)
 	- [Adobe Flash player](https://get.adobe.com/es/flashplayer/)
 	- [Java](https://www.java.com/es/download/)
+	- [Talus](https://github.com/juanbrujo/Talus): `bash` script to automate download & setup your Mac OS X development environment
 
 ## Legal ##
 
