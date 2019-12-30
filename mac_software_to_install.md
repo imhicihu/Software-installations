@@ -31,6 +31,12 @@
 	- [Syncthing](https://github.com/syncthing/syncthing):file synchronization between computers
 * Browsers
 	- [Google Chrome](https://www.google.com/intl/es-419/chrome/): internet browser
+		- plus this add-ons:
+			   - [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
+			   - [Block Ads: uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+			   - [Get around paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome)
+			   - [Cookie Remover](https://chrome.google.com/webstore/detail/cookie-remover/kcgpggonjhmeaejebeoeomdlohicfhce)
+			   - [Citationsy](https://chrome.google.com/webstore/detail/citationsy/ananhmnkepfflgfdklgcdpgdngejokkn)
 	- [Mozilla Firefox](https://www.mozilla.org/es-AR/firefox/): internet browser
 	- [Vivaldi](https://vivaldi.com/): internet browser
 	- [Opera](https://www.opera.com/es): internet browser
