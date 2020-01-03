@@ -1,4 +1,4 @@
-## Software to install (mostly for the MacOSX® environment)
+## Software to install (~~mostly~~ for the MacOSX® environment)
 * Backup
 	- [Duplicati](https://www.duplicati.com/): backup software with multiple options: schedule tasks, data encryption, etc.
 	- [Google Backup and sync](https://www.google.com/drive/download/backup-and-sync/): Windows-based backup tool
@@ -37,6 +37,8 @@
 			   - [Get around paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome)
 			   - [Cookie Remover](https://chrome.google.com/webstore/detail/cookie-remover/kcgpggonjhmeaejebeoeomdlohicfhce)
 			   - [Citationsy](https://chrome.google.com/webstore/detail/citationsy/ananhmnkepfflgfdklgcdpgdngejokkn)
+			   - [Writefull](https://chrome.google.com/webstore/detail/writefull/aolaabonkiegkggfdgjjehchjmjfanng/related)
+	 		   - [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 	- [Mozilla Firefox](https://www.mozilla.org/es-AR/firefox/): internet browser
 	- [Vivaldi](https://vivaldi.com/): internet browser
 	- [Opera](https://www.opera.com/es): internet browser
