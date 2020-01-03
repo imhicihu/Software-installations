@@ -67,7 +67,7 @@
 	- ~~[Okular](https://okular.kde.org): with capabilities of become a EPUB, MOBI, FB2, CHM, XPS, DjVu file format reader too.~~
 * PDF editor
 	- [LibreOffice Draw PDF editor](https://www.libreoffice.org/download/download/)
-	- [Apache OpenOffice Draw](https://www.openoffice.org/es/descargar/index.html
+	- [Apache OpenOffice Draw](https://www.openoffice.org/es/descargar/index.html)
 	- [PDFSam](https://pdfsam.org/es/download-pdfsam-basic/)
 * Vector image editor
 	- [Inkscape](https://inkscape.org/release/)
