@@ -1,4 +1,4 @@
-## Software to install (mostly Microsoft Windows® environment)
+## Software to install (~~mostly~~ for the Microsoft Windows® environment)
 * Backup
 	- [Duplicati](https://www.duplicati.com/): backup software with multiple options: schedule tasks, data encryption, etc.
 	- [Google Backup and sync](https://www.google.com/drive/download/backup-and-sync/): Windows-based backup tool
@@ -47,12 +47,14 @@
 	- [Syncthing](https://github.com/syncthing/syncthing):file synchronization between computers
 * Browsers
 	- [Google Chrome](https://www.google.com/intl/es-419/chrome/): internet browser
-			- plus this add-ons:
+		- plus this add-ons:
 			   - [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
 			   - [Block Ads: uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 			   - [Get around paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome)
 			   - [Cookie Remover](https://chrome.google.com/webstore/detail/cookie-remover/kcgpggonjhmeaejebeoeomdlohicfhce)
 			   - [Citationsy](https://chrome.google.com/webstore/detail/citationsy/ananhmnkepfflgfdklgcdpgdngejokkn)
+			   - [Writefull](https://chrome.google.com/webstore/detail/writefull/aolaabonkiegkggfdgjjehchjmjfanng/related)
+	 		   - [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 	- [Mozilla Firefox](https://www.mozilla.org/es-AR/firefox/): internet browser
 	- [Vivaldi](https://vivaldi.com/): internet browser
 	- [Opera](https://www.opera.com/es): internet browser
