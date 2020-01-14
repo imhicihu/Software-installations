@@ -116,6 +116,8 @@
 	- [iTunes](https://www.apple.com/la/itunes/)
 	- [Adobe Flash player](https://get.adobe.com/es/flashplayer/)
 	- [Java](https://www.java.com/es/download/)
+	- [Homebrew](http://brew.sh/): package Manager for macOS
+	- [Node.js](https://nodejs.org/en/): javascript runtime
 	- [Talus](https://github.com/juanbrujo/Talus): `bash` script to automate download & setup your Mac OS X development environment
 
 ## Legal ##
