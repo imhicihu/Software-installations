@@ -112,6 +112,8 @@
 * Statistics
 	- [R](http://cran.r-project.org/mirrors.html)
 	- [R Studio](https://rstudio.com/products/rstudio/download/)
+* Math & equation editor
+	- [MacTeX](http://www.tug.org/mactex/)
 * Miscellaneous
 	- [iTunes](https://www.apple.com/la/itunes/)
 	- [Adobe Flash player](https://get.adobe.com/es/flashplayer/)
