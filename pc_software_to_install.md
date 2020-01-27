@@ -145,6 +145,8 @@
 	- [RoboGet](https://github.com/Mirinsoft/Roboget/releases)
 * Math & equation editor
 	- [Miktex](https://miktex.org/download)
+* Translator
+	- [Deepl](https://www.deepl.com/es/app/)
 * Maps treatment
 	- [cGPSMapper](https://www.gpsfiledepot.com/tools/cgpsmapper.php)
 	- [GMapTool](https://www.gmaptool.eu/en/content/windows-setup): program for splitting and merging maps in Garmin format
