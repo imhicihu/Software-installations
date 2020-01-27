@@ -12,7 +12,7 @@
 ### What is this repository for? ###
 
 * Quick summary
-    - A quick-list of software to install in a brand new CPU, with a focus on open-source software tools
+    - A quick-list of software to install in a brand new CPU, with a focus on open-source software solution tools
 * Version 1.01
 
 ### How do I get set up? ###
