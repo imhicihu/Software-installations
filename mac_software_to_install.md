@@ -116,6 +116,8 @@
 	- [R Studio](https://rstudio.com/products/rstudio/download/)
 * Math & equation editor
 	- [MacTeX](http://www.tug.org/mactex/)
+* Translator
+	- [Deepl](https://www.deepl.com/es/app/)
 * Miscellaneous
 	- [iTunes](https://www.apple.com/la/itunes/)
 	- [Adobe Flash player](https://get.adobe.com/es/flashplayer/)
