@@ -25,6 +25,8 @@
 	- [7-Zip](https://www.7-zip.org/): multi-format file types handler
 	- [Peazip](https://www.peazip.org/): compressor and handler of compressed files
 	- [HJSplit](https://www.usitility.com/es/hjsplit/): multipart zip processor
+* Database (handling and editor)
+	- [Draxed](https://www.draxed.com/download/lastest/exe): query editor; mysql & postgreSQL supported
 * Data backup
 	- [ImgBurn](http://www.imgburn.com/): CD/DVD/DVD/Blu-ray burning application
 	- [Free ISO Creator](http://www.minidvdsoft.com/isocreator/download_free_iso_creator.html): create ISO image from your files and folders
