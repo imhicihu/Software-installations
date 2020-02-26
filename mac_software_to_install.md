@@ -44,6 +44,8 @@
 	- [Mozilla Firefox](https://www.mozilla.org/es-AR/firefox/): internet browser
 	- [Vivaldi](https://vivaldi.com/): internet browser
 	- [Opera](https://www.opera.com/es): internet browser
+* Browser security
+	- [Browser audit](https://browseraudit.com/): pass test to verify the integrity of your browser. Online tool
 * Personal groups, files, and chat
 	- [Keybase](https://keybase.io/)
 * Virtualization
