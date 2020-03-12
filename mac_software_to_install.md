@@ -95,6 +95,8 @@
 	- [DigiKam](https://www.digikam.org/download/): photo management
 	- [DJView](https://sourceforge.net/projects/djview-495-for-mac/): DJVU viewer 
 	- [ImageJ](https://imagej.nih.gov/ij/): Java-based image processing and analysis
+* Image to pdf
+	- [Alchemy](https://dawnlabs.github.io/alchemy/)
 * Document management
 	- ~~[PaperWork](https://openpaper.work/en-us/)~~
 * Digital notebook / Note taking
