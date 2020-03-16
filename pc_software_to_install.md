@@ -156,6 +156,7 @@
 * Miscellaneous
 	- [iTunes](https://www.apple.com/la/itunes/)
 	- [Adobe Flash player](https://get.adobe.com/es/flashplayer/)
+	- [Veusz](https://github.com/veusz/veusz/releases/download/veusz-3.2/veusz-3.2.0.1-windows-setup.exe): a scientific plotting package
 	- [Rufus](https://rufus.ie/): create bootable usb drives
 	- [File Optimizer](https://sourceforge.net/projects/nikkhokkho/files/latest/download)
 	- [Java](https://www.java.com/es/download/)
