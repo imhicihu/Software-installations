@@ -125,6 +125,7 @@
 * Miscellaneous
 	- [iTunes](https://www.apple.com/la/itunes/)
 	- [Adobe Flash player](https://get.adobe.com/es/flashplayer/)
+	- [Veusz](https://github.com/veusz/veusz/releases/download/veusz-3.2/veusz-3.2-AppleOSX.dmg): a scientific plotting package
 	- [Java](https://www.java.com/es/download/)
 	- [Homebrew](http://brew.sh/): package Manager for macOS
 	- [Node.js](https://nodejs.org/en/): javascript runtime
