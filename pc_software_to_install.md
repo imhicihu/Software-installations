@@ -130,6 +130,8 @@
 	- [Zoom.us](https://zoom.us/download#client_4meeting): virtual meetings
 * Network tools
 	- [Wireshark](https://www.wireshark.org/#download): wifi analyzer
+* Messaging (multi-platform)
+	- [Ferdi](https://getferdi.com/download)
 * Bibliography searcher
 	- [ScienceFair](http://sciencefair-app.com/): discover, collect, organise, read and analyse scientific papers.
 * Virtual server environment
