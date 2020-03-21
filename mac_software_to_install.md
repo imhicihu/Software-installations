@@ -27,7 +27,7 @@
 * RAW viewer
 	- ~~[Filmulator](https://github.com/CarVac/filmulator-gui/releases)~~ (No binaries to install, so out of the scope of this list)
 * Cloud hosting
-	- [Dropbox](https://www.dropbox.com/es/downloading): cloud hosting
+	- [Dropbox](https://www.dropbox.com/es/downloading)
 * File syncronization
 	-  [FreeFileSync](https://freefilesync.org/download.php): folder comparison and synchronization that creates and manages backup copies of all kind of files
 	- [Syncthing](https://github.com/syncthing/syncthing):file synchronization between computers
@@ -107,6 +107,8 @@
 	- [Zoom.us](https://zoom.us/download#client_4meeting): virtual meetings
 * Network tools
 	- [Wireshark](https://www.wireshark.org/#download): wifi analyzer
+* Messaging (multi-platform)
+	- [Ferdi](https://getferdi.com/download)
 * Bibliography searcher
 	- [ScienceFair](http://sciencefair-app.com/): discover, collect, organise, read and analyse scientific papers.
 * Virtual server environment
