@@ -109,6 +109,8 @@
 	- [Wireshark](https://www.wireshark.org/#download): wifi analyzer
 * Messaging (multi-platform)
 	- [Ferdi](https://getferdi.com/download)
+* Bibliographic & personal research assistant
+	- [Zotero](https://www.zotero.org/download)
 * Bibliography searcher
 	- [ScienceFair](http://sciencefair-app.com/): discover, collect, organise, read and analyse scientific papers.
 * Virtual server environment
