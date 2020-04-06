@@ -77,6 +77,8 @@
 	- [Inkscape](https://inkscape.org/release/)
 * Raster image viewer
 	- [Xnview MP](https://www.xnview.com/en/xnviewmp/)
+* Password management
+	- [KeeWeb](https://github.com/keeweb/keeweb/releases/)
 * Font Management
 	- [Fontba.se](https://fontba.se/): tipography management
 * 3D editing
@@ -135,6 +137,7 @@
 	- [Node.js](https://nodejs.org/en/): javascript runtime
 	- [Rectangle](https://rectangleapp.com/): management of system windows
 	- [Talus](https://github.com/juanbrujo/Talus): `bash` script to automate download & setup your Mac OS X development environment
+	- [Advanced Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp/releases): 
 
 ## Legal ##
 
