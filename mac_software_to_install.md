@@ -114,7 +114,7 @@
 * Bibliography searcher
 	- [ScienceFair](http://sciencefair-app.com/): discover, collect, organise, read and analyse scientific papers.
 * Virtual server environment
-	- [WampServer](http://www.wampserver.com/en/#download-wrapper): PHP, MySQL and Apache running on Windows
+	- [AMPPS](http://www.ampps.com/download): PHP, MySQL and Apache running on OSX El Capitan (10.11) or later.
 * Data validator 
 	- [DataProofer](https://github.com/dataproofer/Dataproofer/releases): proofreader for your data
 	- [Talent open studio for data quality](https://www.talend.com/products/data-quality/data-quality-open-studio/): Data profiling and analytics with graphical charts and drilldown data
