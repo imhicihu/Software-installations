@@ -82,6 +82,8 @@
 	- [KeeWeb](https://github.com/keeweb/keeweb/releases/)
 * Font Management
 	- [Fontba.se](https://fontba.se/): tipography management
+* Note taking
+	- [Joplin](https://joplinapp.org/)
 * 3D editing
 	- [Meshlab](http://www.meshlab.net)
 	- [Blender](https://www.blender.org)
