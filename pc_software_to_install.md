@@ -8,6 +8,7 @@
 * Text editor (multipurpose)
 	- [Atom](http://atom.io/)
 	- [Brackets](http://brackets.io/)
+	- [Notepad++](https://notepad-plus-plus.org/downloads/): NotePad enhanced
 * Defragmenter
 	- [Defraggler](https://www.ccleaner.com/defraggler): disk drive defragmenter
 * Recover deleted files
@@ -119,10 +120,10 @@
 	- [PaperWork](https://openpaper.work/en-us/)
 * Digital notebook / Note taking
 	- [Evernote](https://evernote.com): offline and online mode. Cloud based. 
-		+ Add this add-on: [Evernote for Firefox](https://addons.mozilla.org/es/firefox/addon/evernote-web-clipper/); [Evernote for Google Chrome](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?hl=es); 
+		+ Add this add-on: [Evernote for Firefox](https://addons.mozilla.org/es/firefox/addon/evernote-web-clipper/); [Evernote for Google Chrome](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?hl=es)
+	- [Joplin](https://joplinapp.org/)
 	- [OneNote](https://www.microsoft.com/en-us/p/onenote/9wzdncrfhvjl?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-0bWFkjY_lWttiRhTw72ecw&epi=TnL5HPStwNw-0bWFkjY_lWttiRhTw72ecw&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=(ir__wwnolxiwuskfryltkk0sohzj0e2xg3nobfo3xfww00)(7593)(1243925)(TnL5HPStwNw-0bWFkjY_lWttiRhTw72ecw)()&irclickid=_wwnolxiwuskfryltkk0sohzj0e2xg3nobfo3xfww00&activetab=pivot:overviewtab)
 		+ Add this add-on: [OneNote for Google Chrome](https://www.onenote.com/clipper)
-	- [Notepad++](https://notepad-plus-plus.org/downloads/): NotePad enhanced
 * FTP
 	- [FileZilla](https://filezilla-project.org/): file sharing and uploader to webservers
 * Video calls
