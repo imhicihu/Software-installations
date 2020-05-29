@@ -126,9 +126,10 @@
 		+ Add this add-on: [OneNote for Google Chrome](https://www.onenote.com/clipper)
 * FTP
 	- [FileZilla](https://filezilla-project.org/): file sharing and uploader to webservers
-* Video calls
+* Video meetings
 	- [Skype](https://www.skype.com/es/get-skype/): virtual meetings
 	- [Zoom.us](https://zoom.us/download#client_4meeting): virtual meetings
+	- [Google Meet](https://meet.google.com): virtual meetings
 * Network tools
 	- [Wireshark](https://www.wireshark.org/#download): wifi analyzer
 * Messaging (multi-platform)
