@@ -4,8 +4,6 @@
 	- [Google Backup and sync](https://www.google.com/drive/download/backup-and-sync/): Windows-based backup tool
 * Hardware profiler
     - [MachineProfile](http://www.micromat.com/products/machineprofile)
-* Virtual drive
-	- [Daemon Tools _lite_](https://www.daemon-tools.cc/products/dtLite): virtual disc drive
 * Text editor (multipurpose)
 	- [Atom](http://atom.io/)
 	- [Brackets](http://brackets.io/)
@@ -107,9 +105,10 @@
 * Digital notebook / Note taking
 	- [Evernote](https://evernote.com): offline and online mode. Cloud based. 
 		+ Add this add-on: [Evernote for Firefox](https://addons.mozilla.org/es/firefox/addon/evernote-web-clipper/); [Evernote for Google Chrome](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?hl=es); 
-* Video calls
+* Video meetings
 	- [Skype](https://www.skype.com/es/get-skype/): virtual meetings
 	- [Zoom.us](https://zoom.us/download#client_4meeting): virtual meetings
+	- [Google Meet](https://meet.google.com): virtual meetings
 * Network tools
 	- [Wireshark](https://www.wireshark.org/#download): wifi analyzer
 * Messaging (multi-platform)
@@ -142,7 +141,6 @@
 	- [Talus](https://github.com/juanbrujo/Talus): `bash` script to automate download & setup your Mac OS X development environment
 	- [Advanced Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp/releases):
 	- [Folding@home](https://foldingathome.org/start-folding/): fighting diseases donating processing's computer (runs in background mode)
-
 
 ## Legal ##
 
