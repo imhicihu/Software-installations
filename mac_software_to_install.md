@@ -27,7 +27,7 @@
 * Cloud hosting
 	- [Dropbox](https://www.dropbox.com/es/downloading)
 * File syncronization
-	-  [FreeFileSync](https://freefilesync.org/download.php): folder comparison and synchronization that creates and manages backup copies of all kind of files
+	- [FreeFileSync](https://freefilesync.org/download.php): folder comparison and synchronization that creates and manages backup copies of all kind of files
 	- [Syncthing](https://github.com/syncthing/syncthing):file synchronization between computers
 * Browsers
 	- [Google Chrome](https://www.google.com/intl/es-419/chrome/): internet browser
@@ -114,8 +114,9 @@
 	- [Wireshark](https://www.wireshark.org/#download): wifi analyzer
 * Messaging (multi-platform)
 	- [Ferdi](https://getferdi.com/download)
-* Bibliographic & personal research assistant
+* Bibliographic & citation & personal research assistant
 	- [Zotero](https://www.zotero.org/download)
+	- [Citationsy](https://apps.apple.com/us/app/citationsy/id1410212159): bibliographic citation organizer
 * Bibliography searcher
 	- [ScienceFair](http://sciencefair-app.com/): discover, collect, organise, read and analyse scientific papers.
 * Virtual server environment
