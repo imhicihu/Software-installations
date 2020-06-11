@@ -136,6 +136,7 @@
 	- [Deepl](https://www.deepl.com/es/app/)
 * Hard disk & pendrives (access)
 	- [ntfstool](https://github.com/ntfstool/ntfstool/releases)
+	- [Mounty for NTFS](https://mounty.app/releases/Mounty.dmg)
 * Miscellaneous
 	- [iTunes](https://www.apple.com/la/itunes/)
 	- [Adobe Flash player](https://get.adobe.com/es/flashplayer/)
