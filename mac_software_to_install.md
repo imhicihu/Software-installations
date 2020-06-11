@@ -134,6 +134,8 @@
 	- [MacTeX](http://www.tug.org/mactex/)
 * Translator
 	- [Deepl](https://www.deepl.com/es/app/)
+* Hard disk & pendrives (access)
+	- [ntfstool](https://github.com/ntfstool/ntfstool/releases)
 * Miscellaneous
 	- [iTunes](https://www.apple.com/la/itunes/)
 	- [Adobe Flash player](https://get.adobe.com/es/flashplayer/)
