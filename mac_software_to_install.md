@@ -146,7 +146,7 @@
 	- [Node.js](https://nodejs.org/en/): javascript runtime
 	- [Rectangle](https://rectangleapp.com/): management of system windows
 	- [Talus](https://github.com/juanbrujo/Talus): `bash` script to automate download & setup your Mac OS X development environment
-	- [Advanced Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp/releases):
+	- [~~Advanced~~ Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp/releases):
 	- [Folding@home](https://foldingathome.org/start-folding/): fighting diseases donating processing's computer (runs in background mode)
 
 ## Legal ##
