@@ -1,18 +1,14 @@
-## Software to install (~~mostly~~ for the MacOSX® environment)
+## Software to install (~~mostly~~ for the Linux® environment)
 * Backup
-	- [Duplicati](https://www.duplicati.com/): backup software with multiple options: schedule tasks, data encryption, etc.
+	- [Duplicati](https://github.com/duplicati/duplicati/releases): backup software with multiple options: schedule tasks, data encryption, etc.
 	- [Google Backup and sync](https://apps.apple.com/app/google-drive/id507874739): Cloud-based backup tool
-* Hardware profiler
-    - [MachineProfile](http://www.micromat.com/products/machineprofile)
 * Text editor (multipurpose)
-	- [Atom](http://atom.io/)
-	- [Brackets](http://brackets.io/)
+	- [Atom](https://github.com/atom/atom/releases/)
+	- [Brackets](https://github.com/adobe/brackets/releases)
 * Compressors
-	- [7-Zip](https://www.7-zip.org/): multi-format file types handler
-	- [Peazip](https://www.peazip.org/): compressor and handler of compressed files
-	- [HJSplit](https://www.usitility.com/es/hjsplit/): multipart zip processor
+	- [Peazip](https://www.peazip.org/peazip-linux.html): compressor and handler of compressed files
 * Data backup
-	- [ImgBurn](http://www.imgburn.com/): CD/DVD/DVD/Blu-ray burning application
+	- [Nero Linux](http://www.nero.com/eng/downloads/previous-versions/download-linux4-update.php?vlang=en): CD/DVD/DVD/Blu-ray burning application
 	- [Free ISO Creator](http://www.minidvdsoft.com/isocreator/download_free_iso_creator.html): create ISO image from your files and folders
 	- [IsoCreator](https://sourceforge.net/projects/iso-creator-cs/): creates ISO 9660 Joliet images
 	- [Iso Recorder](http://isorecorder.alexfeinman.com/#/): creates ISO 9660 Joliet images
