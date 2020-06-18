@@ -1,7 +1,7 @@
 ## Software to install (~~mostly~~ for the MacOSX® environment)
 * Backup
 	- [Duplicati](https://www.duplicati.com/): backup software with multiple options: schedule tasks, data encryption, etc.
-	- [Google Backup and sync](https://www.google.com/drive/download/backup-and-sync/): Windows-based backup tool
+	- [Google Backup and sync](https://apps.apple.com/app/google-drive/id507874739): Cloud-based backup tool
 * Hardware profiler
     - [MachineProfile](http://www.micromat.com/products/machineprofile)
 * Text editor (multipurpose)
