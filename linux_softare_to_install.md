@@ -15,7 +15,7 @@
 	- [GnomeBaker](https://www.unixmen.com/how-to-install-gnomebaker-in-ubuntu/)
 	- [K3b](https://sourceforge.net/projects/k3b/)
 * Database (handling and editor)
-	- [Draxed](https://www.draxed.com/download/lastest/dmg): query editor; mysql & postgreSQL supported
+	- [Draxed](https://www.draxed.com/download): query editor; mysql & postgreSQL supported
 * Video viewer
 	- [VLC](https://www.videolan.org/vlc/#download): multi-format viewer
 * RAW viewer
@@ -73,20 +73,17 @@
 * Note taking
 	- [Joplin](https://joplinapp.org/)
 * 3D editing
-	- [Meshlab](http://www.meshlab.net)
-	- [Blender](https://www.blender.org)
+	- [Meshlab](https://www.meshlab.net/#download)
+	- [Blender](https://www.blender.org/download/)
 	- [Cloud Compare](http://www.cloudcompare.org/release/index.html)
 * 3d file viewer
 	- [Clay-viewer](https://github.com/pissang/clay-viewer/releases)
-	- ~~[3DEM](http://www.hangsim.com/files/3dem_setup.exe)~~
 * Image enhancer & editor
-	- [Dstretch](http://www.dstretch.com): imageJ plugin for the rock art digital treatment
-	- [GIMP](https://www.gimp.org/): image editor and converter
+	- [GIMP](https://www.gimp.org/downloads/): image editor and converter
 	- [GIMPshop](https://www.gimpshop.com/downloads): free alternative to Photoshop
 	- [ImageMagick](https://imagemagick.org/script/download.php#): image editor and converter
-	- [Dark Table](http://www.darktable.org/install/#macos): image treatment, enhancer in a non destructive way
+	- [Dark Table](https://www.darktable.org/install/): image treatment, enhancer in a non destructive way
 	- [DigiKam](https://www.digikam.org/download/): photo management
-	- [DJView](https://sourceforge.net/projects/djview-495-for-mac/): DJVU viewer 
 	- [ImageJ](https://imagej.nih.gov/ij/): Java-based image processing and analysis
 * Image to pdf
 	- [Alchemy](https://dawnlabs.github.io/alchemy/)
