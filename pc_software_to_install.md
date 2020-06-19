@@ -110,7 +110,6 @@
 	- [Clay-viewer](https://github.com/pissang/clay-viewer/releases)
 	- [3DEM](http://www.hangsim.com/files/3dem_setup.exe)
 * Image enhancer & editor
-	- [Dstretch](http://www.dstretch.com): imageJ plugin for the rock art digital treatment
 	- [GIMP](https://www.gimp.org/): image editor and converter
 	- [GIMPshop](https://www.gimpshop.com/downloads): free alternative to Photoshop
 	- [ImageMagick](https://imagemagick.org/script/download.php#windows): image editor and converter
