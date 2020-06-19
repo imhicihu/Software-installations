@@ -62,6 +62,7 @@
 	- [LibreOffice Draw PDF editor](https://www.libreoffice.org/download/download/)
 	- [Apache OpenOffice Draw](https://www.openoffice.org/es/descargar/index.html)
 	- [PDFSam](https://pdfsam.org/es/download-pdfsam-basic/)
+	- [PDF-Shuffle](https://sourceforge.net/projects/pdfshuffler/)
 * Vector image editor
 	- [Inkscape](https://inkscape.org/release/)
 * Raster image viewer
@@ -88,7 +89,7 @@
 * Image to pdf
 	- [Alchemy](https://dawnlabs.github.io/alchemy/)
 * Document management
-	- ~~[PaperWork](https://openpaper.work/en-us/)~~
+	- [PaperWork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork/#installation): personal document manager. It manages scanned documents and PDFs
 * Digital notebook / Note taking
 	- [Evernote](https://evernote.com): offline and online mode. Cloud based. 
 		+ Add this add-on: [Evernote for Firefox](https://addons.mozilla.org/es/firefox/addon/evernote-web-clipper/); [Evernote for Google Chrome](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?hl=es); 
@@ -96,42 +97,25 @@
 	- [Skype](https://www.skype.com/es/get-skype/): virtual meetings
 	- [Zoom.us](https://zoom.us/download#client_4meeting): virtual meetings
 	- [Google Meet](https://meet.google.com): virtual meetings
-* Network tools
-	- [Wireshark](https://www.wireshark.org/#download): wifi analyzer
 * Messaging (multi-platform)
 	- [Ferdi](https://getferdi.com/download)
 * Bibliographic & citation & personal research assistant
 	- [Zotero](https://www.zotero.org/download)
-	- [Citationsy](https://apps.apple.com/us/app/citationsy/id1410212159): bibliographic citation organizer
 * Bibliography searcher
-	- [ScienceFair](http://sciencefair-app.com/): discover, collect, organise, read and analyse scientific papers.
+	- [ScienceFair](http://sciencefair-app.com/#install): discover, collect, organise, read and analyse scientific papers
 * Virtual server environment
-	- [AMPPS](http://www.ampps.com/download): PHP, MySQL and Apache running on OSX El Capitan (10.11) or later.
+	- [AMPPS](http://www.ampps.com/download): PHP, MySQL and Apache running on linux environment
 * Data validator 
 	- [DataProofer](https://github.com/dataproofer/Dataproofer/releases): proofreader for your data
-	- [Talent open studio for data quality](https://www.talend.com/products/data-quality/data-quality-open-studio/): Data profiling and analytics with graphical charts and drilldown data
 	- [OpenRefine](http://openrefine.org/download.html): tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data
 * Statistics
 	- [R](http://cran.r-project.org/mirrors.html)
 	- [R Studio](https://rstudio.com/products/rstudio/download/)
 * Math & equation editor
-	- [MacTeX](http://www.tug.org/mactex/)
-* Translator
-	- [Deepl](https://www.deepl.com/es/app/)
-* Hard disk & pendrives (access)
-	- [ntfstool](https://github.com/ntfstool/ntfstool/releases)
-	- [Mounty for NTFS](https://mounty.app/releases/Mounty.dmg)
+	- [LaTeX](https://www.latex-project.org/get/)
+	- [TeXmaker](https://www.xm1math.net/texmaker/)
 * Miscellaneous
-	- [iTunes](https://www.apple.com/la/itunes/)
-	- [Adobe Flash player](https://get.adobe.com/es/flashplayer/)
-	- [Veusz](https://github.com/veusz/veusz/releases/download/veusz-3.2/veusz-3.2-AppleOSX.dmg): a scientific plotting package
-	- [Java](https://www.java.com/es/download/)
-	- [Homebrew](http://brew.sh/): package Manager for macOS
-	- [Node.js](https://nodejs.org/en/): javascript runtime
-	- [Rectangle](https://rectangleapp.com/): management of system windows
-	- [Talus](https://github.com/juanbrujo/Talus): `bash` script to automate download & setup your Mac OS X development environment
-	- [~~Advanced~~ Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp/releases):
-	- [Folding@home](https://foldingathome.org/start-folding/): fighting diseases donating processing's computer (runs in background mode)
+	- [Java](https://www.java.com/es/download/manual.jsp)
 
 ## Legal ##
 
