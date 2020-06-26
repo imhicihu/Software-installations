@@ -4,7 +4,7 @@
 	- [Google Backup and sync](https://www.google.com/drive/download/backup-and-sync/): Windows-based backup tool
 * Windows cleaning
 	- [Ccleaner](https://www.ccleaner.com/)
-	- [Cleanmgr+](https://www.getclone.app/cleanmgrplus)
+	- [Cleanmgr+](https://www.mirinsoft.com/cleanmgrplus)
 * Text editor (multipurpose)
 	- [Atom](http://atom.io/)
 	- [Brackets](http://brackets.io/)
