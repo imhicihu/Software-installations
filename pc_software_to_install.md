@@ -162,6 +162,7 @@
 	- [GeoViewer](https://www.extensis.com/download-geoviewer): Display raster imagery, LiDAR point clouds, vector overlays, and MrSID files
 * System check & privacy
 	- [Spydish](https://github.com/builtbybel/spydish/releases): privacy and security check. _Only for Windows 10_.
+	- [SharpApp](https://github.com/mirinsoft/sharpapp/releases): disable telemetry functions in Windows 10
 * Miscellaneous
 	- [iTunes](https://www.apple.com/la/itunes/)
 	- [Adobe Flash player](https://get.adobe.com/es/flashplayer/)
