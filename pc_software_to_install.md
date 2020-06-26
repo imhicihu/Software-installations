@@ -160,6 +160,8 @@
 	- [cGPSMapper](https://www.gpsfiledepot.com/tools/cgpsmapper.php)
 	- [GMapTool](https://www.gmaptool.eu/en/content/windows-setup): program for splitting and merging maps in Garmin format
 	- [GeoViewer](https://www.extensis.com/download-geoviewer): Display raster imagery, LiDAR point clouds, vector overlays, and MrSID files
+* System check & privacy
+	- [Spydish](https://github.com/builtbybel/spydish/releases): privacy and security check. _Only for Windows 10_.
 * Miscellaneous
 	- [iTunes](https://www.apple.com/la/itunes/)
 	- [Adobe Flash player](https://get.adobe.com/es/flashplayer/)
