@@ -163,6 +163,7 @@
 * System check & privacy
 	- [Spydish](https://github.com/builtbybel/spydish/releases): privacy and security check. _Only for Windows 10_.
 	- [SharpApp](https://github.com/mirinsoft/sharpapp/releases): disable telemetry functions in Windows 10
+	- [Debotnet](https://github.com/mirinsoft/debotnet/releases): controlling Windows 10's many privacy-related settings. Requires Windows 10 including both 32-bit and 64-bit versions.
 * Miscellaneous
 	- [iTunes](https://www.apple.com/la/itunes/)
 	- [Adobe Flash player](https://get.adobe.com/es/flashplayer/)
