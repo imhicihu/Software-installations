@@ -2,6 +2,12 @@
 * Backup
 	- [Duplicati](https://www.duplicati.com/): backup software with multiple options: schedule tasks, data encryption, etc.
 	- [Google Backup and sync](https://apps.apple.com/app/google-drive/id507874739): Cloud-based backup tool
+* Firewall
+	- [LuLu](https://objective-see.com/products/lulu.html): block unknown outgoing connections, unless explicitly approved by the user.
+* Security
+	- [KnockKnock](https://objective-see.com/products/knockknock.html)
+	- [BlockBlock](https://objective-see.com/products/blockblock.html)
+	- [RansomWhere?](https://objective-see.com/products/ransomwhere.html)
 * Hardware profiler
     - [MachineProfile](http://www.micromat.com/products/machineprofile)
 * Text editor (multipurpose)
