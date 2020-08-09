@@ -1,4 +1,6 @@
 ## Software to install for the Linux® environment
+* Automation of installations & updates of applications
+	- [Flathub](https://flathub.org/home): easy installation from one hotspot and from the command line
 * Backup
 	- [Duplicati](https://github.com/duplicati/duplicati/releases): backup software with multiple options: schedule tasks, data encryption, etc.
 	- [Google Backup and sync](https://apps.apple.com/app/google-drive/id507874739): Cloud-based backup tool
