@@ -26,7 +26,7 @@
     - There is no `this law applies to all` situation, since there is _some_ interdependencies between parties, ie: [Dstretch](https://bitbucket.org/imhicihu/software-installations/src/master/dstretch/dstretch_(internal_use).md) needs [ImageJ](https://imagej.nih.gov/ij/index.html) and itself [ImageJ](https://imagej.nih.gov/ij/index.html) needs [Java](https://www.java.com/es/download/). By the way, the former example is a `rara avis` situation.
 * Dependencies
     - Some software involved (mostly [R](https://www.r-project.org/), [ImageJ](https://imagej.nih.gov/ij/index.html) and [Node.js](https://nodejs.org/) ) are prone to check inter-dependencies by default 
-    - ![software.png](https://bitbucket.org/repo/p8AERab/images/2206346255-2_install.png)
+ ![software.png](https://bitbucket.org/repo/p8AERab/images/2206346255-2_install.png)
 * Database configuration
     - Our database since minimal -at first- will evolve according operating system issues and needs. The same evolution of technology paradigms will result in deeply changes across time
 * How to run tests
