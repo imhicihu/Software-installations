@@ -49,6 +49,7 @@
 			   - [Unpaywall](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha)
 			   - [Open Access](https://chrome.google.com/webstore/detail/open-access-button/gknkbkaapnhpmkcgkmdekdffgcddoiel)
 			   - [Kopernio](https://chrome.google.com/webstore/detail/kopernio-powered-by-web-o/fjgncogppolhfdpijihbpfmeohpaadpc)
+			   - [Handsfree for Web - Voice Control](https://chrome.google.com/webstore/detail/handsfree-for-web-voice-c/ldfboinpfdahkgnljbkohgimhimmafip/related?hl=es)
 	- [Mozilla Firefox](https://www.mozilla.org/es-AR/firefox/): internet browser
 	- [Vivaldi](https://vivaldi.com/): internet browser
 	- [Opera](https://www.opera.com/es): internet browser
