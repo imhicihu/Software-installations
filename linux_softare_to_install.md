@@ -118,6 +118,7 @@
 	- [TeXmaker](https://www.xm1math.net/texmaker/)
 * Miscellaneous
 	- [Java](https://www.java.com/es/download/manual.jsp)
+	- [f.lux](https://justgetflux.com/linux.html): blue light screen protection
 
 ## Legal ##
 
