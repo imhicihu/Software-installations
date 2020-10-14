@@ -170,6 +170,7 @@
 	- [SharpApp](https://github.com/mirinsoft/sharpapp/releases): disable telemetry functions in Windows 10
 	- [Debotnet](https://github.com/mirinsoft/debotnet/releases): controlling Windows 10's many privacy-related settings. Requires Windows 10 including both 32-bit and 64-bit versions.
 * Miscellaneous
+	- [f.lux](https://justgetflux.com/dlwin.html): blue light screen protection
 	- [iTunes](https://www.apple.com/la/itunes/)
 	- [Adobe Flash player](https://get.adobe.com/es/flashplayer/)
 	- [Veusz](https://github.com/veusz/veusz/releases/download/veusz-3.2/veusz-3.2.0.1-windows-setup.exe): a scientific plotting package
