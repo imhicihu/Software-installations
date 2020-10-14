@@ -145,6 +145,7 @@
 	- [ntfstool](https://github.com/ntfstool/ntfstool/releases)
 	- [Mounty for NTFS](https://mounty.app/releases/Mounty.dmg)
 * Miscellaneous
+	- [f.lux](https://justgetflux.com/dlmac.html): blue light screen protection
 	- [iTunes](https://www.apple.com/la/itunes/)
 	- [Adobe Flash player](https://get.adobe.com/es/flashplayer/)
 	- [Veusz](https://github.com/veusz/veusz/releases/download/veusz-3.2/veusz-3.2-AppleOSX.dmg): a scientific plotting package
