@@ -66,6 +66,8 @@
 			   - [Kopernio](https://chrome.google.com/webstore/detail/kopernio-powered-by-web-o/fjgncogppolhfdpijihbpfmeohpaadpc)
 			   - [Handsfree for Web - Voice Control](https://chrome.google.com/webstore/detail/handsfree-for-web-voice-c/ldfboinpfdahkgnljbkohgimhimmafip/related?hl=es)
 	- [Mozilla Firefox](https://www.mozilla.org/es-AR/firefox/): internet browser
+		- plus this add-ons:
+			   - [Multi-Account Containers](https://addons.mozilla.org/firefox/addon/multi-account-containers/): workflow, privacy
 	- [Vivaldi](https://vivaldi.com/): internet browser
 	- [Opera](https://www.opera.com/es): internet browser
 * Browser security
