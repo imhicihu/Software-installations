@@ -2,6 +2,7 @@
 * Backup
 	- [Duplicati](https://www.duplicati.com/): backup software with multiple options: schedule tasks, data encryption, etc.
 	- [Google Backup and sync](https://apps.apple.com/app/google-drive/id507874739): Cloud-based backup tool
+	- [Syncalicious](https://github.com/zenangst/Syncalicious/releases): System's preferences backup & restore
 * Firewall
 	- [LuLu](https://objective-see.com/products/lulu.html): block unknown outgoing connections, unless explicitly approved by the user.
 * Security
