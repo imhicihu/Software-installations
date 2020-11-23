@@ -35,6 +35,7 @@
 			   - [Get around paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome)
 			   - [Cookie Remover](https://chrome.google.com/webstore/detail/cookie-remover/kcgpggonjhmeaejebeoeomdlohicfhce)
 			   - [Citationsy](https://chrome.google.com/webstore/detail/citationsy/ananhmnkepfflgfdklgcdpgdngejokkn)
+			   - [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp/related)
 			   - [Writefull](https://chrome.google.com/webstore/detail/writefull/aolaabonkiegkggfdgjjehchjmjfanng/related)
 	 		   - [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 			   - [Unpaywall](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha)
