@@ -151,7 +151,7 @@
 * Miscellaneous
 	- [f.lux](https://justgetflux.com/dlmac.html): blue light screen protection
 	- [iTunes](https://www.apple.com/la/itunes/)
-	- [Adobe Flash player](https://get.adobe.com/es/flashplayer/)
+	- ~~[Adobe Flash player](https://get.adobe.com/es/flashplayer/)~~: Adobe ends development and technical support on december 30; 2020 
 	- [Veusz](https://github.com/veusz/veusz/releases/download/veusz-3.2/veusz-3.2-AppleOSX.dmg): a scientific plotting package
 	- [Java](https://www.java.com/es/download/)
 	- [Homebrew](http://brew.sh/): package Manager for macOS
