@@ -9,7 +9,7 @@
 	- [KnockKnock](https://objective-see.com/products/knockknock.html)
 	- [BlockBlock](https://objective-see.com/products/blockblock.html)
 	- [RansomWhere?](https://objective-see.com/products/ransomwhere.html)
-	- some more can be found [here](https://objective-see.com/products.html)
+	- more info can be found [here](https://objective-see.com/products.html)
 * Hardware profiler
     - [MachineProfile](http://www.micromat.com/products/machineprofile)
 * Text editor (multipurpose)
