@@ -1,5 +1,6 @@
 ### Security
 * [Jotti](https://virusscan.jotti.org/en)
+* [Quad9](https://quad9.net/)
 
 ### Speech recognition
 * [Dictation](https://dictation.io/speech)
