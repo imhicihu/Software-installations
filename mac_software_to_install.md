@@ -51,7 +51,7 @@
 			   - [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp/related)
 			   - [Open Access](https://chrome.google.com/webstore/detail/open-access-button/gknkbkaapnhpmkcgkmdekdffgcddoiel)
 			   - [Kopernio](https://chrome.google.com/webstore/detail/kopernio-powered-by-web-o/fjgncogppolhfdpijihbpfmeohpaadpc)
-			   - [Handsfree for Web - Voice Control](https://chrome.google.com/webstore/detail/handsfree-for-web-voice-c/ldfboinpfdahkgnljbkohgimhimmafip/related?hl=es
+			   - [Handsfree for Web - Voice Control](https://chrome.google.com/webstore/detail/handsfree-for-web-voice-c/ldfboinpfdahkgnljbkohgimhimmafip/related?hl=es)
 			   - [Privacy Badger](https://privacybadger.org/)
 	- [Mozilla Firefox](https://www.mozilla.org/es-AR/firefox/): internet browser
 		- plus this add-ons:
@@ -149,6 +149,7 @@
 * Hard disk & pendrives (access)
 	- [ntfstool](https://github.com/ntfstool/ntfstool/releases)
 	- [Mounty for NTFS](https://mounty.app/releases/Mounty.dmg)
+	- [Hasleo NTFS for Mac](https://www.easyuefi.com/ntfs-for-mac/ntfs-for-mac.html)
 * Miscellaneous
 	- [f.lux](https://justgetflux.com/dlmac.html): blue light screen protection
 	- [iTunes](https://www.apple.com/la/itunes/)
