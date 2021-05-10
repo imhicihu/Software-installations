@@ -36,7 +36,7 @@
 	- [Dropbox](https://www.dropbox.com/es/downloading)
 * File syncronization
 	- [FreeFileSync](https://freefilesync.org/download.php): folder comparison and synchronization that creates and manages backup copies of all kind of files
-	- [Syncthing](https://github.com/syncthing/syncthing):file synchronization between computers
+	- [Syncthing](https://github.com/syncthing/syncthing): file synchronization between computers
 * Browsers
 	- [Google Chrome](https://www.google.com/intl/es-419/chrome/): internet browser
 		- plus this add-ons:
