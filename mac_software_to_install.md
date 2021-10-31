@@ -154,6 +154,7 @@
 	- [Hasleo NTFS for Mac](https://www.easyuefi.com/ntfs-for-mac/ntfs-for-mac.html)
 * Miscellaneous
 	- [f.lux](https://justgetflux.com/dlmac.html): blue light screen protection
+	- [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases): control your external monitor brightness & volume
 	- [iTunes](https://www.apple.com/la/itunes/)
 	- ~~[Adobe Flash player](https://get.adobe.com/es/flashplayer/)~~: Adobe ends development and technical support on december 30; 2020 
 	- [Veusz](https://github.com/veusz/veusz/releases/download/veusz-3.2/veusz-3.2-AppleOSX.dmg): a scientific plotting package
