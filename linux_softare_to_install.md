@@ -66,6 +66,7 @@
 	- [Apache OpenOffice Draw](https://www.openoffice.org/es/descargar/index.html)
 	- [PDFSam](https://pdfsam.org/es/download-pdfsam-basic/)
 	- [PDF-Shuffle](https://sourceforge.net/projects/pdfshuffler/)
+	- [Sioyek](https://github.com/ahrm/sioyek/releases): PDF viewer designed for reading research papers and technical books
 * Vector image editor
 	- [Inkscape](https://inkscape.org/release/)
 * Raster image viewer
