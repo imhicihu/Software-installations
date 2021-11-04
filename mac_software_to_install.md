@@ -81,6 +81,7 @@
 	- [Calibre](https://calibre-ebook.com/download): multi-format ebook reader, cataloguer, searcher
 * PDF Reader
 	- [Foxit Reader](https://www.foxitsoftware.com/downloads/#Foxit-Reader/): pdf reader
+	- [Sioyek](https://github.com/ahrm/sioyek/releases): PDF viewer designed for reading research papers and technical books
 	- [Skim](https://skim-app.sourceforge.io/) PDF reader and note-taker for macOSX. It is designed to help you read and annotate scientific papers in PDF file format
 * PDF Viewer
 	- ~~[Okular](https://okular.kde.org): with capabilities of become a EPUB, MOBI, FB2, CHM, XPS, DjVu file format reader too.~~
