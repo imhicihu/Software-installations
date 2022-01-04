@@ -79,6 +79,7 @@
 	- [Texts](http://www.texts.io/Texts-1.5.dmg): markdown file format viewer and editor
 * Ebook manager (plus metadata editor)
 	- [Calibre](https://calibre-ebook.com/download): multi-format ebook reader, cataloguer, searcher
+	- [thelibrarian](http://www.patisoftware.eu/Apps/theLibrarian/theLibrarian.html#theLibrarian): catalogue, organize and manage your collections of books or other kind of documents such as scientific articles
 * PDF Reader
 	- [Foxit Reader](https://www.foxitsoftware.com/downloads/#Foxit-Reader/): pdf reader
 	- [Sioyek](https://github.com/ahrm/sioyek/releases): PDF viewer designed for reading research papers and technical books
@@ -134,6 +135,7 @@
 * Bibliographic & citation & personal research assistant
 	- [Zotero](https://www.zotero.org/download)
 	- [Citationsy](https://apps.apple.com/us/app/citationsy/id1410212159): bibliographic citation organizer
+	- [thelibrarian](http://www.patisoftware.eu/Apps/theLibrarian/theLibrarian.html#theLibrarian): create bibliographical references in a click using the most common citation styles (APA, Chicago, MLA, IEEE, Harvard, Vancouver)
 * Bibliography searcher
 	- [ScienceFair](http://sciencefair-app.com/): discover, collect, organise, read and analyse scientific papers.
 * Virtual server environment
