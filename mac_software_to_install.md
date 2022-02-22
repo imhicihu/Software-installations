@@ -25,7 +25,6 @@
 	- [IsoCreator](https://sourceforge.net/projects/iso-creator-cs/): creates ISO 9660 Joliet images
 	- [Iso Recorder](http://isorecorder.alexfeinman.com/#/): creates ISO 9660 Joliet images
 	- [OSFMount](https://www.osforensics.com/tools/mount-disk-images.html): mount `ISO` images from mac environment on Windows
-	- [WinIso](http://www.winiso.com/products/winiso-free.html)
 * Database (handling and editor)
 	- [Draxed](https://www.draxed.com/download/lastest/dmg): query editor; mysql & postgreSQL supported
 * Video viewer
