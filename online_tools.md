@@ -1,3 +1,6 @@
+### File sharing
+* [BlackHole](https://blackhole.run/): No storage limits, no link expiration, file downloads without registrations
+
 ### Security
 * [Jotti](https://virusscan.jotti.org/en)
 * [Quad9](https://quad9.net/)
