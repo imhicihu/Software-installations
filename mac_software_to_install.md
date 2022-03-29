@@ -15,6 +15,7 @@
 * Text editor (multipurpose)
 	- [Atom](http://atom.io/)
 	- [Brackets](http://brackets.io/)
+	- [Esse](https://esse.ameba.co/): Swiss army knife of text transformation
 * Compressors
 	- [7-Zip](https://www.7-zip.org/): multi-format file types handler
 	- [Peazip](https://www.peazip.org/): compressor and handler of compressed files
