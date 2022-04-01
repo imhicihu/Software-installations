@@ -44,6 +44,7 @@
 	- [Mozilla Firefox](https://www.mozilla.org/es-AR/firefox/linux/): internet browser
 	- [Vivaldi](https://vivaldi.com/es/download/): internet browser
 	- [Opera](https://www.opera.com/es-419/computer): internet browser
+	- [Brave](https://brave.com/): internet browser
 * Browser security
 	- [Browser audit](https://browseraudit.com/): pass test to verify the integrity of your browser. Online tool
 * Personal groups, files, and chat
@@ -74,7 +75,7 @@
 * Password management
 	- [KeeWeb](https://github.com/keeweb/keeweb/releases/)
 * Font Management
-	- [Fontba.se](https://fontba.se/downloads/linux): tipography management
+	- [Fontba.se](https://fontba.se/downloads/linux): typography management
 * Note taking
 	- [Joplin](https://joplinapp.org/)
 * 3D editing
