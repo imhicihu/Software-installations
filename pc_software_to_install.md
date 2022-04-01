@@ -72,6 +72,7 @@
 			   - [Multi-Account Containers](https://addons.mozilla.org/firefox/addon/multi-account-containers/): workflow, privacy
 	- [Vivaldi](https://vivaldi.com/): internet browser
 	- [Opera](https://www.opera.com/es): internet browser
+	- [Brave](https://brave.com/): internet browser
 * Browser security
 	- [Browser audit](https://browseraudit.com/): pass test to verify the integrity of your browser. Online tool
 * Virtualization
