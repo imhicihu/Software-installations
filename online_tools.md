@@ -11,4 +11,7 @@
 ### Bibliography
 * [Litmaps](https://www.litmaps.co/): interactive visualisations of citation networks
 
+### Screen grabber
+* [Screenshoot guru](https://screenshot.guru/)
+
 
