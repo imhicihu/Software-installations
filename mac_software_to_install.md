@@ -20,6 +20,7 @@
 	- [7-Zip](https://www.7-zip.org/): multi-format file types handler
 	- [Peazip](https://www.peazip.org/): compressor and handler of compressed files
 	- [HJSplit](https://www.usitility.com/es/hjsplit/): multipart zip processor
+	- [Keka](https://github.com/aonez/Keka/releases): file compressor handler 
 * Data backup
 	- [ImgBurn](http://www.imgburn.com/): CD/DVD/DVD/Blu-ray burning application
 	- [Free ISO Creator](http://www.minidvdsoft.com/isocreator/download_free_iso_creator.html): create ISO image from your files and folders
@@ -28,6 +29,7 @@
 	- [OSFMount](https://www.osforensics.com/tools/mount-disk-images.html): mount `ISO` images from mac environment on Windows
 * Database (handling and editor)
 	- [Draxed](https://www.draxed.com/download/lastest/dmg): query editor; mysql & postgreSQL supported
+	- [symphytum](https://github.com/giowck/symphytum): personal database
 * Video viewer
 	- [VLC](http://www.videolan.org): multi-format viewer
 * RAW viewer
