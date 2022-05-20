@@ -168,6 +168,7 @@
 	- ~~[Adobe Flash player](https://get.adobe.com/es/flashplayer/)~~: Adobe ends development and technical support on december 30; 2020 
 	- [Veusz](https://github.com/veusz/veusz/releases/download/veusz-3.2/veusz-3.2-AppleOSX.dmg): a scientific plotting package
 	- [Java](https://www.java.com/es/download/)
+	- [AlDente](https://github.com/davidwernhart/AlDente): battery charge management
 	- [Homebrew](http://brew.sh/): package Manager for macOS
 	- [Node.js](https://nodejs.org/en/): javascript runtime
 	- [Rectangle](https://rectangleapp.com/): management of system windows
