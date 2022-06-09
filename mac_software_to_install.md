@@ -62,6 +62,7 @@
 	- [Vivaldi](https://vivaldi.com/): internet browser
 	- [Opera](https://www.opera.com/es): internet browser
 	- [Brave](https://brave.com/): internet browser (speedy!)
+	- [Orion](https://browser.kagi.com/): internet browser 
 * Browser security
 	- [Browser audit](https://browseraudit.com/): pass test to verify the integrity of your browser. Online tool
 * Personal groups, files, and chat
