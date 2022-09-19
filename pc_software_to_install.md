@@ -3,8 +3,7 @@
 	- [Duplicati](https://www.duplicati.com/): backup software with multiple options: schedule tasks, data encryption, etc.
 	- [Google Backup and sync](https://www.google.com/drive/download/backup-and-sync/): Windows-based backup tool
 * Automation of installations & updates of applications
-	- [Roboget](https://github.com/builtbybel/Roboget/releases/):
-	- [Munki](https://github.com/munki/munki/releases/latest): Managed software installation for OS X
+	- ~~[Roboget](https://github.com/builtbybel/Roboget/releases/):~~
 * Windows cleaning
 	- [Ccleaner](https://www.ccleaner.com/)
 	- [Cleanmgr+](https://www.mirinsoft.com/cleanmgrplus)
