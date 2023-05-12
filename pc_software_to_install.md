@@ -21,6 +21,7 @@
 	- [Cloneapp](http://www.mirinsoft.com/download/category/2-cloneapp): backup Application Settings of Windows programs
 	- [CloneApp UA](http://www.mirinsoft.com/download/category/13-ca-ua): backup Application Settings of Universal apps (UWP)
 * Clipboard
+	- [CopyQ](https://hluk.github.io/CopyQ/)
 	- [Ditto Clipboard](https://www.microsoft.com/en-us/p/ditto-clipboard/9nblggh3zbjq?rtc=1&ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-xUPCRvXAQestQG5TTcXtoQ&epi=TnL5HPStwNw-xUPCRvXAQestQG5TTcXtoQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=(ir__wwnolxiwuskfryltkk0sohzj0e2xg3nagvo3xfww00)(7593)(1243925)(TnL5HPStwNw-xUPCRvXAQestQG5TTcXtoQ)()&irclickid=_wwnolxiwuskfryltkk0sohzj0e2xg3nagvo3xfww00&activetab=pivot:overviewtab)
 * Virtual drive
 	- [Daemon Tools _lite_](https://www.daemon-tools.cc/products/dtLite): virtual disc drive
