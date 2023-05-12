@@ -162,6 +162,8 @@
 	- [ntfstool](https://github.com/ntfstool/ntfstool/releases)
 	- [Mounty for NTFS](https://mounty.app/releases/Mounty.dmg)
 	- [Hasleo NTFS for Mac](https://www.easyuefi.com/ntfs-for-mac/ntfs-for-mac.html)
+* Clipboard management
+	- [CopyQ](https://hluk.github.io/CopyQ/)
 * Miscellaneous
 	- [f.lux](https://justgetflux.com/dlmac.html): blue light screen protection
 	- [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases): control your external monitor brightness & volume
