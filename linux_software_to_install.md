@@ -120,6 +120,8 @@
 * Math & equation editor
 	- [LaTeX](https://www.latex-project.org/get/)
 	- [TeXmaker](https://www.xm1math.net/texmaker/)
+* Clipboard management
+	- [CopyQ](https://hluk.github.io/CopyQ/)
 * Miscellaneous
 	- [Java](https://www.java.com/es/download/manual.jsp)
 	- [f.lux](https://justgetflux.com/linux.html): blue light screen protection
