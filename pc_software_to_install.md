@@ -161,6 +161,7 @@
 * Statistics
 	- [R](http://cran.r-project.org/mirrors.html)
 	- [R Studio](https://rstudio.com/products/rstudio/download/)
+	- [LabPlot](https://labplot.kde.org/): data visualization and analysis
 * Updater (automatic watchdog for updates)
 	- [RoboGet](https://github.com/Mirinsoft/Roboget/releases)
 * Math & equation editor
