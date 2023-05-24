@@ -154,6 +154,7 @@
 * Statistics
 	- [R](http://cran.r-project.org/mirrors.html)
 	- [R Studio](https://rstudio.com/products/rstudio/download/)
+	- [LabPlot](https://labplot.kde.org/): data visualization and analysis
 * Math & equation editor
 	- [MacTeX](http://www.tug.org/mactex/)
 * Translator
