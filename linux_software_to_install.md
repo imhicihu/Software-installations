@@ -117,6 +117,7 @@
 * Statistics
 	- [R](http://cran.r-project.org/mirrors.html)
 	- [R Studio](https://rstudio.com/products/rstudio/download/)
+	- [LabPlot](https://labplot.kde.org/): data visualization and analysis
 * Math & equation editor
 	- [LaTeX](https://www.latex-project.org/get/)
 	- [TeXmaker](https://www.xm1math.net/texmaker/)
