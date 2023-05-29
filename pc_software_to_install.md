@@ -11,6 +11,7 @@
 	- [Atom](http://atom.io/)
 	- [Brackets](http://brackets.io/)
 	- [Notepad++](https://notepad-plus-plus.org/downloads/): NotePad enhanced
+	- [Zettlr](https://www.zettlr.com/): Markdown editor which integrates CSL, BibLaTeX, Pandoc and many other tools
 * Defragmenter
 	- [Defraggler](https://www.ccleaner.com/defraggler): disk drive defragmenter
 * Recover deleted files
