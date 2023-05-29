@@ -7,6 +7,8 @@
 * Text editor (multipurpose)
 	- [Atom](https://github.com/atom/atom/releases/)
 	- [Brackets](https://github.com/adobe/brackets/releases)
+	- [Zettlr](https://www.zettlr.com/): Markdown editor which integrates CSL, BibLaTeX, Pandoc and many other tools
+
 * Compressors
 	- [Peazip](https://www.peazip.org/peazip-linux.html): compressor and handler of compressed files
 * Data backup
