@@ -4,7 +4,7 @@
 
 # RATIONALE #
 
-* First time installation procedures. A _quick-list_ of software to install with a focus on open-source projects mostly for the Microsoft Windows© realm. By the way, a repo in _perpetual_ progress
+* First time installation procedures. A _quick-list_ of software to install with a focus on open-source projects mostly for the Microsoft WindowsÂ© realm. By the way, a repo in _perpetual_ progress
 * This repo is a living document that will grow and adapt over time according to meet needs, budgets, CPU's power, internal projects, etc.
 
 ![software.png](https://bitbucket.org/repo/p8AERab/images/1919189782-octubre-1-2019.jpg)
@@ -18,10 +18,7 @@
 ### How do I get set up? ###
 
 * Summary of set up
-    - Check our list of (mostly) open-source tools, discriminated by operating system :
-    - |                                   |                                                              |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [ Microsoft Windows®](https://bitbucket.org/imhicihu/software-installations/src/master/pc_software_to_install.md) | [MacOSX®](https://bitbucket.org/imhicihu/software-installations/src/master/mac_software_to_install.md) | [Linux](https://bitbucket.org/imhicihu/software-installations/src/master/linux_softare_to_install.md) |
+    - Check our list of (mostly) open-source tools, discriminated by operating system: [Microsoft WindowsÂ®](pc_software_to_install.md), [MacOSXÂ®](mac_software_to_install.md) & [Linux](linux_softare_to_install.md)
 * Configuration
     - There is no `this law applies to all` situation, since there is _some_ interdependencies between parties, ie: [Dstretch](https://bitbucket.org/imhicihu/software-installations/src/master/dstretch/dstretch_(internal_use).md) needs [ImageJ](https://imagej.nih.gov/ij/index.html) and itself [ImageJ](https://imagej.nih.gov/ij/index.html) needs [Java](https://www.java.com/es/download/). By the way, the former example is a `rara avis` situation.
 * Dependencies
