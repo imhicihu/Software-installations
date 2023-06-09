@@ -144,6 +144,7 @@
 	- [Zotero](https://www.zotero.org/download)
 	- [Citationsy](https://apps.apple.com/us/app/citationsy/id1410212159): bibliographic citation organizer
 	- [thelibrarian](http://www.patisoftware.eu/Apps/theLibrarian/theLibrarian.html#theLibrarian): create bibliographical references in a click using the most common citation styles (APA, Chicago, MLA, IEEE, Harvard, Vancouver)
+	- [JabRef](https://www.jabref.org/): bibliography reference manager
 * Bibliography searcher
 	- [ScienceFair](http://sciencefair-app.com/): discover, collect, organise, read and analyse scientific papers.
 * Virtual server environment
