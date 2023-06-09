@@ -18,7 +18,8 @@
 ### How do I get set up? ###
 
 * Summary of set up
-    - Check our list of (mostly) open-source tools, discriminated by operating system: [Microsoft Windows®](pc_software_to_install.md), [MacOSX®](mac_software_to_install.md) & [Linux](linux_softare_to_install.md)
+    - Check our list of (mostly) open-source tools, discriminated by operating system: 
+| [Microsoft Windows®](pc_software_to_install.md) | [MacOSX®](mac_software_to_install.md) | [Linux](linux_softare_to_install.md) |
 * Configuration
     - There is no `this law applies to all` situation, since there is _some_ interdependencies between parties, ie: [Dstretch](https://bitbucket.org/imhicihu/software-installations/src/master/dstretch/dstretch_(internal_use).md) needs [ImageJ](https://imagej.nih.gov/ij/index.html) and itself [ImageJ](https://imagej.nih.gov/ij/index.html) needs [Java](https://www.java.com/es/download/). By the way, the former example is a `rara avis` situation.
 * Dependencies
