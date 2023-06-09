@@ -8,7 +8,6 @@
 	- [Atom](https://github.com/atom/atom/releases/)
 	- [Brackets](https://github.com/adobe/brackets/releases)
 	- [Zettlr](https://www.zettlr.com/): Markdown editor which integrates CSL, BibLaTeX, Pandoc and many other tools
-
 * Compressors
 	- [Peazip](https://www.peazip.org/peazip-linux.html): compressor and handler of compressed files
 * Data backup
@@ -109,6 +108,7 @@
 	- [Ferdi](https://getferdi.com/download)
 * Bibliographic & citation & personal research assistant
 	- [Zotero](https://www.zotero.org/download)
+	- [JabRef](https://www.jabref.org/): bibliography reference manager
 * Bibliography searcher
 	- [ScienceFair](http://sciencefair-app.com/#install): discover, collect, organise, read and analyse scientific papers
 * Virtual server environment
