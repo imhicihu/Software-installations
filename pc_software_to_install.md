@@ -1,4 +1,4 @@
-## Software to install (~~mostly~~ for the Microsoft Windows® environment)
+## Software to install (~~mostly~~ for the Microsoft WindowsÂ® environment)
 * Backup
 	- [Duplicati](https://www.duplicati.com/): backup software with multiple options: schedule tasks, data encryption, etc.
 	- [Google Backup and sync](https://www.google.com/drive/download/backup-and-sync/): Windows-based backup tool
@@ -149,6 +149,7 @@
 	- [Ferdi](https://getferdi.com/download)
 * Bibliographic & personal research assistant
 	- [Zotero](https://www.zotero.org/download)
+	- [JabRef](https://www.jabref.org/): bibliography reference manager
 * Bibliography searcher
 	- [ScienceFair](http://sciencefair-app.com/): discover, collect, organise, read and analyse scientific papers.
 * Virtual server environment
