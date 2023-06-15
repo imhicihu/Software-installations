@@ -116,7 +116,7 @@
 * 3d file viewer
 	- [Clay-viewer](https://github.com/pissang/clay-viewer/releases)
 	- ~~[3DEM](http://www.hangsim.com/files/3dem_setup.exe)~~
-* Image enhancer & editor
+* Image enhancer & editor & management
 	- [GIMP](https://www.gimp.org/): image editor and converter
 	- [GIMPshop](https://www.gimpshop.com/downloads): free alternative to Photoshop
 	- [ImageMagick](https://imagemagick.org/script/download.php#): image editor and converter
@@ -124,6 +124,7 @@
 	- [DigiKam](https://www.digikam.org/download/): photo management
 	- [DJView](https://sourceforge.net/projects/djview-495-for-mac/): DJVU viewer 
 	- [ImageJ](https://imagej.nih.gov/ij/): Java-based image processing and analysis
+	- [Tropy](https://tropy.org/): research photo management
 * Image to pdf
 	- [Alchemy](https://dawnlabs.github.io/alchemy/)
 * Document management
