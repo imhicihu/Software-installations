@@ -92,6 +92,7 @@
 	- [Dark Table](https://www.darktable.org/install/): image treatment, enhancer in a non destructive way
 	- [DigiKam](https://www.digikam.org/download/): photo management
 	- [ImageJ](https://imagej.nih.gov/ij/): Java-based image processing and analysis
+	- [Tropy](https://tropy.org/): research photo management
 * Image to pdf
 	- [Alchemy](https://dawnlabs.github.io/alchemy/)
 * Document management
