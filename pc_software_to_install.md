@@ -129,6 +129,7 @@
 	- [DigiKam](https://www.digikam.org/download/): photo management
 	- [DJVUlibre](https://sourceforge.net/projects/djvu/files/DjVuLibre_Windows/): DJVU viewer 
 	- [ImageJ](https://imagej.nih.gov/ij/): Java-based image processing and analysis
+	- [Tropy](https://tropy.org/): research photo management 
 * Document management
 	- [PaperWork](https://openpaper.work/en-us/)
 * Digital notebook / Note taking
