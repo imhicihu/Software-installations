@@ -151,6 +151,7 @@
 * Bibliographic & personal research assistant
 	- [Zotero](https://www.zotero.org/download)
 	- [JabRef](https://www.jabref.org/): bibliography reference manager
+  - [Publish or Perish](https://harzing.com/resources/publish-or-perish): retrieves and analyzes academic citations
 * Bibliography searcher
 	- [ScienceFair](http://sciencefair-app.com/): discover, collect, organise, read and analyse scientific papers.
 * Virtual server environment
