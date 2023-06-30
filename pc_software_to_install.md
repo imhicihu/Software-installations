@@ -90,6 +90,8 @@
 	- [LibreOffice](https://www.libreoffice.org/download/download/): ofimatic
 * Text converter
 	- [Pandoc](https://pandoc.org/installing.html): universal file text converter
+* Text expander
+  - [Espanso](https://espanso.org/): universal text expander
 * Rich text editor
 	- [Texts](http://www.texts.io/Texts-1.5.msi): markdown file format viewer and editor
 * Ebook manager (plus metadata editor)
