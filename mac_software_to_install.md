@@ -36,7 +36,7 @@
 * RAW viewer
 	- ~~[Filmulator](https://github.com/CarVac/filmulator-gui/releases)~~ (No binaries to install, so out of the scope of this list)
 * Cloud hosting
-	- [Dropbox](https://www.dropbox.com/es/downloading)
+	- [Dropbox](https://www.dropbox.com/)
 	- [Box](https://box.com/)
 * File syncronization
 	- [FreeFileSync](https://freefilesync.org/download.php): folder comparison and synchronization that creates and manages backup copies of all kind of files
@@ -83,6 +83,8 @@
 	- [Pandoc](https://pandoc.org/installing.html): universal file text converter
 * Text capture
 	- [TRex](https://github.com/amebalabs/TRex/releases)
+* Text expander
+  - [Espanso](https://espanso.org/): universal text expander
 * Rich text editor
 	- [Texts](http://www.texts.io/Texts-1.5.dmg): markdown file format viewer and editor
 * Ebook manager (plus metadata editor)
