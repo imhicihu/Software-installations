@@ -13,7 +13,8 @@
 * Hardware profiler
     - [MachineProfile](http://www.micromat.com/products/machineprofile)
 * Text editor (multipurpose)
-	- [Atom](http://atom.io/)
+  - [CotEditor](https://coteditor.com/)
+  - [Atom](http://atom.io/)
 	- [Brackets](http://brackets.io/)
 	- [Esse](https://esse.ameba.co/): Swiss army knife of text transformation
 	- [Zettlr](https://www.zettlr.com/): Markdown editor which integrates CSL, BibLaTeX, Pandoc and many other tools
