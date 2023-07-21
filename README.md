@@ -1,13 +1,12 @@
-![stability-work_in_progress](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
-![internaluse-green](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
-![issues-open](https://bitbucket.org/repo/ekyaeEE/images/2944199103-issues_open.png)
+![stability-work_in_progress](images/477405737-stability_work_in_progress.png)
+![internaluse-green](images/3847436881-internal_use_stable.png)
+![issues-open](images/2944199103-issues_open.png)
 
 # RATIONALE #
 
 * First time installation procedures. A _quick-list_ of software to install with a focus on open-source projects mostly for the Microsoft Windows© realm. By the way, a repo in _perpetual_ progress
 * This repo is a living document that will grow and adapt over time according to meet needs, budgets, CPU's power, internal projects, etc.
-
-![software.png](https://bitbucket.org/repo/p8AERab/images/1919189782-octubre-1-2019.jpg)
+![software.png](images/1919189782-octubre-1-2019.jpg)
 
 ### What is this repository for? ###
 
@@ -18,13 +17,19 @@
 ### How do I get set up? ###
 
 * Summary of set up
-    - Check our list of (mostly) open-source tools, discriminated by operating system: 
-| [Microsoft Windows®](pc_software_to_install.md) | [MacOSX®](mac_software_to_install.md) | [Linux](linux_softare_to_install.md) |
+    - Check our list of (mostly) open-source tools, discriminated by:
+
+		| operating system |  
+		|:--|
+		| [Microsoft Windows®](pc_software_to_install.md) |
+		| [MacOSX®](mac_software_to_install.md) |
+		| [Linux®](linux_softare_to_install.md) |  
+
 * Configuration
     - There is no `this law applies to all` situation, since there is _some_ interdependencies between parties, ie: [Dstretch](https://bitbucket.org/imhicihu/software-installations/src/master/dstretch/dstretch_(internal_use).md) needs [ImageJ](https://imagej.nih.gov/ij/index.html) and itself [ImageJ](https://imagej.nih.gov/ij/index.html) needs [Java](https://www.java.com/es/download/). By the way, the former example is a `rara avis` situation.
 * Dependencies
     - Some software involved (mostly [R](https://www.r-project.org/), [ImageJ](https://imagej.nih.gov/ij/index.html) and [Node.js](https://nodejs.org/) ) are prone to check inter-dependencies by default 
- ![software.png](https://bitbucket.org/repo/p8AERab/images/2206346255-2_install.png)
+ ![software.png](images/2206346255-2_install.png)
 * Database configuration
     - Our database since minimal -at first- will evolve according operating system issues and needs. The same evolution of technology paradigms will result in deeply changes across time
 * How to run tests
@@ -53,12 +58,10 @@
 
 * Repo owner or admin
     - Contact `imhicihu` at `gmail` dot `com`
-* Other community or team contact
-    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/software-installations/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
 ### Code of Conduct
 
-* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/software-installations/src/master/code_of_conduct.md)
+* Please, check our [Code of Conduct](code_of_conduct.md)
 
 ### Legal ###
 
@@ -66,4 +69,4 @@
 
 ### License ###
 
-* The content of this project itself is licensed under the ![MIT Licence](https://bitbucket.org/repo/ekyaeEE/images/2049852260-MIT-license-green.png)
+* The content of this project itself is licensed under the ![MIT Licence](images/2049852260-MIT-license-green.png)
