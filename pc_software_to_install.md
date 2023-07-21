@@ -3,7 +3,7 @@
 	- [Duplicati](https://www.duplicati.com/): backup software with multiple options: schedule tasks, data encryption, etc.
 	- [Google Backup and sync](https://www.google.com/drive/download/backup-and-sync/): Windows-based backup tool
 * Automation of installations & updates of applications
-	- ~~[Roboget](https://github.com/builtbybel/Roboget/releases/):~~
+	- ~~[Roboget](https://github.com/builtbybel/Roboget/releases/)~~
 * Windows cleaning
 	- [Ccleaner](https://www.ccleaner.com/)
 	- [Cleanmgr+](https://www.mirinsoft.com/cleanmgrplus)
@@ -155,7 +155,7 @@
 	- [JabRef](https://www.jabref.org/): bibliography reference manager
   - [Publish or Perish](https://harzing.com/resources/publish-or-perish): retrieves and analyzes academic citations
 * Bibliography searcher
-	- [ScienceFair](http://sciencefair-app.com/): discover, collect, organise, read and analyse scientific papers.
+	- ~~[ScienceFair](http://sciencefair-app.com/): discover, collect, organise, read and analyse scientific papers.~~
 * Virtual server environment
 	- [WampServer](http://www.wampserver.com/en/#download-wrapper): PHP, MySQL and Apache running on Windows
 * Data validator 
