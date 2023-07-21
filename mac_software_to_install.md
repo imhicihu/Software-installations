@@ -151,7 +151,7 @@
 	- [JabRef](https://www.jabref.org/): bibliography reference manager
   - [Publish or Perish](https://harzing.com/resources/publish-or-perish): retrieves and analyzes academic citations
 * Bibliography searcher
-	- [ScienceFair](http://sciencefair-app.com/): discover, collect, organise, read and analyse scientific papers.
+	- ~~[ScienceFair](http://sciencefair-app.com/): discover, collect, organise, read and analyse scientific papers~~.
 * Virtual server environment
 	- [AMPPS](http://www.ampps.com/download): PHP, MySQL and Apache running on OSX El Capitan (10.11) or later.
 * Data validator 
