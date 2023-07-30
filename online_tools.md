@@ -17,4 +17,7 @@
 ### Screen grabber
 * [Screenshoot guru](https://screenshot.guru/)
 
+### General & automated installer (for Windows)
+* [Scoop](https://scoop.sh/)
+* [Chocolatey](https://chocolatey.org/)
 
