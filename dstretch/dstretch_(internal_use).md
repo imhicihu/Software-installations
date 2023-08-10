@@ -1,4 +1,4 @@
-## Proceso de instalación:
+### Proceso de instalación:
 
 0. Cerrar todos los programas que estén ejecutándose (eso no incluye al navegador desde donde estás leyendo este tutorial)
 1. Descargar Java desde esta dirección: https://www.java.com/es/download/
