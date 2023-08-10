@@ -1,4 +1,4 @@
-## Software to install for the Linux® environment
+### Software to install for the Linux® environment
 * Automation of installations & updates of applications
 	- [Flathub](https://flathub.org/home): easy installation from one hotspot and from the command line
 * Backup

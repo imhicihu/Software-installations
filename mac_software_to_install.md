@@ -1,4 +1,4 @@
-## Software to install (~~mostly~~ for the MacOSX® environment)
+### Software to install (~~mostly~~ for the MacOSX® environment)
 * Backup
 	- [Duplicati](https://www.duplicati.com/): backup software with multiple options: schedule tasks, data encryption, etc.
 	- [Google Backup and sync](https://apps.apple.com/app/google-drive/id507874739): Cloud-based backup tool

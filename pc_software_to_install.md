@@ -1,4 +1,4 @@
-## Software to install (~~mostly~~ for the Microsoft Windows® environment)
+### Software to install (~~mostly~~ for the Microsoft Windows® environment)
 * Backup
 	- [Duplicati](https://www.duplicati.com/): backup software with multiple options: schedule tasks, data encryption, etc.
 	- [Google Backup and sync](https://www.google.com/drive/download/backup-and-sync/): Windows-based backup tool
