@@ -102,6 +102,7 @@
 	- [Apache OpenOffice Draw](https://www.openoffice.org/es/descargar/index.html)
 	- [PDFSam](https://pdfsam.org/es/download-pdfsam-basic/)
 	- [PEP - Free & Open Source PDF Editor for Mac](https://macpep.org/download)
+  - [PDFGear](https://www.pdfgear.com/)
 * Vector image editor
 	- [Inkscape](https://inkscape.org/release/)
 * Raster image viewer
