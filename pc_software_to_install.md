@@ -1,4 +1,4 @@
-### Software to install (~~mostly~~ for the Microsoft Windows® environment)
+### Software to install (for the Microsoft Windows® environment)
 * Backup
 	- [Duplicati](https://www.duplicati.com/): backup software with multiple options: schedule tasks, data encryption, etc.
 	- [Google Backup and sync](https://www.google.com/drive/download/backup-and-sync/): Windows-based backup tool
@@ -110,6 +110,7 @@
 	- [LibreOffice Draw PDF editor](https://www.libreoffice.org/download/download/)
 	- [Apache OpenOffice Draw](https://www.openoffice.org/es/producto/draw.html)
 	- [PDFSam](https://pdfsam.org/es/download-pdfsam-basic/)
+  - [PDFGear](https://www.pdfgear.com/)
 * Vector image editor
 	- [Inkscape](https://inkscape.org/release/)
 * Raster image viewer
