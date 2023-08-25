@@ -1,5 +1,5 @@
 ### Text editor
-+ [Dillinger](https://dillinger.io/): markdown editor
+* [Dillinger](https://dillinger.io/): markdown editor
 
 ### File sharing
 * [BlackHole](https://blackhole.run/): No storage limits, no link expiration, file downloads without registrations
