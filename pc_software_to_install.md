@@ -156,7 +156,7 @@
 	- [JabRef](https://www.jabref.org/): bibliography reference manager
   - [Publish or Perish](https://harzing.com/resources/publish-or-perish): retrieves and analyzes academic citations
 * Bibliography searcher
-	- ~~[ScienceFair](http://sciencefair-app.com/): discover, collect, organise, read and analyse scientific papers.~~
+	- [ScienceFair](https://github.com/sciencefair-land/sciencefair): discover, collect, organise, read and analyse scientific papers.
 * Virtual server environment
 	- [WampServer](http://www.wampserver.com/en/#download-wrapper): PHP, MySQL and Apache running on Windows
 * Data validator 
