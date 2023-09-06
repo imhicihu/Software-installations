@@ -113,7 +113,7 @@
 	- [Zotero](https://www.zotero.org/download)
 	- [JabRef](https://www.jabref.org/): bibliography reference manager
 * Bibliography searcher
-	- ~~[ScienceFair](http://sciencefair-app.com/#install): discover, collect, organise, read and analyse scientific papers~~
+	- [ScienceFair](https://github.com/sciencefair-land/sciencefair): discover, collect, organise, read and analyse scientific papers
   - [Publish or Perish](https://harzing.com/resources/publish-or-perish): retrieves and analyzes academic citations
 * Virtual server environment
 	- [AMPPS](http://www.ampps.com/download): PHP, MySQL and Apache running on linux environment
