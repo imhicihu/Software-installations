@@ -68,7 +68,7 @@
 | [Skype](https://www.skype.com/es/get-skype/)                 | Needs a pc with a Windows environment to download the main app |
 | [Zoom.us](https://zoom.us/download#client_4meeting)          | WeTransfer                                                   |
 | [Wireshark](https://www.wireshark.org/#download)             | WeTransfer                                                   |
-| ~~[ScienceFair](http://sciencefair-app.com/)~~                   | WeTransfer                                                   |
+| [ScienceFair](https://github.com/sciencefair-land/sciencefair)                   | WeTransfer                                                   |
 | [WampServer](http://www.wampserver.com/en/#download-wrapper) | WeTransfer                                                   |
 | [Node JS](https://nodejs.org/es/download/)  | WeTransfer                                                   |
 | [DataProofer](https://github.com/dataproofer/Dataproofer/releases) | WeTransfer                                                   |
