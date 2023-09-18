@@ -39,7 +39,7 @@
 * Cloud hosting
 	- [Dropbox](https://www.dropbox.com/)
 	- [Box](https://box.com/)
-* File syncronization
+* File synchronization
 	- [FreeFileSync](https://freefilesync.org/download.php): folder comparison and synchronization that creates and manages backup copies of all kind of files
 	- [Syncthing](https://github.com/syncthing/syncthing): file synchronization between computers
 * Browsers
@@ -110,7 +110,7 @@
 * Password management
 	- [KeeWeb](https://github.com/keeweb/keeweb/releases/)
 * Font Management
-	- [Fontba.se](https://fontba.se/): tipography management
+	- [Fontba.se](https://fontba.se/): typography management
 * Note taking
 	- [Joplin](https://joplinapp.org/)
 * 3D editing
@@ -129,6 +129,8 @@
 	- [DJView](https://sourceforge.net/projects/djview-495-for-mac/): DJVU viewer 
 	- [ImageJ](https://imagej.nih.gov/ij/): Java-based image processing and analysis
 	- [Tropy](https://tropy.org/): research photo management
+* Image compressor
+	- [Image shrinker](https://github.com/stefansl/image-shrinker/releases)
 * Image to pdf
 	- [Alchemy](https://dawnlabs.github.io/alchemy/)
 * Document management
@@ -157,7 +159,7 @@
 	- [AMPPS](http://www.ampps.com/download): PHP, MySQL and Apache running on OSX El Capitan (10.11) or later.
 * Data validator 
 	- [DataProofer](https://github.com/dataproofer/Dataproofer/releases): proofreader for your data
-	- [Talent open studio for data quality](https://www.talend.com/products/data-quality/data-quality-open-studio/): Data profiling and analytics with graphical charts and drilldown data
+	- [Talent open studio for data quality](https://www.talend.com/products/data-quality/data-quality-open-studio/): Data profiling and analytics with graphical charts and drill-down data
 	- [OpenRefine](http://openrefine.org/download.html): tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data
 * Statistics
 	- [R](http://cran.r-project.org/mirrors.html)
@@ -167,7 +169,7 @@
 	- [MacTeX](http://www.tug.org/mactex/)
 * Translator
 	- [Deepl](https://www.deepl.com/es/app/)
-* Hard disk & pendrives (access)
+* Hard disk & pen-drives (access)
 	- [ntfstool](https://github.com/ntfstool/ntfstool/releases)
 	- [Mounty for NTFS](https://mounty.app/releases/Mounty.dmg)
 	- [Hasleo NTFS for Mac](https://www.easyuefi.com/ntfs-for-mac/ntfs-for-mac.html)
@@ -176,8 +178,7 @@
 * Miscellaneous
 	- [f.lux](https://justgetflux.com/dlmac.html): blue light screen protection
 	- [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases): control your external monitor brightness & volume
-	- [iTunes](https://www.apple.com/la/itunes/)
-	- ~~[Adobe Flash player](https://get.adobe.com/es/flashplayer/)~~: Adobe ends development and technical support on december 30; 2020 
+	- [iTunes](https://www.apple.com/la/itunes/) 
 	- [Veusz](https://github.com/veusz/veusz/releases/download/veusz-3.2/veusz-3.2-AppleOSX.dmg): a scientific plotting package
 	- [Java](https://www.java.com/es/download/)
 	- [AlDente](https://github.com/davidwernhart/AlDente): battery charge management
