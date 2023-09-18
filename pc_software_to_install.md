@@ -115,8 +115,6 @@
 	- [Inkscape](https://inkscape.org/release/)
 * Raster image viewer
 	- [Xnview MP](https://www.xnview.com/en/xnviewmp/)
-* Image compressor
-	- [Image shrinker](https://github.com/stefansl/image-shrinker/releases)
 * Font Management
 	- [Fontba.se](https://fontba.se/): typography management
 * 3D editing
@@ -194,18 +192,18 @@
 	- [Rufus](https://rufus.ie/): create bootable usb drives
 	- [File Optimizer](https://sourceforge.net/projects/nikkhokkho/files/latest/download)
 	- [Java](https://www.java.com/es/download/)
-	- [Homebrew]
 	- [Node.js](https://nodejs.org/en/): javascript runtime
 	- ~~[Microsoft .NET Framework 4.5](https://www.microsoft.com/es-ar/download/details.aspx?id=30653):~~ not essential in Windows 10. Check former operating systems compatibilities
 	- [USB safely remove](https://quickandeasysoftware.net/downloads?download=USBDiskEjector1.3.0.6.zip&progname=USB+Disk+Ejector)
 	- [File renamer](http://www.joejoesoft.com/vcms/108/)
+	- [FileRenamer](https://www.sttmedia.com/filerenamer-download)
 	- [Wox](https://github.com/Wox-launcher/Wox/releases): application launcher (like [Alfred](https://www.alfredapp.com) for the mac)
 	- [Dependency walker](http://www.dependencywalker.com/): scans any 32-bit or 64-bit Windows module (exe, dll, ocx, sys, etc.) and builds a hierarchical tree diagram of all dependent modules
 	- [The PC Decrapifier](https://www.pcdecrapifier.com/)
 	- [Folding@home](https://foldingathome.org/start-folding/): fighting diseases donating processing's computer (runs in background mode)
 	
 ## Notes ##
-* Always, the preferred versions are those labeled as [x64](https://en.wikipedia.org/wiki/64-bit_computing)
+* Always, the preferred versions are those labeled as [x64](https://en.wikipedia.org/wiki/64-bit_computing). Actually is a mandatory situation (compatibilities issues)
 
 ## Legal ##
 
