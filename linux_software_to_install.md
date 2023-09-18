@@ -132,6 +132,7 @@
 * Miscellaneous
 	- [Java](https://www.java.com/es/download/manual.jsp)
 	- [f.lux](https://justgetflux.com/linux.html): blue light screen protection
+	- [FileRenamer](https://www.sttmedia.com/filerenamer-download)
 
 ### Legal
 
