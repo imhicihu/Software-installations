@@ -49,9 +49,9 @@
 	- ~~[Filmulator](https://github.com/CarVac/filmulator-gui/releases)~~ (No binaries to install, so out of the scope of this list)
 * Cloud hosting
 	- [Dropbox](https://www.dropbox.com/es/downloading): cloud hosting
-* File syncronization
+* File synchronization
 	-  [FreeFileSync](https://freefilesync.org/download.php): folder comparison and synchronization that creates and manages backup copies of all kind of files
-	- [Syncthing](https://github.com/syncthing/syncthing):file synchronization between computers
+	- [Syncthing](https://github.com/syncthing/syncthing): file synchronization between computers
 * Browsers
 	- [Google Chrome](https://www.google.com/intl/es-419/chrome/): internet browser
 		- plus this add-ons:
@@ -115,8 +115,10 @@
 	- [Inkscape](https://inkscape.org/release/)
 * Raster image viewer
 	- [Xnview MP](https://www.xnview.com/en/xnviewmp/)
+* Image compressor
+	- [Image shrinker](https://github.com/stefansl/image-shrinker/releases)
 * Font Management
-	- [Fontba.se](https://fontba.se/): tipography management
+	- [Fontba.se](https://fontba.se/): typography management
 * 3D editing
 	- [Meshlab](http://www.meshlab.net)
 	- [Blender](https://www.blender.org)
@@ -142,7 +144,7 @@
 	- [OneNote](https://www.microsoft.com/en-us/p/onenote/9wzdncrfhvjl?ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-0bWFkjY_lWttiRhTw72ecw&epi=TnL5HPStwNw-0bWFkjY_lWttiRhTw72ecw&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=(ir__wwnolxiwuskfryltkk0sohzj0e2xg3nobfo3xfww00)(7593)(1243925)(TnL5HPStwNw-0bWFkjY_lWttiRhTw72ecw)()&irclickid=_wwnolxiwuskfryltkk0sohzj0e2xg3nobfo3xfww00&activetab=pivot:overviewtab)
 		+ Add this add-on: [OneNote for Google Chrome](https://www.onenote.com/clipper)
 * FTP
-	- [FileZilla](https://filezilla-project.org/): file sharing and uploader to webservers
+	- [FileZilla](https://filezilla-project.org/): file sharing and uploader to web-servers
 * Video meetings
 	- [Skype](https://www.skype.com/es/get-skype/): virtual meetings
 	- [Zoom.us](https://zoom.us/download#client_4meeting): virtual meetings
@@ -161,7 +163,7 @@
 	- [WampServer](http://www.wampserver.com/en/#download-wrapper): PHP, MySQL and Apache running on Windows
 * Data validator 
 	- [DataProofer](https://github.com/dataproofer/Dataproofer/releases): proofreader for your data
-	- [Talent open studio for data quality](https://www.talend.com/products/data-quality/data-quality-open-studio/): Data profiling and analytics with graphical charts and drilldown data
+	- [Talent open studio for data quality](https://www.talend.com/products/data-quality/data-quality-open-studio/): Data profiling and analytics with graphical charts and drill-down data
 	- [OpenRefine](http://openrefine.org/download.html): tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data
 * Hash validators
 	- [md5-app](https://github.com/mhmdkrmabd/md5-app/releases): creates and verifies an MD5 hash value with a focus on securitization of data
@@ -192,6 +194,7 @@
 	- [Rufus](https://rufus.ie/): create bootable usb drives
 	- [File Optimizer](https://sourceforge.net/projects/nikkhokkho/files/latest/download)
 	- [Java](https://www.java.com/es/download/)
+	- [Homebrew]
 	- [Node.js](https://nodejs.org/en/): javascript runtime
 	- ~~[Microsoft .NET Framework 4.5](https://www.microsoft.com/es-ar/download/details.aspx?id=30653):~~ not essential in Windows 10. Check former operating systems compatibilities
 	- [USB safely remove](https://quickandeasysoftware.net/downloads?download=USBDiskEjector1.3.0.6.zip&progname=USB+Disk+Ejector)
