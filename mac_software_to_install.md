@@ -72,6 +72,8 @@
 * Virtualization
 	- [Oracle VirtualBox](https://www.virtualbox.org): virtualization of operating systems, _et. al._
 		- [Virtualbox extension pack](https://www.virtualbox.org/wiki/Downloads): add-on for Oracle VirtualBox
+* File renamer (batch & automatic)
+	- [FileRenamer](https://www.sttmedia.com/filerenamer-download)
 * Android emulators
 	- [BlueStacks](https://www.bluestacks.com/bluestacks-android-n.html): android emulator
 	- ~~[GenyMotion](https://www.genymotion.com/desktop/): android emulator~~
