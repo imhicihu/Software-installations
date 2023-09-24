@@ -13,6 +13,7 @@
 * Hardware profiler
     - [MachineProfile](http://www.micromat.com/products/machineprofile)
 * Text editor (multipurpose)
+  - [Beam](https://www.bean-osx.com/Bean.html) 
   - [CotEditor](https://coteditor.com/)
   - [Atom](http://atom.io/)
   - [Brackets](http://brackets.io/)
