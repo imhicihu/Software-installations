@@ -3,6 +3,7 @@
 
 ### File sharing
 * [BlackHole](https://blackhole.run/): No storage limits, no link expiration, file downloads without registrations
+* [SnapDrop](https://snapdrop.net/): share any file across inner wifi network
 
 ### Security
 * [Jotti](https://virusscan.jotti.org/en)
