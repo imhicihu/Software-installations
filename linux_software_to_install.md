@@ -28,6 +28,8 @@
 * File syncronization
 	- [FreeFileSync](https://freefilesync.org/download.php): folder comparison and synchronization that creates and manages backup copies of all kind of files
 	- [Syncthing](https://github.com/syncthing/syncthing):file synchronization between computers
+* File sharing
+  - [LocalSend](https://github.com/localsend/localsend): file transfer across our wifi network
 * Browsers
 	- [Google Chrome](https://support.google.com/chrome/a/answer/9025926?hl=en&ref_topic=9025817): internet browser
 		- plus this add-ons:
