@@ -46,7 +46,7 @@
 * Video codecs
 	- [K-Lite Codec Pack](https://codecguide.com/download_kl.htm): multi-format file format handler
 * RAW viewer
-	- ~~[Filmulator](https://github.com/CarVac/filmulator-gui/releases)~~ (No binaries to install, so out of the scope of this list)
+	- [Filmulator](https://github.com/CarVac/filmulator-gui/releases): raw photo editor
 * Cloud hosting
 	- [Dropbox](https://www.dropbox.com/es/downloading): cloud hosting
 * File synchronization
@@ -188,7 +188,6 @@
 * Miscellaneous
 	- [f.lux](https://justgetflux.com/dlwin.html): blue light screen protection
 	- [iTunes](https://www.apple.com/la/itunes/)
-	- ~~[Adobe Flash player](https://get.adobe.com/es/flashplayer/)~~: Adobe ends development and technical support on december 30; 2020
 	- [FindLongFiles](http://www.demenzunmedia.com/lilchips/Software_FindLongFiles_100.zip): locate filespecs too long to copy
 	- [Veusz](https://github.com/veusz/veusz/releases/download/veusz-3.2/veusz-3.2.0.1-windows-setup.exe): a scientific plotting package
 	- [Rufus](https://rufus.ie/): create bootable usb drives
