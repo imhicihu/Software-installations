@@ -113,6 +113,7 @@
 	- [Apache OpenOffice Draw](https://www.openoffice.org/es/producto/draw.html)
 	- [PDFSam](https://pdfsam.org/es/download-pdfsam-basic/)
   - [PDFGear](https://www.pdfgear.com/)
+  - [PDF24 Creator](https://tools.pdf24.org/es/creator)
 * Vector image editor
 	- [Inkscape](https://inkscape.org/release/)
 * Raster image viewer
