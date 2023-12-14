@@ -1,6 +1,7 @@
 ### Software to install (for the Microsoft Windows® environment)
 * Backup
 	- [Duplicati](https://www.duplicati.com/): backup software with multiple options: schedule tasks, data encryption, etc.
+	- [UrBackup](https://www.urbackup.org/download.html#client_windows)
 	- [Google Backup and sync](https://www.google.com/drive/download/backup-and-sync/): Windows-based backup tool
 * Automation of installations & updates of applications
 	- ~~[Roboget](https://github.com/builtbybel/Roboget/releases/)~~
