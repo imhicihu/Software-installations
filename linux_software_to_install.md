@@ -55,9 +55,10 @@
 * Virtualization
 	- [Oracle VirtualBox](https://www.virtualbox.org/wiki/Linux_Downloads): virtualization of operating systems, _et. al._
 	- [Virtualbox extension pack](https://www.virtualbox.org/wiki/Downloads): add-on for Oracle VirtualBox
-* GIS & maps
+* GIS & maps & GPS
 	- [QGIS](https://qgis.org/es/site/forusers/alldownloads.html): GIS handling
-	- [Google Earth](https://www.google.com/intl/es/earth/download/gep/agree.html): 
+	- [Google Earth](https://www.google.com/intl/es/earth/download/gep/agree.html): virtual map
+	- [gpxsee](https://www.gpxsee.org/): GPS log file viewer and analyzer 
 * Office automation
 	- [LibreOffice](https://www.libreoffice.org/download/download/): ofimatic
 * Text converter

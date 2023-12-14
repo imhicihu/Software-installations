@@ -80,9 +80,10 @@
 * Android emulators
 	- [BlueStacks](https://www.bluestacks.com/bluestacks-android-n.html): android emulator
 	- ~~[GenyMotion](https://www.genymotion.com/desktop/): android emulator~~
-* GIS & maps
+* GIS & maps & GPS
 	- [QGIS](https://qgis.org/en/site/): GIS handling
-	- [Google Earth](https://www.google.com/intl/es-419_ALL/earth/versions/#earth-pro): 
+	- [Google Earth](https://www.google.com/intl/es-419_ALL/earth/versions/#earth-pro): virtual globe
+	- [gpxsee](https://www.gpxsee.org/): GPS log file viewer and analyzer
 * Office automation
 	- [LibreOffice](https://www.libreoffice.org/download/download/): ofimatic
 * Text converter
