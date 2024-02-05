@@ -24,4 +24,6 @@
 
 ### Text editor
 * [Dillinger](https://dillinger.io/): markdown editor
+* [Visual Studio Code](https://vscode.dev/)
+* [Github Dev](https://github.dev/github/dev)
 
