@@ -66,7 +66,7 @@
 			   - [Multi-Account Containers](https://addons.mozilla.org/firefox/addon/multi-account-containers/): workflow, privacy
 	- [Vivaldi](https://vivaldi.com/): internet browser
 	- [Opera](https://www.opera.com/es): internet browser
-	- [Brave](https://brave.com/): internet browser (speedy!)
+	- [Brave](https://brave.com/): internet browser
 * Browser security
 	- [Browser audit](https://browseraudit.com/): pass test to verify the integrity of your browser. Online tool
 * Personal groups, files, and chat
@@ -184,6 +184,7 @@
 * Miscellaneous
 	- [f.lux](https://justgetflux.com/dlmac.html): blue light screen protection
 	- [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases): control your external monitor brightness & volume
+	- [DwellClick for macOS](https://pilotmoon.com/dwellclick/): assistive app for mouse clicks
 	- [iTunes](https://www.apple.com/la/itunes/) 
 	- [Veusz](https://github.com/veusz/veusz/releases/download/veusz-3.2/veusz-3.2-AppleOSX.dmg): a scientific plotting package
 	- [Java](https://www.java.com/es/download/)
