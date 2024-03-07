@@ -10,7 +10,7 @@
 	- [Ccleaner](https://www.ccleaner.com/)
 	- [Cleanmgr+](https://www.mirinsoft.com/cleanmgrplus)
 * Text editor (multipurpose)
-	- [Atom](http://atom.io/)
+	- ~~[Atom](http://atom.io/)~~ ([deprecated](https://github.blog/2022-06-08-sunsetting-atom/) by GitHub)
 	- [Brackets](http://brackets.io/)
 	- [Notepad++](https://notepad-plus-plus.org/downloads/): NotePad enhanced
 	- [Zettlr](https://www.zettlr.com/): Markdown editor which integrates CSL, BibLaTeX, Pandoc and many other tools
