@@ -21,7 +21,7 @@
 | [Speccy](https://www.ccleaner.com/speccy)                    | WeTransfer                                                              |
 | [VLC](http://www.videolan.org)                               | WeTransfer                                                   |
 | [K-Lite Codec Pack](https://codecguide.com/download_kl.htm)  | WeTransfer                                                              |
-| ~~[Filmulator](https://github.com/CarVac/filmulator-gui/releases)~~ | ~~Binary not available at time request~~                         |
+| [Filmulator](https://github.com/CarVac/filmulator-gui/releases) | Needs a pc with a Windows or Linux environment to install the main app                       |
 | [Dropbox](https://dropbox.com/)                              | Needs a pc with a Windows environment to download the main app |
 | [Google Chrome](https://www.google.com/intl/es-419/chrome/)  | Needs a pc with a Windows environment to download the main app                                                             |
 | [Mozilla Firefox](https://www.mozilla.org/es-AR/firefox/)    | Needs a pc with a Windows environment to download the main app                                                             |
