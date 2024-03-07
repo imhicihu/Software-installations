@@ -19,6 +19,7 @@
 	- [K3b](https://sourceforge.net/projects/k3b/)
 * Database (handling and editor)
 	- [Draxed](https://www.draxed.com/download): query editor; mysql & postgreSQL supported
+  - [DBeaver](https://dbeaver.io/): database management & analysis with MySQL, MariaDB, PostgreSQL, SQLite support
 * Video viewer
 	- [VLC](https://www.videolan.org/vlc/#download): multi-format viewer
 * RAW viewer
