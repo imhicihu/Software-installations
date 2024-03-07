@@ -33,6 +33,7 @@
 * Database (handling and editor)
 	- [Draxed](https://www.draxed.com/download/lastest/dmg): query editor; mysql & postgreSQL supported
 	- [symphytum](https://github.com/giowck/symphytum): personal database
+  - [DBeaver](https://dbeaver.io/): database management & analysis with MySQL, MariaDB, PostgreSQL, SQLite support
 * Video viewer
 	- [VLC](http://www.videolan.org): multi-format viewer
 * RAW viewer
@@ -65,7 +66,7 @@
 		- plus this add-ons:
 			   - [Multi-Account Containers](https://addons.mozilla.org/firefox/addon/multi-account-containers/): workflow, privacy
 	- [Vivaldi](https://vivaldi.com/): internet browser
-	- [Opera](https://www.opera.com/es): internet browser
+	- [Opera](https://www.opera.com/): internet browser
 	- [Brave](https://brave.com/): internet browser
 * Browser security
 	- [Browser audit](https://browseraudit.com/): pass test to verify the integrity of your browser. Online tool
