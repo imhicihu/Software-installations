@@ -5,7 +5,7 @@
 	- [Duplicati](https://github.com/duplicati/duplicati/releases): backup software with multiple options: schedule tasks, data encryption, etc.
 	- [Google Backup and sync](https://apps.apple.com/app/google-drive/id507874739): Cloud-based backup tool
 * Text editor (multipurpose)
-	- [Atom](https://github.com/atom/atom/releases/)
+	- ~~[Atom](http://atom.io/)~~ ([deprecated](https://github.blog/2022-06-08-sunsetting-atom/) by GitHub)
 	- [Brackets](https://github.com/adobe/brackets/releases)
 	- [Zettlr](https://www.zettlr.com/): Markdown editor which integrates CSL, BibLaTeX, Pandoc and many other tools
 * Compressors
