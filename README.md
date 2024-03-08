@@ -35,7 +35,7 @@
 * How to run tests
     - There is no `run-to-test` method to apply, at least, up to now
 * Deployment instructions
-    - Every softwre involves `install-uninstall` properties/method
+    - Every software involves `install-uninstall` properties/method
 
 ### Source ###
 
