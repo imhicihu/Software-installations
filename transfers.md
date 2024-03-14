@@ -81,7 +81,7 @@
 | [GMapTool](https://www.gmaptool.eu/en/content/windows-setup) | WeTransfer                                                             |
 | [GeoViewer](https://www.extensis.com/download-geoviewer)     | needs email registration                                                            |
 | [iTunes](https://www.apple.com/la/itunes/)                   | Needs a pc with a Windows environment to download the main app |
-| [Adobe Flash player](https://get.adobe.com/es/flashplayer/)  | Needs a pc with a Windows environment to download the main app |
+| ~~[Adobe Flash player](https://get.adobe.com/es/flashplayer/)~~  | Needs a pc with a Windows environment to download the main app. Officially [deprecated](https://www.adobe.com/es/products/flashplayer/end-of-life.html)|
 | [Rufus](https://rufus.ie/)                                   | WeTransfer                                                             |
 | [File Optimizer](https://sourceforge.net/projects/nikkhokkho/files/latest/download) | WeTransfer                                                             |
 | [Java](https://www.java.com/es/download/)                    | WeTransfer                                                   |
