@@ -65,7 +65,7 @@
 * Text converter
 	- [Pandoc](https://pandoc.org/installing.html#linux): universal file text converter
 * Text expander
-  - [Espanso](https://espanso.org/): universal text expander
+	- [Espanso](https://espanso.org/): universal text expander
 * Ebook manager (plus metadata editor)
 	- [Calibre](https://calibre-ebook.com/download): multi-format ebook reader, cataloguer, searcher
 * PDF editor & viewer
