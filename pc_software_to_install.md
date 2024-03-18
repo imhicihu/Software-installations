@@ -208,9 +208,9 @@
 	- [The PC Decrapifier](https://www.pcdecrapifier.com/)
 	- [Folding@home](https://foldingathome.org/start-folding/): fighting diseases donating processing's computer (runs in background mode)
 	
-## Notes ##
+### Notes
 * Always, the preferred versions are those labeled as [x64](https://en.wikipedia.org/wiki/64-bit_computing). Actually is a mandatory situation (compatibilities issues)
 
-## Legal ##
+### Legal
 
 * All trademarks are the property of their respective owners.
