@@ -97,7 +97,7 @@
 * Text converter
 	- [Pandoc](https://pandoc.org/installing.html): universal file text converter
 * Text expander
-  - [Espanso](https://espanso.org/): universal text expander
+	- [Espanso](https://espanso.org/): universal text expander
 * Rich text editor
 	- [Texts](http://www.texts.io/Texts-1.5.msi): markdown file format viewer and editor
 * Ebook manager (plus metadata editor)
@@ -116,8 +116,8 @@
 	- [LibreOffice Draw PDF editor](https://www.libreoffice.org/download/download/)
 	- [Apache OpenOffice Draw](https://www.openoffice.org/es/producto/draw.html)
 	- [PDFSam](https://pdfsam.org/es/download-pdfsam-basic/)
-  - [PDFGear](https://www.pdfgear.com/)
-  - [PDF24 Creator](https://tools.pdf24.org/es/creator)
+	- [PDFGear](https://www.pdfgear.com/)
+	- [PDF24 Creator](https://tools.pdf24.org/es/creator)
 * Vector image editor
 	- [Inkscape](https://inkscape.org/release/)
 * Raster image viewer
