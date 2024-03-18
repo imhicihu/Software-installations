@@ -198,6 +198,7 @@
 	- [~~Advanced~~ Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp/releases):
 	- [Folding@home](https://foldingathome.org/start-folding/): fighting diseases donating processing's computer (runs in background mode)
 	- [SilentKnight](https://eclecticlight.co/lockrattler-systhist/): Verify Security system
-## Legal ##
+
+### Legal
 
 * All trademarks are the property of their respective owners.
