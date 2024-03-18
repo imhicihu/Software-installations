@@ -19,18 +19,18 @@
 	- [K3b](https://sourceforge.net/projects/k3b/)
 * Database (handling and editor)
 	- [Draxed](https://www.draxed.com/download): query editor; mysql & postgreSQL supported
-  - [DBeaver](https://dbeaver.io/): database management & analysis with MySQL, MariaDB, PostgreSQL, SQLite support
+	- [DBeaver](https://dbeaver.io/): database management & analysis with MySQL, MariaDB, PostgreSQL, SQLite support
 * Video viewer
 	- [VLC](https://www.videolan.org/vlc/#download): multi-format viewer
 * RAW viewer
-	- [Filmulator](https://github.com/CarVac/filmulator-gui/releases)
+	- [Filmulator](https://github.com/CarVac/filmulator-gui/releases): raw photo editor
 * Cloud hosting
 	- [Dropbox](https://www.dropbox.com/es/install-linux)
 * File syncronization
 	- [FreeFileSync](https://freefilesync.org/download.php): folder comparison and synchronization that creates and manages backup copies of all kind of files
 	- [Syncthing](https://github.com/syncthing/syncthing):file synchronization between computers
 * File sharing
-  - [LocalSend](https://github.com/localsend/localsend): file transfer across our wifi network
+	- [LocalSend](https://github.com/localsend/localsend): file transfer across our wifi network
 * Browsers
 	- [Google Chrome](https://support.google.com/chrome/a/answer/9025926?hl=en&ref_topic=9025817): internet browser
 		- plus this add-ons:
