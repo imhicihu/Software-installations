@@ -109,7 +109,7 @@
 	- [Apache OpenOffice Draw](https://www.openoffice.org/es/descargar/index.html)
 	- [PDFSam](https://pdfsam.org/es/download-pdfsam-basic/)
 	- [PEP - Free & Open Source PDF Editor for Mac](https://macpep.org/download)
-  - [PDFGear](https://www.pdfgear.com/)
+	- [PDFGear](https://www.pdfgear.com/)
 * Vector image editor
 	- [Inkscape](https://inkscape.org/release/)
 * Raster image viewer
@@ -144,7 +144,7 @@
 	- ~~[PaperWork](https://openpaper.work/en-us/)~~
 * Digital notebook / Note taking
 	- [Evernote](https://evernote.com): offline and online mode. Cloud based. 
-		+ Add this add-on: [Evernote for Firefox](https://addons.mozilla.org/es/firefox/addon/evernote-web-clipper/); [Evernote for Google Chrome](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?hl=es); 
+		+ Add this add-on: [Evernote for Firefox](https://addons.mozilla.org/es/firefox/addon/evernote-web-clipper/); [Evernote for Google Chrome](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?hl=es)
 * Video meetings
 	- [Skype](https://www.skype.com/es/get-skype/): virtual meetings
 	- [Zoom.us](https://zoom.us/download#client_4meeting): virtual meetings
