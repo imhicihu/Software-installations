@@ -180,7 +180,7 @@
 	- [ntfstool](https://github.com/ntfstool/ntfstool/releases)
 	- [Mounty for NTFS](https://mounty.app/releases/Mounty.dmg)
 	- [Hasleo NTFS for Mac](https://www.easyuefi.com/ntfs-for-mac/ntfs-for-mac.html)
-  - [SSDReporter](https://www.corecode.io/ssdreporter/): check & monitor SSD/Flash storage health
+	- [SSDReporter](https://www.corecode.io/ssdreporter/): check & monitor SSD/Flash storage health
 * Clipboard management
 	- [CopyQ](https://hluk.github.io/CopyQ/)
 * Miscellaneous
@@ -197,7 +197,7 @@
 	- [Talus](https://github.com/juanbrujo/Talus): `bash` script to automate download & setup your Mac OS X development environment
 	- [~~Advanced~~ Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp/releases):
 	- [Folding@home](https://foldingathome.org/start-folding/): fighting diseases donating processing's computer (runs in background mode)
-  - [SilentKnight](https://eclecticlight.co/lockrattler-systhist/): Verify Security system
+	- [SilentKnight](https://eclecticlight.co/lockrattler-systhist/): Verify Security system
 ## Legal ##
 
 * All trademarks are the property of their respective owners.
