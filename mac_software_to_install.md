@@ -2,7 +2,7 @@
 * Backup
 	- [Duplicati](https://www.duplicati.com/): backup software with multiple options: schedule tasks, data encryption, etc.
 	- [Google Backup and sync](https://apps.apple.com/app/google-drive/id507874739): Cloud-based backup tool
-	- [Syncalicious](https://github.com/zenangst/Syncalicious/releases): System's preferences backup & restore
+	- [Syncalicious](https://github.com/zenangst/Syncalicious/releases): system's preferences backup & restore
 * Firewall
 	- [LuLu](https://objective-see.com/products/lulu.html): block unknown outgoing connections, unless explicitly approved by the user.
 * Security
@@ -71,7 +71,7 @@
   - [Orion](https://kagi.com/orion/): internet browser
 * Browser security
 	- [Browser audit](https://browseraudit.com/): pass test to verify the integrity of your browser. Online tool
-* Personal groups, files, and chat
+* Personal groups, files & chat
 	- [Keybase](https://keybase.io/)
 * Virtualization
 	- [Oracle VirtualBox](https://www.virtualbox.org): virtualization of operating systems, _et. al._
@@ -108,7 +108,7 @@
 	- [LibreOffice Draw PDF editor](https://www.libreoffice.org/download/download/)
 	- [Apache OpenOffice Draw](https://www.openoffice.org/es/descargar/index.html)
 	- [PDFSam](https://pdfsam.org/es/download-pdfsam-basic/)
-	- [PEP - Free & Open Source PDF Editor for Mac](https://macpep.org/download)
+	- [PEP](https://macpep.org/download): PDF Editor for Mac
 	- [PDFGear](https://www.pdfgear.com/)
 * Vector image editor
 	- [Inkscape](https://inkscape.org/release/)
@@ -134,7 +134,7 @@
 	- [Dark Table](http://www.darktable.org/install/#macos): image treatment, enhancer in a non destructive way
 	- [DigiKam](https://www.digikam.org/download/): photo management
 	- [DJView](https://sourceforge.net/projects/djview-495-for-mac/): DJVU viewer 
-	- [ImageJ](https://imagej.nih.gov/ij/): Java-based image processing and analysis
+	- [ImageJ](https://imagej.nih.gov/ij/): java-based image processing and analysis
 	- [Tropy](https://tropy.org/): research photo management
 * Image compressor
 	- [Image shrinker](https://github.com/stefansl/image-shrinker/releases)
@@ -189,15 +189,15 @@
 	- [DwellClick for macOS](https://pilotmoon.com/dwellclick/): assistive app for mouse clicks
 	- [iTunes](https://www.apple.com/la/itunes/) 
 	- [Veusz](https://github.com/veusz/veusz/releases/download/veusz-3.2/veusz-3.2-AppleOSX.dmg): a scientific plotting package
-	- [Java](https://www.java.com/es/download/)
+	- [Java](https://www.java.com/es/download/): runtime to leverage apps 
 	- [AlDente](https://github.com/davidwernhart/AlDente): battery charge management
-	- [Homebrew](http://brew.sh/): package Manager for macOS
+	- [Homebrew](http://brew.sh/): package manager for macOS
 	- [Node.js](https://nodejs.org/en/): javascript runtime
 	- [Rectangle](https://rectangleapp.com/): management of system windows
 	- [Talus](https://github.com/juanbrujo/Talus): `bash` script to automate download & setup your Mac OS X development environment
-	- [~~Advanced~~ Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp/releases):
-	- [Folding@home](https://foldingathome.org/start-folding/): fighting diseases donating processing's computer (runs in background mode)
-	- [SilentKnight](https://eclecticlight.co/lockrattler-systhist/): Verify Security system
+	- [~~Advanced~~ Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp/releases)
+	- [Folding@home](https://foldingathome.org/start-folding/): fighting diseases donating processing's computer (runs in background and in non-intrusive mode)
+	- [SilentKnight](https://eclecticlight.co/lockrattler-systhist/): verifying security system
 
 ### Legal
 
