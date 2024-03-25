@@ -19,4 +19,14 @@
 - IntelliCode API Usage examples
 - JavaScript (ES6) code snippets
 - Learn Vim
+- Live Server
+- LiveReload
+- Markdown all in one
+- Markdown checkboxes
+- Markdown footnotes
+- Markdown preview Github styling
+- Markdown preview mermaid support
+- Markdown yaml preamble
+- Material theme
+- Material Theme icons
 - 
