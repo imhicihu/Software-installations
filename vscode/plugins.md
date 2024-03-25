@@ -1,0 +1,22 @@
+
+#### Extensions
+- Andromeda
+- Auto close tag
+- Auto complete tag
+- Auto rename tag
+- Browse lite
+- Code runner
+- Continue - Claude, Codellama, GPT-4 [...]
+- CSS peek
+- EditorConfig for VS Code
+- ESLint
+- Formatting Toggle
+- GitHub Copilot
+- GitHub Copilot Chat
+- GitHub Markdown preview
+- GitHub Theme
+- IntelliCode
+- IntelliCode API Usage examples
+- JavaScript (ES6) code snippets
+- Learn Vim
+- 
