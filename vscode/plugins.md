@@ -29,4 +29,22 @@
 - Markdown yaml preamble
 - Material theme
 - Material Theme icons
-- 
+- MJML
+- MJML Snippets
+- npm Intellisense
+- Indent rainbow
+- Path intellisense
+- Polacode
+- Prettier - Code formatter
+- Solarized Flat
+- SubliminalR
+- Vetur
+- Vim
+- Vite
+- Vitest
+- VSCode essentials snippets
+- Vue
+- Vue 3 Snippets
+- Vue Peek
+- Vue VSCode snippets
+- Vue.js extension pack
