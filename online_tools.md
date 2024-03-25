@@ -19,6 +19,9 @@
 * [Jotti](https://virusscan.jotti.org/en)
 * [Quad9](https://quad9.net/)
 
+#### Browser security
++ [Browser audit](https://browseraudit.com/): pass test to verify the integrity of your browser. Online tool
+
 #### Speech recognition
 * [Dictation](https://dictation.io/speech)
 
