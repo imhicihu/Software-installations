@@ -13,16 +13,16 @@
 	- ~~[Atom](http://atom.io/)~~ ([deprecated](https://github.blog/2022-06-08-sunsetting-atom/) by GitHub)
 	- [Brackets](http://brackets.io/)
 	- [Notepad++](https://notepad-plus-plus.org/downloads/): NotePad enhanced
-	- [Zettlr](https://www.zettlr.com/): Markdown editor which integrates CSL, BibLaTeX, Pandoc and many other tools
+	- [Zettlr](https://www.zettlr.com/): markdown editor which integrates CSL, BibLaTeX, Pandoc and many other tools
 * Defragmenter
 	- [Defraggler](https://www.ccleaner.com/defraggler): disk drive defragmenter
 * Recover deleted files
 	- [Recuva](https://www.ccleaner.com/recuva)
-* Personal groups, files, and chat
+* Personal groups, files & chat
 	- [Keybase](https://keybase.io/)
 * Hard disk cloner
-	- [Cloneapp](http://www.mirinsoft.com/download/category/2-cloneapp): backup Application Settings of Windows programs
-	- [CloneApp UA](http://www.mirinsoft.com/download/category/13-ca-ua): backup Application Settings of Universal apps (UWP)
+	- [Cloneapp](http://www.mirinsoft.com/download/category/2-cloneapp): backup application settings of Windows programs
+	- [CloneApp UA](http://www.mirinsoft.com/download/category/13-ca-ua): backup application settings of Universal apps (UWP)
 * Clipboard
 	- [CopyQ](https://hluk.github.io/CopyQ/)
 	- [Ditto Clipboard](https://www.microsoft.com/en-us/p/ditto-clipboard/9nblggh3zbjq?rtc=1&ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-xUPCRvXAQestQG5TTcXtoQ&epi=TnL5HPStwNw-xUPCRvXAQestQG5TTcXtoQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=(ir__wwnolxiwuskfryltkk0sohzj0e2xg3nagvo3xfww00)(7593)(1243925)(TnL5HPStwNw-xUPCRvXAQestQG5TTcXtoQ)()&irclickid=_wwnolxiwuskfryltkk0sohzj0e2xg3nagvo3xfww00&activetab=pivot:overviewtab)
@@ -31,7 +31,7 @@
 * Compressors
 	- [7-Zip](https://www.7-zip.org/): multi-format file types handler
 	- [Peazip](https://www.peazip.org/): compressor and handler of compressed files
-	- [HJSplit](https://www.usitility.com/es/hjsplit/): multipart zip processor
+	- [HJSplit](https://www.usitility.com/es/hjsplit/): multi-part zip processor
 * Database (handling and editor)
 	- [Draxed](https://www.draxed.com/download/lastest/exe): query editor; mysql & postgreSQL supported
   - [DBeaver](https://dbeaver.io/): database management & analysis with MySQL, MariaDB, PostgreSQL, SQLite support 
@@ -185,7 +185,7 @@
 * Maps treatment
 	- [cGPSMapper](https://www.gpsfiledepot.com/tools/cgpsmapper.php)
 	- [GMapTool](https://www.gmaptool.eu/en/content/windows-setup): program for splitting and merging maps in Garmin format
-	- [GeoViewer](https://www.extensis.com/download-geoviewer): Display raster imagery, LiDAR point clouds, vector overlays, and MrSID files
+	- [GeoViewer](https://www.extensis.com/download-geoviewer): display raster imagery, LiDAR point clouds, vector overlays, and MrSID files
 * System check & privacy
 	- [Spydish](https://github.com/builtbybel/spydish/releases): privacy and security check. _Only for Windows 10_.
 	- [SharpApp](https://github.com/mirinsoft/sharpapp/releases): disable telemetry functions in Windows 10
@@ -197,7 +197,7 @@
 	- [Veusz](https://github.com/veusz/veusz/releases/download/veusz-3.2/veusz-3.2.0.1-windows-setup.exe): a scientific plotting package
 	- [Rufus](https://rufus.ie/): create bootable usb drives
 	- [File Optimizer](https://sourceforge.net/projects/nikkhokkho/files/latest/download)
-	- [Java](https://www.java.com/es/download/)
+	- [Java](https://www.java.com/es/download/): runtime to leverage apps
 	- [Node.js](https://nodejs.org/en/): javascript runtime
 	- ~~[Microsoft .NET Framework 4.5](https://www.microsoft.com/es-ar/download/details.aspx?id=30653):~~ not essential in Windows 10. Check former operating systems compatibilities
 	- [USB safely remove](https://quickandeasysoftware.net/downloads?download=USBDiskEjector1.3.0.6.zip&progname=USB+Disk+Ejector)
@@ -206,7 +206,7 @@
 	- [Wox](https://github.com/Wox-launcher/Wox/releases): application launcher (like [Alfred](https://www.alfredapp.com) for the mac)
 	- [Dependency walker](http://www.dependencywalker.com/): scans any 32-bit or 64-bit Windows module (exe, dll, ocx, sys, etc.) and builds a hierarchical tree diagram of all dependent modules
 	- [The PC Decrapifier](https://www.pcdecrapifier.com/)
-	- [Folding@home](https://foldingathome.org/start-folding/): fighting diseases donating processing's computer (runs in background mode)
+	- [Folding@home](https://foldingathome.org/start-folding/): fighting diseases donating processing's computer (runs in background and non-intrusive mode)
 	
 ### Notes
 * Always, the preferred versions are those labeled as [x64](https://en.wikipedia.org/wiki/64-bit_computing). Actually is a mandatory situation (compatibilities issues)
