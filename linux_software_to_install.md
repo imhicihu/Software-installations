@@ -3,18 +3,18 @@
 	- [Flathub](https://flathub.org/home): easy installation from one hotspot and from the command line
 * Backup
 	- [Duplicati](https://github.com/duplicati/duplicati/releases): backup software with multiple options: schedule tasks, data encryption, etc.
-	- [Google Backup and sync](https://apps.apple.com/app/google-drive/id507874739): Cloud-based backup tool
+	- [Google Backup and sync](https://apps.apple.com/app/google-drive/id507874739): cloud-based backup tool
 * Text editor (multipurpose)
 	- ~~[Atom](http://atom.io/)~~ ([deprecated](https://github.blog/2022-06-08-sunsetting-atom/) by GitHub)
 	- [Brackets](https://github.com/adobe/brackets/releases)
-	- [Zettlr](https://www.zettlr.com/): Markdown editor which integrates CSL, BibLaTeX, Pandoc and many other tools
+	- [Zettlr](https://www.zettlr.com/): markdown editor which integrates CSL, BibLaTeX, Pandoc and many other tools
 * Compressors
 	- [Peazip](https://www.peazip.org/peazip-linux.html): compressor and handler of compressed files
 * Data backup
 	- [Nero Linux](http://www.nero.com/eng/downloads/previous-versions/download-linux4-update.php?vlang=en): CD/DVD/DVD/Blu-ray burning application
-	- [CDRDAO](http://cdrdao.sourceforge.net/): Disk-At-Once Recording of Audio and Data CD-Rs/CD-RWs
+	- [CDRDAO](http://cdrdao.sourceforge.net/): disk-at-once recording of audio and data CD-Rs/CD-RWs
 	- [Xfburn](https://www.bodhilinux.com/a/xfburn/): CD/DVD burning tool
-	- [X-CD-Roast](http://www.xcdroast.org/): creates ISO 9660 Joliet images
+	- [X-CD-Roast](http://www.xcdroast.org/): creates ISO 9660 joliet images
 	- [GnomeBaker](https://www.unixmen.com/how-to-install-gnomebaker-in-ubuntu/)
 	- [K3b](https://sourceforge.net/projects/k3b/)
 * Database (handling and editor)
@@ -49,16 +49,14 @@
 	- [Vivaldi](https://vivaldi.com/es/download/): internet browser
 	- [Opera](https://www.opera.com/es-419/computer): internet browser
 	- [Brave](https://brave.com/): internet browser
-* Browser security
-	- [Browser audit](https://browseraudit.com/): pass test to verify the integrity of your browser. Online tool
-* Personal groups, files, and chat
+* Personal groups, files & chat
 	- [Keybase](https://keybase.io/docs/the_app/install_linux)
 * Virtualization
 	- [Oracle VirtualBox](https://www.virtualbox.org/wiki/Linux_Downloads): virtualization of operating systems, _et. al._
 	- [Virtualbox extension pack](https://www.virtualbox.org/wiki/Downloads): add-on for Oracle VirtualBox
 * GIS & maps & GPS
 	- [QGIS](https://qgis.org/es/site/forusers/alldownloads.html): GIS handling
-	- [Google Earth](https://www.google.com/intl/es/earth/download/gep/agree.html): virtual map
+	- [Google Earth](https://www.google.com/intl/es/earth/download/gep/agree.html): virtual global map
 	- [gpxsee](https://www.gpxsee.org/): GPS log file viewer and analyzer 
 * Office automation
 	- [LibreOffice](https://www.libreoffice.org/download/download/): ofimatic
