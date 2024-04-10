@@ -38,6 +38,8 @@
 	- [VLC](http://www.videolan.org): multi-format viewer
 * RAW viewer
 	- ~~[Filmulator](https://github.com/CarVac/filmulator-gui/releases)~~ (No binaries to install, so out of the scope of this list)
+* RAW viewer & image processing
+	- [Hasselblad Phocus](https://www.hasselblad.com/phocus/)
 * Cloud hosting
 	- [Dropbox](https://www.dropbox.com/)
 	- [Box](https://box.com/)
