@@ -60,19 +60,19 @@
 * Browsers
 	- [Google Chrome](https://www.google.com/intl/es-419/chrome/): internet browser
 		- plus this add-ons:
-					- [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
-					- [Block Ads: uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
-					- [Get around paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome)
-					- [Cookie Remover](https://chrome.google.com/webstore/detail/cookie-remover/kcgpggonjhmeaejebeoeomdlohicfhce)
-					- [Citationsy](https://chrome.google.com/webstore/detail/citationsy/ananhmnkepfflgfdklgcdpgdngejokkn)
-					- [Writefull](https://chrome.google.com/webstore/detail/writefull/aolaabonkiegkggfdgjjehchjmjfanng/related)
-					- [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
-					- [Unpaywall](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha)
-					- [Open Access](https://chrome.google.com/webstore/detail/open-access-button/gknkbkaapnhpmkcgkmdekdffgcddoiel)
-					- [Kopernio](https://chrome.google.com/webstore/detail/kopernio-powered-by-web-o/fjgncogppolhfdpijihbpfmeohpaadpc)
-					- [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp/related)
-					- [Handsfree for Web - Voice Control](https://chrome.google.com/webstore/detail/handsfree-for-web-voice-c/ldfboinpfdahkgnljbkohgimhimmafip/related?hl=es)
-					- [Privacy Badger](https://privacybadger.org/)
+						+ [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
+						+ [Block Ads: uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+						+ [Get around paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome)
+						+ [Cookie Remover](https://chrome.google.com/webstore/detail/cookie-remover/kcgpggonjhmeaejebeoeomdlohicfhce)
+						+ [Citationsy](https://chrome.google.com/webstore/detail/citationsy/ananhmnkepfflgfdklgcdpgdngejokkn)
+						+ [Writefull](https://chrome.google.com/webstore/detail/writefull/aolaabonkiegkggfdgjjehchjmjfanng/related)
+						+ [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
+						+ [Unpaywall](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha)
+						+ [Open Access](https://chrome.google.com/webstore/detail/open-access-button/gknkbkaapnhpmkcgkmdekdffgcddoiel)
+						+ [Kopernio](https://chrome.google.com/webstore/detail/kopernio-powered-by-web-o/fjgncogppolhfdpijihbpfmeohpaadpc)
+						+ [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp/related)
+						+ [Handsfree for Web - Voice Control](https://chrome.google.com/webstore/detail/handsfree-for-web-voice-c/ldfboinpfdahkgnljbkohgimhimmafip/related?hl=es)
+						+ [Privacy Badger](https://privacybadger.org/)
 	- [Mozilla Firefox](https://www.mozilla.org/es-AR/firefox/): internet browser
 		- plus this add-ons:
 			   - [Multi-Account Containers](https://addons.mozilla.org/firefox/addon/multi-account-containers/): workflow, privacy
@@ -189,7 +189,9 @@
 * System check & privacy
 	- [Spydish](https://github.com/builtbybel/spydish/releases): privacy and security check. _Only for Windows 10_.
 	- [SharpApp](https://github.com/mirinsoft/sharpapp/releases): disable telemetry functions in Windows 10
-	- [Debotnet](https://github.com/mirinsoft/debotnet/releases): controlling Windows 10's many privacy-related settings. Requires Windows 10 including both 32-bit and 64-bit versions.
+	- [Debotnet](https://github.com/mirinsoft/debotnet/releases): controlling Windows 10's many privacy-related settings. Requires Windows 10 including both 32-bit and 64-bit versions
+* Updater
+	- [Chocolatey GUI](https://github.com/chocolatey/ChocolateyGUI/releases/) 
 * Miscellaneous
 	- [f.lux](https://justgetflux.com/dlwin.html): blue light screen protection
 	- [Scoop](https://scoop.sh/): a command-line installer for Windows
