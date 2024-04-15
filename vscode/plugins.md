@@ -18,7 +18,7 @@
 - IntelliCode
 - IntelliCode API Usage examples
 - JavaScript (ES6) code snippets
-- Learn Vim (optional)
+- Learn Vim (_optional_)
 - Live Server
 - LiveReload
 - Markdown all in one
