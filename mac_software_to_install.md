@@ -1,4 +1,7 @@
 ### Software to install (for the MacOSX® environment)
+* Installer & updater of apps
+	- [Homebrew](http://brew.sh/): package & installer manager for macOS
+	- [Latest](https://github.com/mangerlahn/Latest/releases/): updater of installed applications
 * Backup
 	- [Duplicati](https://www.duplicati.com/): backup software with multiple options: schedule tasks, data encryption, etc.
 	- [Google Backup and sync](https://apps.apple.com/app/google-drive/id507874739): Cloud-based backup tool
@@ -193,7 +196,6 @@
 	- [Veusz](https://github.com/veusz/veusz/releases/download/veusz-3.2/veusz-3.2-AppleOSX.dmg): a scientific plotting package
 	- [Java](https://www.java.com/es/download/): runtime to leverage apps 
 	- [AlDente](https://github.com/davidwernhart/AlDente): battery charge management
-	- [Homebrew](http://brew.sh/): package manager for macOS
 	- [Node.js](https://nodejs.org/en/): javascript runtime
 	- [Rectangle](https://rectangleapp.com/): management of system windows
 	- [Talus](https://github.com/juanbrujo/Talus): `bash` script to automate download & setup your Mac OS X development environment
