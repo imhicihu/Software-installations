@@ -34,4 +34,7 @@
 * [Peeplink](https://peeplink.in/): transcriptions, gists, _et alia_
 
 #### Link checker
-* [deadlinkchecker]( https://www.deadlinkchecker.com/)
+* [deadlinkchecker](https://www.deadlinkchecker.com/)
+
+#### Language programming reference
+* [devdocs](https://devdocs.io/)
