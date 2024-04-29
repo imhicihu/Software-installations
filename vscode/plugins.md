@@ -40,6 +40,7 @@
 | [x] | Path intellisense
 | [x] | Polacode
 | [x] | Prettier - [x] Code formatter
+| [x] | React Native tools
 | [x] | Solarized Flat
 | [x] | SubliminalR
 | [x] | Vetur
