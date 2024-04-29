@@ -15,6 +15,7 @@
 - GitHub Copilot Chat
 - GitHub Markdown preview
 - GitHub Theme
+- indent-rainbow
 - IntelliCode
 - IntelliCode API Usage examples
 - JavaScript (ES6) code snippets
@@ -32,7 +33,6 @@
 - MJML
 - MJML Snippets
 - npm Intellisense
-- Indent rainbow
 - Path intellisense
 - Polacode
 - Prettier - Code formatter
@@ -43,7 +43,7 @@
 - Vite
 - Vitest
 - VSCode essentials snippets
-- Vue
+- Vue - Official
 - Vue 3 Snippets
 - Vue Peek
 - Vue VSCode snippets
