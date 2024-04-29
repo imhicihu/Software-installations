@@ -1,18 +1,19 @@
 
 #### Extensions
-- Andromeda
-- Auto close tag
-- Auto complete tag
-- Auto rename tag
-- Browse lite
-- Code runner
-- Continue - Claude, Codellama, GPT-4 [...]
-- CSS peek
-- EditorConfig for VS Code
-- ESLint
-- Formatting Toggle
-- GitHub Copilot
-- GitHub Copilot Chat
+- [x] Andromeda
+- [x]  Auto close tag
+- [x] Auto complete tag
+- [x] Auto rename tag
+- [x] Browse lite
+- [x] Code runner
+- [x] Continue - Claude, Codellama, GPT-4 [...]
+- [x] CSS peek
+- [x] EditorConfig for VS Code
+- [x] ES7+ React/Redux/React-Native snippets
+- [x] ESLint
+- [x] Formatting Toggle
+- [x] GitHub Copilot
+- [x] GitHub Copilot Chat
 - GitHub Markdown preview
 - GitHub Theme
 - indent-rainbow
