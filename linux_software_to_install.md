@@ -28,7 +28,7 @@
 	- [Dropbox](https://www.dropbox.com/es/install-linux)
 * File syncronization
 	- [FreeFileSync](https://freefilesync.org/download.php): folder comparison and synchronization that creates and manages backup copies of all kind of files
-	- [Syncthing](https://github.com/syncthing/syncthing):file synchronization between computers
+	- [Syncthing](https://github.com/syncthing/syncthing): file synchronization between computers
 * File sharing
 	- [LocalSend](https://github.com/localsend/localsend): file transfer across our wifi network
 * Browsers
