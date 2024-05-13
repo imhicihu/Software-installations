@@ -35,7 +35,6 @@
 | [x] | Material theme
 | [x] | Material Theme icons
 | [x] | MJML
-| [x] | MJML Snippets
 | [x] | npm Intellisense
 | [x] | Path intellisense
 | [x] | Polacode
@@ -48,6 +47,7 @@
 | [x] | Vite
 | [x] | Vitest
 | [x] | VSCode essentials snippets
+| [x] | VSCODE Neovim
 | [x] | Vue - [x] Official
 | [x] | Vue 3 Snippets
 | [x] | Vue Peek
