@@ -190,6 +190,7 @@
 	- [SSDReporter](https://www.corecode.io/ssdreporter/): check & monitor SSD/Flash storage health
 * Clipboard management
 	- [CopyQ](https://hluk.github.io/CopyQ/)
+	- [Clipy](https://github.com/Clipy/Clipy/)
 * Miscellaneous
 	- [f.lux](https://justgetflux.com/dlmac.html): blue light screen protection
 	- [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases): control your external monitor brightness & volume
