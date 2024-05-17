@@ -3,15 +3,15 @@
 
 | Installed | Name plugin |
 |:---- |:---- |
-| [x] | Andromeda |
 | [x] | Auto close tag
 | [x] | Auto complete tag
 | [x] | Auto rename tag
-| [x] | Browse lite
+| [x] | Browser lite
 | [x] | Code runner
 | [x] | Continue - Claude, Codellama, GPT-4 [...]
 | [x] | CSS peek
 | [x] | EditorConfig for VS Code
+| [x] | Emmet
 | [x] | ES7+ React/Redux/React-Native snippets
 | [x] | ESLint
 | [x] | Formatting Toggle
@@ -37,6 +37,7 @@
 | [x] | MJML
 | [x] | npm Intellisense
 | [x] | Path intellisense
+| [x] | React-Native/React/Redux snippets for es6/es7
 | [x] | Polacode
 | [x] | Prettier - [x] Code formatter
 | [x] | React Native tools
@@ -49,6 +50,7 @@
 | [x] | VSCode essentials snippets
 | [x] | VSCODE Neovim
 | [x] | Vue - [x] Official
+| [x] | Vue emmet
 | [x] | Vue 3 Snippets
 | [x] | Vue Peek
 | [x] | Vue VSCode snippets
