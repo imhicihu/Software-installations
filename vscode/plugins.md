@@ -48,7 +48,7 @@
 | [x] | Vite
 | [x] | Vitest
 | [x] | VSCode essentials snippets
-| [x] | VSCODE Neovim
+| [x] | Vscode Neovim
 | [x] | Vue - [x] Official
 | [x] | Vue emmet
 | [x] | Vue 3 Snippets
