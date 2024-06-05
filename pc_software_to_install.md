@@ -141,7 +141,7 @@
 	- [ImageJ](https://imagej.nih.gov/ij/): Java-based image processing and analysis
 	- [Tropy](https://tropy.org/): research photo management 
 * Document management
-	- [PaperWork](https://openpaper.work/en-us/)
+	- [PaperWork](https://openpaper.work/en/)
 * Digital notebook / Note taking
 	- [Evernote](https://evernote.com): offline and online mode. Cloud based. 
 		+ Add this add-on: [Evernote for Firefox](https://addons.mozilla.org/es/firefox/addon/evernote-web-clipper/); [Evernote for Google Chrome](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?hl=es)
