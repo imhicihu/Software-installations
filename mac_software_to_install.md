@@ -148,7 +148,7 @@
 * Image to pdf
 	- [Alchemy](https://dawnlabs.github.io/alchemy/)
 * Document management
-	- [PaperWork](https://www.openpaper.work/en/)
+	- ~~[PaperWork](https://www.openpaper.work/en/)~~
 * Digital notebook / Note taking
 	- [Evernote](https://evernote.com): offline and online mode. Cloud based. 
 		+ Add this add-on: [Evernote for Firefox](https://addons.mozilla.org/es/firefox/addon/evernote-web-clipper/); [Evernote for Google Chrome](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?hl=es)
@@ -194,6 +194,7 @@
 * Miscellaneous
 	- [f.lux](https://justgetflux.com/dlmac.html): blue light screen protection
 	- [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases): control your external monitor brightness & volume
+	- [Command X](https://sindresorhus.com/command-x): Cut and paste files from Finder
 	- [DwellClick for macOS](https://pilotmoon.com/dwellclick/): assistive app for mouse clicks
 	- [iTunes](https://www.apple.com/la/itunes/) 
 	- [Veusz](https://github.com/veusz/veusz/releases/download/veusz-3.2/veusz-3.2-AppleOSX.dmg): a scientific plotting package
