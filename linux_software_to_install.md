@@ -115,6 +115,7 @@
 	- [Zotero](https://www.zotero.org/download)
 	- [JabRef](https://www.jabref.org/): bibliography reference manager
 	- [Pubs](https://github.com/pubs/pubs): your bibliography on the command line
+	- [Papis](https://github.com/papis/papis): command-line based document and bibliography manager
 * Bibliography searcher
 	- [ScienceFair](https://github.com/sciencefair-land/sciencefair): discover, collect, organize, read and analyze scientific papers
 	- [Publish or Perish](https://harzing.com/resources/publish-or-perish): retrieves and analyzes academic citations
