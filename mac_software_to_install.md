@@ -167,13 +167,14 @@
 	- [thelibrarian](http://www.patisoftware.eu/Apps/theLibrarian/theLibrarian.html#theLibrarian): create bibliographical references in a click using the most common citation styles (APA, Chicago, MLA, IEEE, Harvard, Vancouver)
 	- [JabRef](https://www.jabref.org/): bibliography reference manager
   - [Publish or Perish](https://harzing.com/resources/publish-or-perish): retrieves and analyzes academic citations
+  - [Pubs](https://github.com/pubs/pubs): your bibliography on the command line
 * Bibliography searcher
-	- [ScienceFair](https://github.com/sciencefair-land/sciencefair): discover, collect, organise, read and analyse scientific papers.
+	- [ScienceFair](https://github.com/sciencefair-land/sciencefair): discover, collect, organize, read and analyze scientific papers.
 * Virtual server environment
-	- [AMPPS](http://www.ampps.com/download): PHP, MySQL and Apache running on OSX El Capitan (10.11) or later.
+	- [AMPPS](http://www.ampps.com/download): PHP, MySQL and Apache running on MacOSX El Capitan (10.11) or later.
 * Data validator 
 	- [DataProofer](https://github.com/dataproofer/Dataproofer/releases): proofreader for your data
-	- [Talent open studio for data quality](https://www.talend.com/products/data-quality/data-quality-open-studio/): Data profiling and analytics with graphical charts and drill-down data
+	- [Talent open studio for data quality](https://www.talend.com/products/data-quality/data-quality-open-studio/): data profiling and analytics with graphical charts and drill-down data
 	- [OpenRefine](http://openrefine.org/download.html): tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data
 * Statistics
 	- [R](http://cran.r-project.org/mirrors.html)
