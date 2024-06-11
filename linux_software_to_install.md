@@ -114,8 +114,9 @@
 * Bibliographic & citation & personal research assistant
 	- [Zotero](https://www.zotero.org/download)
 	- [JabRef](https://www.jabref.org/): bibliography reference manager
+	- [Pubs](https://github.com/pubs/pubs): your bibliography on the command line
 * Bibliography searcher
-	- [ScienceFair](https://github.com/sciencefair-land/sciencefair): discover, collect, organise, read and analyse scientific papers
+	- [ScienceFair](https://github.com/sciencefair-land/sciencefair): discover, collect, organize, read and analyze scientific papers
 	- [Publish or Perish](https://harzing.com/resources/publish-or-perish): retrieves and analyzes academic citations
 * Virtual server environment
 	- [AMPPS](http://www.ampps.com/download): PHP, MySQL and Apache running on linux environment
