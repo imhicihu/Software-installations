@@ -1,5 +1,5 @@
 #### Bibliography
-* [Litmaps](https://www.litmaps.com/): interactive visualisations of citation networks
+* [Litmaps](https://www.litmaps.com/): interactive visualizations of citation networks
 
 #### File sharing
 * [BlackHole](https://blackhole.run/): No storage limits, no link expiration, file downloads without registrations
@@ -20,7 +20,7 @@
 * [Quad9](https://quad9.net/)
 
 #### Browser security
-* [Browser audit](https://browseraudit.com/): pass test to verify the integrity of your browser.
+* [Browser audit](https://browseraudit.com/): pass test to verify the integrity of your browser
 
 #### Speech recognition
 * [Dictation](https://dictation.io/speech)
