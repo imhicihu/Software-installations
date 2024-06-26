@@ -83,6 +83,7 @@
 * Virtualization
 	- [Oracle VirtualBox](https://www.virtualbox.org): virtualization of operating systems, _et. al._
 		- [Virtualbox extension pack](https://www.virtualbox.org/wiki/Downloads): add-on for Oracle VirtualBox
+		- [VirtualBuddy](https://github.com/insidegui/VirtualBuddy): virtual machine
 * File renamer (batch & automatic)
 	- [FileRenamer](https://www.sttmedia.com/filerenamer-download)
 * Android emulators
