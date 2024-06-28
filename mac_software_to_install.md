@@ -102,7 +102,7 @@
 * Text expander
 	- [Espanso](https://espanso.org/): universal text expander
 * Rich text editor
-	- [Texts](http://www.texts.io/Texts-1.5.dmg): markdown file format viewer and editor
+	- [Texts](http://www.texts.io/): markdown file format viewer and editor
 * Ebook manager (plus metadata editor)
 	- [Calibre](https://calibre-ebook.com/download): multi-format ebook reader, cataloguer, searcher
 	- [thelibrarian](http://www.patisoftware.eu/Apps/theLibrarian/theLibrarian.html#theLibrarian): catalogue, organize and manage your collections of books or other kind of documents such as scientific articles
