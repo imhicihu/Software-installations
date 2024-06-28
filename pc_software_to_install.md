@@ -202,7 +202,7 @@
 	- [File Optimizer](https://sourceforge.net/projects/nikkhokkho/files/latest/download)
 	- [Java](https://www.java.com/es/download/): runtime to leverage apps
 	- [Node.js](https://nodejs.org/en/): javascript runtime
-	- ~~[Microsoft .NET Framework 4.5](https://www.microsoft.com/es-ar/download/details.aspx?id=30653):~~ not essential in Windows 10. Check former operating systems compatibilities
+	- ~~[Microsoft .NET Framework 4.5](https://www.microsoft.com/es-ar/download/details.aspx?id=30653): not essential in Windows 10. Check former operating systems compatibilities~~
 	- [USB safely remove](https://quickandeasysoftware.net/downloads?download=USBDiskEjector1.3.0.6.zip&progname=USB+Disk+Ejector)
 	- [File renamer](http://www.joejoesoft.com/vcms/108/)
 	- [FileRenamer](https://www.sttmedia.com/filerenamer-download)
