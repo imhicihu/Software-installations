@@ -207,7 +207,7 @@
 	- [File renamer](http://www.joejoesoft.com/vcms/108/)
 	- [FileRenamer](https://www.sttmedia.com/filerenamer-download)
 	- [Wox](https://github.com/Wox-launcher/Wox/releases): application launcher (like [Alfred](https://www.alfredapp.com) for the mac)
-	- [Dependency walker](http://www.dependencywalker.com/): scans any 32-bit or 64-bit Windows module (exe, dll, ocx, sys, etc.) and builds a hierarchical tree diagram of all dependent modules
+	- [Dependency walker](http://www.dependencywalker.com/): scans any 32-bit or 64-bit Windows module (`exe`, `dll`, `ocx`, `sys`, etc.) and builds a hierarchical tree diagram of all dependent modules
 	- [The PC Decrapifier](https://www.pcdecrapifier.com/)
 	- [Folding@home](https://foldingathome.org/start-folding/): fighting diseases donating processing's computer (runs in background and non-intrusive mode)
 	
