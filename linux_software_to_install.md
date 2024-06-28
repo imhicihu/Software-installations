@@ -111,6 +111,8 @@
 	- [Google Meet](https://meet.google.com): virtual meetings
 * Messaging (multi-platform)
 	- [Ferdi](https://getferdi.com/download)
+* Remote desktop access
+	- [Rustdesk](https://github.com/rustdesk/rustdesk/releases)
 * Bibliographic & citation & personal research assistant
 	- [Zotero](https://www.zotero.org/download)
 	- [JabRef](https://www.jabref.org/): bibliography reference manager

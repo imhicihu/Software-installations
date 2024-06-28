@@ -158,6 +158,8 @@
 	- [Wireshark](https://www.wireshark.org/#download): wifi analyzer
 * Messaging (multi-platform)
 	- [Ferdi](https://getferdi.com/download)
+* Remote desktop access
+	- [Rustdesk](https://github.com/rustdesk/rustdesk/releases)
 * Bibliographic & personal research assistant
 	- [Zotero](https://www.zotero.org/download)
 	- [JabRef](https://www.jabref.org/): bibliography reference manager

@@ -162,6 +162,8 @@
 	- [Wireshark](https://www.wireshark.org/#download): wifi analyzer
 * Messaging (multi-platform)
 	- [Ferdi](https://getferdi.com/download)
+* Remote desktop access
+	- [Rustdesk](https://github.com/rustdesk/rustdesk/releases)
 * Bibliographic & citation & personal research assistant
 	- [Zotero](https://www.zotero.org/download)
 	- [Citationsy](https://apps.apple.com/us/app/citationsy/id1410212159): bibliographic citation organizer
