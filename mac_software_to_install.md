@@ -11,17 +11,16 @@
 * Security
 	- [KnockKnock](https://objective-see.com/products/knockknock.html)
 	- [BlockBlock](https://objective-see.com/products/blockblock.html)
-	- [RansomWhere?](https://objective-see.com/products/ransomwhere.html)
-	- more info can be found [here](https://objective-see.com/products.html)
+	- [RansomWhere?](https://objective-see.com/products/ransomwhere.html); more info can be found [here](https://objective-see.com/products.html)
 * Hardware profiler
   - [MachineProfile](http://www.micromat.com/products/machineprofile)
 * Text editor (multipurpose)
   - [Beam](https://www.bean-osx.com/Bean.html) 
   - [CotEditor](https://coteditor.com/)
-  - ~~[Atom](http://atom.io/)~~ ([deprecated](https://github.blog/2022-06-08-sunsetting-atom/) by GitHub)
+  - ~~[Atom](http://atom.io/) ([deprecated](https://github.blog/2022-06-08-sunsetting-atom/) by GitHub)~~
   - [Brackets](http://brackets.io/)
-  - [Esse](https://esse.ameba.co/): Swiss army knife of text transformation
-  - [Zettlr](https://www.zettlr.com/): Markdown editor which integrates CSL, BibLaTeX, Pandoc and many other tools
+  - [Esse](https://esse.ameba.co/): multiple text transformation
+  - [Zettlr](https://www.zettlr.com/): markdown editor which integrates CSL, BibLaTeX, Pandoc and many other tools
 * Compressors
 	- [7-Zip](https://www.7-zip.org/): multi-format file types handler
 	- [Peazip](https://www.peazip.org/): compressor and handler of compressed files
@@ -198,10 +197,10 @@
 * Miscellaneous
 	- [f.lux](https://justgetflux.com/dlmac.html): blue light screen protection
 	- [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases): control your external monitor brightness & volume
-	- [Command X](https://sindresorhus.com/command-x): Cut and paste files from Finder
+	- [Command X](https://sindresorhus.com/command-x): cut and paste files from Finder
 	- [DwellClick for macOS](https://pilotmoon.com/dwellclick/): assistive app for mouse clicks
 	- [iTunes](https://www.apple.com/la/itunes/) 
-	- [Veusz](https://github.com/veusz/veusz/releases/download/veusz-3.2/veusz-3.2-AppleOSX.dmg): a scientific plotting package
+	- [Veusz](https://github.com/veusz/veusz/releases/download/veusz-3.2/veusz-3.2-AppleOSX.dmg): scientific plotting package
 	- [Java](https://www.java.com/es/download/): runtime to leverage apps 
 	- [AlDente](https://github.com/davidwernhart/AlDente): battery charge management
 	- [Node.js](https://nodejs.org/en/): javascript runtime
@@ -210,7 +209,7 @@
 	- [~~Advanced~~ Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp/releases)
 	- [Folding@home](https://foldingathome.org/start-folding/): fighting diseases donating processing's computer (runs in background and in non-intrusive mode)
 	- [SilentKnight](https://eclecticlight.co/lockrattler-systhist/): verifying security system
-	- [gasmask](https://github.com/2ndalpha/gasmask): Hosts file manager for OS X
+	- [gasmask](https://github.com/2ndalpha/gasmask): hosts file manager for OS X
 
 ### Legal
 
