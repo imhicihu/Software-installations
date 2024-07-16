@@ -210,6 +210,7 @@
 	- [~~Advanced~~ Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp/releases)
 	- [Folding@home](https://foldingathome.org/start-folding/): fighting diseases donating processing's computer (runs in background and in non-intrusive mode)
 	- [SilentKnight](https://eclecticlight.co/lockrattler-systhist/): verifying security system
+	- [gasmask](https://github.com/2ndalpha/gasmask): Hosts file manager for OS X
 
 ### Legal
 
