@@ -4,7 +4,7 @@
 	- [Latest](https://github.com/mangerlahn/Latest/releases/): updater of installed applications
 * Backup
 	- [Duplicati](https://www.duplicati.com/): backup software with multiple options: schedule tasks, data encryption, etc.
-	- [Google Backup and sync](https://apps.apple.com/app/google-drive/id507874739): Cloud-based backup tool
+	- [Google Backup and sync](https://apps.apple.com/app/google-drive/id507874739): cloud-based backup tool
 	- [Syncalicious](https://github.com/zenangst/Syncalicious/releases): system's preferences backup & restore
 * Firewall
 	- [LuLu](https://objective-see.com/products/lulu.html): block unknown outgoing connections, unless explicitly approved by the user.
@@ -40,8 +40,6 @@
   - [DBeaver](https://dbeaver.io/): database management & analysis with MySQL, MariaDB, PostgreSQL, SQLite support
 * Video viewer
 	- [VLC](http://www.videolan.org): multi-format viewer
-* RAW viewer
-	- ~~[Filmulator](https://github.com/CarVac/filmulator-gui/releases)~~ (No binaries to install, so out of the scope of this list)
 * RAW viewer & image processing
 	- [Hasselblad Phocus](https://www.hasselblad.com/phocus/)
 * Cloud hosting
