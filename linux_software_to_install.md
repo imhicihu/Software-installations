@@ -5,7 +5,7 @@
 	- [Duplicati](https://github.com/duplicati/duplicati/releases): backup software with multiple options: schedule tasks, data encryption, etc.
 	- [Google Backup and sync](https://apps.apple.com/app/google-drive/id507874739): cloud-based backup tool
 * Text editor (multipurpose)
-	- ~~[Atom](http://atom.io/)~~ ([deprecated](https://github.blog/2022-06-08-sunsetting-atom/) by GitHub)
+	- ~~[Atom](http://atom.io/) ([deprecated](https://github.blog/2022-06-08-sunsetting-atom/) by GitHub)~~
 	- [Brackets](https://github.com/adobe/brackets/releases)
 	- [Zettlr](https://www.zettlr.com/): markdown editor which integrates CSL, BibLaTeX, Pandoc and many other tools
 * Compressors
@@ -103,7 +103,7 @@
 	- [PaperWork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork/#installation): personal document manager. It manages scanned documents and PDFs
 * Digital notebook / Note taking
 	- [Evernote](https://evernote.com): offline and online mode. Cloud based. 
-		+ Add this add-on: [Evernote for Firefox](https://addons.mozilla.org/es/firefox/addon/evernote-web-clipper/); [Evernote for Google Chrome](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?hl=es); 
+		+ Add this add-on: [Evernote for Firefox](https://addons.mozilla.org/es/firefox/addon/evernote-web-clipper/); [Evernote for Google Chrome](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?hl=es)
 * Video meetings
 	- [Jitsi](https://jitsi.org/downloads/)
 	- [Skype](https://www.skype.com/es/get-skype/): virtual meetings
@@ -142,4 +142,4 @@
 
 ### Legal
 
-* All trademarks are the property of their respective owners.
+* All trademarks are the property of their respective owners
