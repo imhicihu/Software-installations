@@ -7,7 +7,7 @@
 	- [Google Backup and sync](https://apps.apple.com/app/google-drive/id507874739): cloud-based backup tool
 	- [Syncalicious](https://github.com/zenangst/Syncalicious/releases): system's preferences backup & restore
 * Firewall
-	- [LuLu](https://objective-see.com/products/lulu.html): block unknown outgoing connections, unless explicitly approved by the user.
+	- [LuLu](https://objective-see.com/products/lulu.html): block unknown outgoing connections, unless explicitly approved by the user
 * Security
 	- [KnockKnock](https://objective-see.com/products/knockknock.html)
 	- [BlockBlock](https://objective-see.com/products/blockblock.html)
@@ -167,9 +167,9 @@
   - [Publish or Perish](https://harzing.com/resources/publish-or-perish): retrieves and analyzes academic citations
   - [Pubs](https://github.com/pubs/pubs): your bibliography on the command line
 * Bibliography searcher
-	- [ScienceFair](https://github.com/sciencefair-land/sciencefair): discover, collect, organize, read and analyze scientific papers.
+	- [ScienceFair](https://github.com/sciencefair-land/sciencefair): discover, collect, organize, read and analyze scientific papers
 * Virtual server environment
-	- [AMPPS](http://www.ampps.com/download): PHP, MySQL and Apache running on MacOSX El Capitan (10.11) or later.
+	- [AMPPS](http://www.ampps.com/download): PHP, MySQL and Apache running on MacOSX El Capitan (10.11) or later
 * Data validator 
 	- [DataProofer](https://github.com/dataproofer/Dataproofer/releases): proofreader for your data
 	- [Talent open studio for data quality](https://www.talend.com/products/data-quality/data-quality-open-studio/): data profiling and analytics with graphical charts and drill-down data
