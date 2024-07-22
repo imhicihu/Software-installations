@@ -189,7 +189,7 @@
 	- [GMapTool](https://www.gmaptool.eu/en/content/windows-setup): program for splitting and merging maps in Garmin format
 	- [GeoViewer](https://www.extensis.com/download-geoviewer): display raster imagery, LiDAR point clouds, vector overlays, and MrSID files
 * System check & privacy
-	- [Spydish](https://github.com/builtbybel/spydish/releases): privacy and security check. _Only for Windows 10_.
+	- [Spydish](https://github.com/builtbybel/spydish/releases): privacy and security check. _Only for Windows 10_
 	- [SharpApp](https://github.com/mirinsoft/sharpapp/releases): disable telemetry functions in Windows 10
 	- [Debotnet](https://github.com/mirinsoft/debotnet/releases): controlling Windows 10's many privacy-related settings. Requires Windows 10 including both 32-bit and 64-bit versions
 * Updater (automation)
