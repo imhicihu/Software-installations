@@ -189,7 +189,7 @@
 	- [SSDReporter](https://www.corecode.io/ssdreporter/): check & monitor SSD/Flash storage health
 * Clipboard management
 	- [CopyQ](https://hluk.github.io/CopyQ/)
-	- [Clipy](https://github.com/Clipy/Clipy/)
+	- [Maccy](https://github.com/p0deje/Maccy/)
 * Health / Ergonomics
 	- [SavemyEyes](https://github.com/masich/SaveMyEyes/releases)
 * Miscellaneous
