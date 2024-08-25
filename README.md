@@ -37,22 +37,9 @@
 * Deployment instructions
     - Every software involves `install-uninstall` properties/method
 
-### Source ###
-
-* Check them on [here](https://bitbucket.org/imhicihu/software-installations/src)
-
 ### Issues ###
 
-* Check them on [here](https://bitbucket.org/imhicihu/software-installations/issues)
-
-### Changelog ###
-
-* Please check the [Commits](https://bitbucket.org/imhicihu/software-installations/commits/) section for the current status
-
-### Related repositories ###
-
-* Some repositories linked with this project:
-     - [migration-data-checklist](https://bitbucket.org/imhicihu/migration-data-checklist/src/master/)
+* Check them on [here](https://github.com/imhicihu/Software-installations/issues)
      
 ### Who do I talk to? ###
 
@@ -65,7 +52,7 @@
 
 ### Legal ###
 
-* All trademarks are the property of their respective owners.
+* All trademarks are the property of their respective owners
 
 ### License ###
 
