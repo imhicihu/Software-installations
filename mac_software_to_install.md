@@ -33,7 +33,8 @@
 	- [Iso Recorder](http://isorecorder.alexfeinman.com/#/): creates ISO 9660 Joliet images
 	- [OSFMount](https://www.osforensics.com/tools/mount-disk-images.html): mount `ISO` images from mac environment on Windows
 * Uninstaller 
-  - [Appcleaner](https://freemacsoft.net/appcleaner/) 
+  - [Appcleaner](https://freemacsoft.net/appcleaner/)
+  - [Pearcleaner](https://github.com/alienator88/Pearcleaner/releases)
 * Database (handling and editor)
 	- [Draxed](https://www.draxed.com/download/lastest/dmg): query editor; mysql & postgreSQL supported
 	- [symphytum](https://github.com/giowck/symphytum): personal database
