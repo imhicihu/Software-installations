@@ -61,7 +61,6 @@
 			   - [Citationsy](https://chrome.google.com/webstore/detail/citationsy/ananhmnkepfflgfdklgcdpgdngejokkn)
 			   - [Writefull](https://chrome.google.com/webstore/detail/writefull/aolaabonkiegkggfdgjjehchjmjfanng/related)
 	 		   - [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
-			   - [Unpaywall](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha)
 			   - [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp/related)
 			   - [Open Access](https://chrome.google.com/webstore/detail/open-access-button/gknkbkaapnhpmkcgkmdekdffgcddoiel)
 			   - [Kopernio](https://chrome.google.com/webstore/detail/kopernio-powered-by-web-o/fjgncogppolhfdpijihbpfmeohpaadpc)
