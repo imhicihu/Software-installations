@@ -7,7 +7,7 @@
 	- [Google Backup and sync](https://apps.apple.com/app/google-drive/id507874739): cloud-based backup tool
 	- [Syncalicious](https://github.com/zenangst/Syncalicious/releases): system's preferences backup & restore
 * Firewall
-	- [LuLu](https://objective-see.com/products/lulu.html): block unknown outgoing connections, unless explicitly approved by the user
+	- [LuLu](https://objective-see.com/products/lulu.html): block unknown outgoing connections, unless explicitly approved by the final user
 * Security
 	- [KnockKnock](https://objective-see.com/products/knockknock.html)
 	- [BlockBlock](https://objective-see.com/products/blockblock.html)
