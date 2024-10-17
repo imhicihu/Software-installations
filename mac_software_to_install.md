@@ -17,7 +17,6 @@
 * Text editor (multipurpose)
   - [Beam](https://www.bean-osx.com/Bean.html) 
   - [CotEditor](https://coteditor.com/)
-  - ~~[Atom](http://atom.io/) ([deprecated](https://github.blog/2022-06-08-sunsetting-atom/) by GitHub)~~
   - [Brackets](http://brackets.io/)
   - [Esse](https://esse.ameba.co/): multiple text transformation
   - [Zettlr](https://www.zettlr.com/): markdown editor which integrates CSL, BibLaTeX, Pandoc and many other tools
