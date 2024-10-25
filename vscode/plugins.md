@@ -6,6 +6,7 @@
 | [x] | Auto close tag
 | [x] | Auto complete tag
 | [x] | Auto rename tag
+| [x] | Bracket Pair Color DLW
 | [x] | Browser lite
 | [x] | Code runner
 | [x] | Continue - Claude, Codellama, GPT-4 [...]
