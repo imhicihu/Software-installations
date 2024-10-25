@@ -12,6 +12,7 @@
 | [x] | CSS peek
 | [x] | EditorConfig for VS Code
 | [x] | Emmet
+| [x] | Error lens
 | [x] | ES7+ React/Redux/React-Native snippets
 | [x] | ESLint
 | [x] | Formatting Toggle
