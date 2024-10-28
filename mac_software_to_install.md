@@ -207,7 +207,7 @@
 	- [Folding@home](https://foldingathome.org/start-folding/): fighting diseases donating processing's computer (runs in background and in non-intrusive mode)
 	- [SilentKnight](https://eclecticlight.co/lockrattler-systhist/): verifying security system
 	- [gasmask](https://github.com/2ndalpha/gasmask): hosts file manager for OS X
-
+	- [Keyboard Cowboy](https://github.com/zenangst/KeyboardCowboy/releases): keyboard shortcut management
 ### Legal
 
 All trademarks are the property of their respective owners
