@@ -13,7 +13,7 @@
 * Data backup
 	- [Nero Linux](http://www.nero.com/eng/downloads/previous-versions/download-linux4-update.php?vlang=en): CD/DVD/DVD/Blu-ray burning application
 	- [CDRDAO](http://cdrdao.sourceforge.net/): disk-at-once recording of audio and data CD-Rs/CD-RWs
-	- [Xfburn](https://www.bodhilinux.com/a/xfburn/): CD/DVD burning tool
+	- [Xfburn](https://docs.xfce.org/apps/xfburn/start): CD/DVD burning tool
 	- [X-CD-Roast](http://www.xcdroast.org/): creates ISO 9660 joliet images
 	- [GnomeBaker](https://www.unixmen.com/how-to-install-gnomebaker-in-ubuntu/)
 	- [K3b](https://sourceforge.net/projects/k3b/)
