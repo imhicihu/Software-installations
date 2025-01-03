@@ -38,3 +38,6 @@
 
 #### Language programming reference
 * [devdocs](https://devdocs.io/)
+
+#### Research assistant
+* [notebookLM](https://notebooklm.google/)
