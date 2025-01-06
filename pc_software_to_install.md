@@ -212,6 +212,7 @@
 	- [Dependency walker](http://www.dependencywalker.com/): scans any 32-bit or 64-bit Windows module (`exe`, `dll`, `ocx`, `sys`, etc.) and builds a hierarchical tree diagram of all dependent modules
 	- [The PC Decrapifier](https://www.pcdecrapifier.com/)
 	- [Folding@home](https://foldingathome.org/start-folding/): fighting diseases donating processing's computer (runs in background and non-intrusive mode)
+	- [jan](https://github.com/janhq/jan/releases): local AI assistant
 	
 ### Notes
 * Always, the preferred versions are those labeled as [x64](https://en.wikipedia.org/wiki/64-bit_computing). Actually is a mandatory situation (compatibilities issues)
