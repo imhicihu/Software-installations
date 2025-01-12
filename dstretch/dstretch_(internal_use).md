@@ -4,7 +4,7 @@
 1. Descargar Java desde esta dirección: https://www.java.com/es/download/
 2. Doble clic sobre el archivo descargado: `JavaSetup8251u.exe`
 3. Seguir el procedimiento habitual de instalación 
-4. Una vez instalado Java, descargar este archivo `ImageJ` desde esta dirección: https://imagej.nih.gov/ij/download.html 
+4. Una vez instalado Java, descargar este archivo `ImageJ` desde esta dirección: [https://imagej.nih.gov/ij/download.html](https://imagej.net/ij/download.html)
 5. Elegir la opción: `ImageJ bundled with 64-bit Java 1.8.0_112` (70MB)
 6. Usualmente, el archivo descargado (`ìj153-win-java8.zip`) movelo al Escritorio de  Windows
 7. Doble clic sobre `ìj153-win-java8.zip`. Automáticamente creará una carpeta: `ImageJ`
