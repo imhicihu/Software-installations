@@ -29,7 +29,7 @@
 * Copy Title and Url as Markdown Style 1.10.0
 * Markdown Here 2.12.0
 ### Ergonomy
-* StretchIt 1.0.0
+* [StretchIt 1.0.0](https://chromewebstore.google.com/detail/stretchit/pkcjhigdfegkdliiflopbpchpgmpackh?hl=es)
 * Surfingkeys 1.17.0
 * Handsfree for Web - Voice Control 3.7.0
 * LipSurf - Voice Control for the Web
