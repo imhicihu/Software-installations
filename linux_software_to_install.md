@@ -29,6 +29,8 @@
 * File syncronization
 	- [FreeFileSync](https://freefilesync.org/download.php): folder comparison and synchronization that creates and manages backup copies of all kind of files
 	- [Syncthing](https://github.com/syncthing/syncthing): file synchronization between computers
+* System cleaning
+	- [Bleachbit](https://www.bleachbit.org/)
 * File sharing
 	- [LocalSend](https://github.com/localsend/localsend): file transfer across our wifi network
 * Browsers

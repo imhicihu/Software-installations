@@ -9,6 +9,7 @@
 * Windows cleaning
 	- [Ccleaner](https://www.ccleaner.com/)
 	- [Cleanmgr+](https://www.mirinsoft.com/cleanmgrplus)
+	- [Bleachbit](https://www.bleachbit.org/)
 * Text editor (multipurpose)
 	- ~~[Atom](http://atom.io/)~~ ([deprecated](https://github.blog/2022-06-08-sunsetting-atom/) by GitHub)
 	- [Brackets](http://brackets.io/)
