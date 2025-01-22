@@ -196,6 +196,8 @@
 * Updater (automation)
 	- [Chocolatey GUI](https://github.com/chocolatey/ChocolateyGUI/releases/): to update software via [Chocolatey](https://chocolatey.org/) 
 	- [Scooper](https://github.com/windedge/Scooper/releases/): to update software via [Scoop](https://scoop.sh/)
+* IA
+	- [jan](https://github.com/janhq/jan/releases): local AI assistant
 * Miscellaneous
 	- [f.lux](https://justgetflux.com/dlwin.html): blue light screen protection
 	- [Scoop](https://scoop.sh/): a command-line installer for Windows
@@ -213,7 +215,6 @@
 	- [Dependency walker](http://www.dependencywalker.com/): scans any 32-bit or 64-bit Windows module (`exe`, `dll`, `ocx`, `sys`, etc.) and builds a hierarchical tree diagram of all dependent modules
 	- [The PC Decrapifier](https://www.pcdecrapifier.com/)
 	- [Folding@home](https://foldingathome.org/start-folding/): fighting diseases donating processing's computer (runs in background and non-intrusive mode)
-	- [jan](https://github.com/janhq/jan/releases): local AI assistant
 	
 ### Notes
 * Always, the preferred versions are those labeled as [x64](https://en.wikipedia.org/wiki/64-bit_computing). Actually is a mandatory situation (compatibilities issues)
