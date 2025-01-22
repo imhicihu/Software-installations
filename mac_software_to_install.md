@@ -192,6 +192,8 @@
 * Health / Ergonomics
 	- [SavemyEyes](https://github.com/masich/SaveMyEyes/releases)
 	- [Keyboard Cowboy](https://github.com/zenangst/KeyboardCowboy/releases): keyboard shortcut management
+* IA
+	- [jan](https://github.com/janhq/jan/releases): local AI assistant 
 * Miscellaneous
 	- [f.lux](https://justgetflux.com/dlmac.html): blue light screen protection
 	- [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases): control your external monitor brightness & volume
@@ -208,7 +210,6 @@
 	- [Folding@home](https://foldingathome.org/start-folding/): fighting diseases donating processing's computer (runs in background and in non-intrusive mode)
 	- [SilentKnight](https://eclecticlight.co/lockrattler-systhist/): verifying security system
 	- [gasmask](https://github.com/2ndalpha/gasmask): hosts file manager for OS X
-	- [jan](https://github.com/janhq/jan/releases): local AI assistant
 
 ### Legal
 
