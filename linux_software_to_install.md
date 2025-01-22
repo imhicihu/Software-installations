@@ -137,11 +137,12 @@
 	- [TeXmaker](https://www.xm1math.net/texmaker/)
 * Clipboard management
 	- [CopyQ](https://hluk.github.io/CopyQ/)
+* IA
+	- [jan](https://github.com/janhq/jan/releases): local AI assistant 
 * Miscellaneous
 	- [Java](https://www.java.com/es/download/manual.jsp)
 	- [f.lux](https://justgetflux.com/linux.html): blue light screen protection
 	- [FileRenamer](https://www.sttmedia.com/filerenamer-download)
-	- [jan](https://github.com/janhq/jan/releases): local AI assistant
 
 ### Legal
 
