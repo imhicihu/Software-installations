@@ -39,5 +39,5 @@
 #### Language programming reference
 * [devdocs](https://devdocs.io/)
 
-#### Research assistant
+#### AI Research assistant
 * [notebookLM](https://notebooklm.google/)
