@@ -95,7 +95,8 @@
 	- [gpxsee](https://www.gpxsee.org/): GPS log file viewer and analyzer 
 * Office automation
 	- [LibreOffice](https://www.libreoffice.org/download/download/): ofimatic
-* Text converter
+* File & text converter
+	- [File converter](https://github.com/Tichau/FileConverter)
 	- [Pandoc](https://pandoc.org/installing.html): universal file text converter
 * Text expander
 	- [Espanso](https://espanso.org/): universal text expander
@@ -179,8 +180,6 @@
 	- [R](http://cran.r-project.org/mirrors.html)
 	- [R Studio](https://rstudio.com/products/rstudio/download/)
 	- [LabPlot](https://labplot.kde.org/): data visualization and analysis
-* Updater (automatic watchdog for updates)
-	- [RoboGet](https://github.com/Mirinsoft/Roboget/releases)
 * Math & equation editor
 	- [Miktex](https://miktex.org/download)
 * Translator
@@ -194,9 +193,11 @@
 	- [SharpApp](https://github.com/mirinsoft/sharpapp/releases): disable telemetry functions in Windows 10
 	- [Debotnet](https://github.com/mirinsoft/debotnet/releases): controlling Windows 10's many privacy-related settings. Requires Windows 10 including both 32-bit and 64-bit versions
 * Updater (automation)
-	- [UnigetUI](https://github.com/marticliment/UniGetUI/releases): Graphical Interface for your package managers
+	- [UnigetUI](https://github.com/marticliment/UniGetUI/releases): graphical Interface for your package managers
 	- [Chocolatey GUI](https://github.com/chocolatey/ChocolateyGUI/releases/): to update software via [Chocolatey](https://chocolatey.org/) 
 	- [Scooper](https://github.com/windedge/Scooper/releases/): to update software via [Scoop](https://scoop.sh/)
+* Updater (automatic watchdog for updates)
+	- [RoboGet](https://github.com/Mirinsoft/Roboget/releases)
 * IA
 	- [jan](https://github.com/janhq/jan/releases): local AI assistant
 * Miscellaneous
