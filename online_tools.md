@@ -41,3 +41,7 @@
 
 #### AI Research assistant
 * [notebookLM](https://notebooklm.google/)
+
+#### Operating system on the browser
+* [daedalOS](https://github.com/DustinBrett/daedalOS)
+
