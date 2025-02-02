@@ -196,8 +196,8 @@
 	- [UnigetUI](https://github.com/marticliment/UniGetUI/releases): graphical Interface for your package managers
 	- [Chocolatey GUI](https://github.com/chocolatey/ChocolateyGUI/releases/): to update software via [Chocolatey](https://chocolatey.org/) 
 	- [Scooper](https://github.com/windedge/Scooper/releases/): to update software via [Scoop](https://scoop.sh/)
-* Updater (automatic watchdog for updates)
-	- [RoboGet](https://github.com/Mirinsoft/Roboget/releases)
+* File manager
+  - [Files](https://files.community/)
 * IA
 	- [jan](https://github.com/janhq/jan/releases): local AI assistant
 * Miscellaneous
