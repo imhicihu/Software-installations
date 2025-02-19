@@ -100,6 +100,7 @@
 	- [Pandoc](https://pandoc.org/installing.html): universal file text converter
 * Text expander (automatic replacement)
 	- [Espanso](https://espanso.org/): universal text expander
+	- [Espansoedit](https://ee.qqv.com.au/setup/download/) universal text expander based on Espanso
 * Rich text editor
 	- [Texts](http://www.texts.io/): markdown file format viewer and editor
 * Ebook manager (plus metadata editor)
