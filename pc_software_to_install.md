@@ -98,7 +98,7 @@
 * File & text converter
 	- [File converter](https://github.com/Tichau/FileConverter)
 	- [Pandoc](https://pandoc.org/installing.html): universal file text converter
-* Text expander
+* Text expander (automatic replacement)
 	- [Espanso](https://espanso.org/): universal text expander
 * Rich text editor
 	- [Texts](http://www.texts.io/): markdown file format viewer and editor
