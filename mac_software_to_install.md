@@ -93,7 +93,7 @@
 	- [Pandoc](https://pandoc.org/installing.html): universal file text converter
 * Text capture
 	- [TRex](https://github.com/amebalabs/TRex/releases)
-* Text expander
+* Text expander (automatic replacement)
 	- [Espanso](https://espanso.org/): universal text expander
 * Rich text editor
 	- [Texts](http://www.texts.io/): markdown file format viewer and editor
