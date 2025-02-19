@@ -64,7 +64,7 @@
 	- [LibreOffice](https://www.libreoffice.org/download/download/): ofimatic
 * Text converter
 	- [Pandoc](https://pandoc.org/installing.html#linux): universal file text converter
-* Text expander
+* Text expander (automatic replacement)
 	- [Espanso](https://espanso.org/): universal text expander
 * Ebook manager (plus metadata editor)
 	- [Calibre](https://calibre-ebook.com/download): multi-format ebook reader, cataloguer, searcher
