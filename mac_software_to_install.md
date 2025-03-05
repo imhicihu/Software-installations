@@ -148,7 +148,7 @@
 	- [Evernote](https://evernote.com): offline and online mode. Cloud based. 
 		+ Add this add-on: [Evernote for Firefox](https://addons.mozilla.org/es/firefox/addon/evernote-web-clipper/); [Evernote for Google Chrome](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?hl=es)
 * Video meetings
-	- [Skype](https://www.skype.com/es/get-skype/): virtual meetings
+	- ~~[Skype](https://www.skype.com/es/get-skype/): virtual meetings~~ [deprecated](https://x.com/Skype/status/1895477868261412953)
 	- [Zoom.us](https://zoom.us/download#client_4meeting): virtual meetings
 	- [Google Meet](https://meet.google.com): virtual meetings
 	- [Utterly](https://www.utterly.app/): environment noise cancellation
