@@ -154,7 +154,7 @@
 * FTP
 	- [FileZilla](https://filezilla-project.org/): file sharing and uploader to web-servers
 * Video meetings
-	- [Skype](https://www.skype.com/es/get-skype/): virtual meetings
+	- ~~[Skype](https://www.skype.com/es/get-skype/): virtual meetings~~ [deprecated](https://x.com/Skype/status/1895477868261412953)
 	- [Zoom.us](https://zoom.us/download#client_4meeting): virtual meetings
 	- [Google Meet](https://meet.google.com): virtual meetings
 * Network tools
