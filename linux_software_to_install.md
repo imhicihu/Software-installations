@@ -138,7 +138,8 @@
 * Clipboard management
 	- [CopyQ](https://hluk.github.io/CopyQ/)
 * IA
-	- [jan](https://github.com/janhq/jan/releases): local AI assistant 
+	- [jan](https://github.com/janhq/jan/releases): local AI assistant
+	- [gpt4all](https://github.com/nomic-ai/gpt4all/releases): run local LLMs on any device
 * Miscellaneous
 	- [Java](https://www.java.com/es/download/manual.jsp)
 	- [f.lux](https://justgetflux.com/linux.html): blue light screen protection
