@@ -193,7 +193,8 @@
 	- [SavemyEyes](https://github.com/masich/SaveMyEyes/releases)
 	- [Keyboard Cowboy](https://github.com/zenangst/KeyboardCowboy/releases): keyboard shortcut management
 * IA
-	- [jan](https://github.com/janhq/jan/releases): local AI assistant 
+	- [jan](https://github.com/janhq/jan/releases): local AI assistant
+	- [gpt4all](https://github.com/nomic-ai/gpt4all/releases): run local LLMs on any device
 * Miscellaneous
 	- [f.lux](https://justgetflux.com/dlmac.html): blue light screen protection
 	- [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases): control your external monitor brightness & volume
