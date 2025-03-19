@@ -12,6 +12,9 @@
 #### PDF tools
 * [PDF24 Creator](https://tools.pdf24.org/)
 
+#### Graphic compressor
+* [squoosh](https://squoosh.app/)
+
 #### Screen grabber
 * [Screenshoot guru](https://screenshot.guru/)
 
@@ -21,9 +24,6 @@
 
 #### Browser security
 * [Browser audit](https://browseraudit.com/): pass test to verify the integrity of your browser
-
-#### Speech recognition
-* [Dictation](https://dictation.io/speech)
 
 #### Text editor
 * [Dillinger](https://dillinger.io/): markdown editor
