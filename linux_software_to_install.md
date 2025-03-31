@@ -51,6 +51,7 @@
 	- [Vivaldi](https://vivaldi.com/es/download/): internet browser
 	- [Opera](https://www.opera.com/es-419/computer): internet browser
 	- [Brave](https://brave.com/): internet browser
+	- [LibreWolf](https://librewolf.net/): internet browser
 * Personal groups, files & chat
 	- [Keybase](https://keybase.io/docs/the_app/install_linux)
 * Virtualization
