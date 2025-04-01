@@ -170,6 +170,7 @@
 	- [ScienceFair](https://github.com/sciencefair-land/sciencefair): discover, collect, organize, read and analyze scientific papers
 * Virtual server environment
 	- [AMPPS](http://www.ampps.com/download): PHP, MySQL and Apache running on MacOSX El Capitan (10.11) or later
+	- [ServBay](https://github.com/ServBay/ServBay/tree/main): web development environment
 * Data validator 
 	- [DataProofer](https://github.com/dataproofer/Dataproofer/releases): proofreader for your data
 	- [Talent open studio for data quality](https://www.talend.com/products/data-quality/data-quality-open-studio/): data profiling and analytics with graphical charts and drill-down data
