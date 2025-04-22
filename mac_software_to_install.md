@@ -185,7 +185,7 @@
 	- [Deepl](https://www.deepl.com/es/app/)
 * Hard disk & pen-drives (access)
 	- [ntfstool](https://github.com/ntfstool/ntfstool/releases)
-	- [Mounty for NTFS](https://mounty.app/releases/Mounty.dmg)
+	- [Mounty for NTFS](https://mounty.app/)
 	- [Hasleo NTFS for Mac](https://www.easyuefi.com/ntfs-for-mac/ntfs-for-mac.html)
 	- [SSDReporter](https://www.corecode.io/ssdreporter/): check & monitor SSD/Flash storage health
 * Clipboard management
