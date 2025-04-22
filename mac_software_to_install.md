@@ -197,6 +197,7 @@
 * IA
 	- [jan](https://github.com/janhq/jan/releases): local AI assistant
 	- [gpt4all](https://github.com/nomic-ai/gpt4all/releases): run local LLMs on any device
+	- [AppleAI](https://bunnysayzz.github.io/AppleAI/): menu bar app for ChatGPT, Claude, Perplexity, Copilot, DeepSeek, and Grok into one streamlined interface
 * Miscellaneous
 	- [f.lux](https://justgetflux.com/dlmac.html): blue light screen protection
 	- [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases): control your external monitor brightness & volume
