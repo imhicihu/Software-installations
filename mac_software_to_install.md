@@ -192,8 +192,9 @@
 	- [CopyQ](https://hluk.github.io/CopyQ/)
 	- [Maccy](https://github.com/p0deje/Maccy/)
 * Health / Ergonomics
-	- [SavemyEyes](https://github.com/masich/SaveMyEyes/releases)
+	- [SavemyEyes](https://github.com/masich/SaveMyEyes/releases):  reminds periodic take-a-break 
 	- [Keyboard Cowboy](https://github.com/zenangst/KeyboardCowboy/releases): keyboard shortcut management
+	- [Posture Pal](https://goodsnooze.gumroad.com/l/posturepal?layout=profile): improve your posture
 * IA
 	- [jan](https://github.com/janhq/jan/releases): local AI assistant
 	- [gpt4all](https://github.com/nomic-ai/gpt4all/releases): run local LLMs on any device
