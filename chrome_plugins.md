@@ -31,7 +31,7 @@
 ### Ergonomy
 * [StretchIt 1.0.0](https://chromewebstore.google.com/detail/stretchit/pkcjhigdfegkdliiflopbpchpgmpackh?hl=es)
 * Surfingkeys 1.17.0
-* Handsfree for Web - Voice Control 3.7.0
+* ~~Handsfree for Web - Voice Control 3.7.0~~ _deprecated_
 * LipSurf - Voice Control for the Web
 ### email
 * Testi@ - Live Email Testing with (ESP) 0.67.5
