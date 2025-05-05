@@ -47,6 +47,8 @@
 * Emmet Re:view 2.1.7
 * ARIA DevTools 1.4.0
 * Responsively Helper
+### Accessibility
+* IBM Equal Access Accessibility Checker 3.1.75.9999
 ### Automation
 * Automa 1.28.27
 * Scribe: AI Documentation, SOPs & Screenshots 2.4.6
@@ -65,7 +67,6 @@
 * RSS Subscription Extension (by Google) 2.2.9
 * dotEPUB 1.3.1
 * Google Docs Offline 1.80.1
-* IBM Equal Access Accessibility Checker 3.1.75.9999
 * Check My Links 3.8.2
 * SmoothScroll 1.7.7
 * VerticalTabs
