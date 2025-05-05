@@ -52,6 +52,8 @@
 ### Automation
 * Automa 1.28.27
 * Scribe: AI Documentation, SOPs & Screenshots 2.4.6
+### Citation
+* Scribbr
 ### Sessions backup
 * Session Buddy 4.0.4
 ### Vim
