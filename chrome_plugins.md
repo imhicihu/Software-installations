@@ -52,6 +52,7 @@
 ### Automation
 * Automa 1.28.27
 * Scribe: AI Documentation, SOPs & Screenshots 2.4.6
+* Bardeen AI: Automate Browser Apps for Free 2.68.0
 ### Citation
 * Scribbr
 ### Sessions backup
@@ -64,7 +65,6 @@
 * Keysmith 1.2.2
 * Toggle JavaScript 2.0
 * Picture-in-Picture Extension (by Google) 1.11
-* Bardeen AI: Automate Browser Apps for Free 2.68.0
 * Refined GitHub 24.9.21
 * RSS Subscription Extension (by Google) 2.2.9
 * dotEPUB 1.3.1
