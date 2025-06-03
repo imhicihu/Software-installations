@@ -212,7 +212,7 @@
 	- [Node.js](https://nodejs.org/en/): javascript runtime
 	- [Rectangle](https://rectangleapp.com/): management of system windows
 	- [Talus](https://github.com/juanbrujo/Talus): `bash` script to automate download & setup your Mac OS X development environment
-	- [~~Advanced~~ Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp/releases)
+	- [Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp/releases)
 	- [Folding@home](https://foldingathome.org/start-folding/): fighting diseases donating processing's computer (runs in background and in non-intrusive mode)
 	- [SilentKnight](https://eclecticlight.co/lockrattler-systhist/): verifying security system
 	- [gasmask](https://github.com/2ndalpha/gasmask): hosts file manager for OS X
