@@ -191,6 +191,7 @@
 * Clipboard management
 	- [CopyQ](https://hluk.github.io/CopyQ/)
 	- [Maccy](https://github.com/p0deje/Maccy/)
+  - [ClipTools](https://apps.apple.com/us/app/cliptools/id1619348240?mt=12)
 * Health / Ergonomics
 	- [SavemyEyes](https://github.com/masich/SaveMyEyes/releases):  reminds periodic take-a-break 
 	- [Keyboard Cowboy](https://github.com/zenangst/KeyboardCowboy/releases): keyboard shortcut management
