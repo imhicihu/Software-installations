@@ -35,18 +35,17 @@
 	- [LocalSend](https://github.com/localsend/localsend): file transfer across our wifi network
 * Browsers
 	- [Google Chrome](https://support.google.com/chrome/a/answer/9025926?hl=en&ref_topic=9025817): internet browser
-		- plus this add-ons:
-			   - [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
-			   - [Block Ads: uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
-			   - [Get around paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome)
-			   - [Cookie Remover](https://chrome.google.com/webstore/detail/cookie-remover/kcgpggonjhmeaejebeoeomdlohicfhce)
-			   - [Citationsy](https://chrome.google.com/webstore/detail/citationsy/ananhmnkepfflgfdklgcdpgdngejokkn)
-			   - [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp/related)
-			   - [Writefull](https://chrome.google.com/webstore/detail/writefull/aolaabonkiegkggfdgjjehchjmjfanng/related)
-	 		   - [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
-			   - [Unpaywall](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha)
-			   - [Open Access](https://chrome.google.com/webstore/detail/open-access-button/gknkbkaapnhpmkcgkmdekdffgcddoiel)
-			   - [Kopernio](https://chrome.google.com/webstore/detail/kopernio-powered-by-web-o/fjgncogppolhfdpijihbpfmeohpaadpc)
+		* plus this add-ons:
+	      - [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
+        - [Block Ads: uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+		    - [Cookie Remover](https://chrome.google.com/webstore/detail/cookie-remover/kcgpggonjhmeaejebeoeomdlohicfhce)
+		    - [Citationsy](https://chrome.google.com/webstore/detail/citationsy/ananhmnkepfflgfdklgcdpgdngejokkn)
+		    - [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp/related)
+		    - [Writefull](https://chrome.google.com/webstore/detail/writefull/aolaabonkiegkggfdgjjehchjmjfanng/related)
+	 	    - [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
+		    - [Unpaywall](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha)
+		    - [Open Access](https://chrome.google.com/webstore/detail/open-access-button/gknkbkaapnhpmkcgkmdekdffgcddoiel)
+		    - [Kopernio](https://chrome.google.com/webstore/detail/kopernio-powered-by-web-o/fjgncogppolhfdpijihbpfmeohpaadpc)
 	- [Mozilla Firefox](https://www.mozilla.org/es-AR/firefox/linux/): internet browser
 	- [Vivaldi](https://vivaldi.com/es/download/): internet browser
 	- [Opera](https://www.opera.com/es-419/computer): internet browser
