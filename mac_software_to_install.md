@@ -2,6 +2,7 @@
 * Installer & updater of apps
 	- [Homebrew](http://brew.sh/): package & installer manager for macOS
 	- [Latest](https://github.com/mangerlahn/Latest/releases/): updater of installed applications
+  - [Talus](https://github.com/juanbrujo/Talus): `bash` script to automate download & setup your Mac OS X development environment
 * Backup
 	- [Duplicati](https://www.duplicati.com/): backup software with multiple options: schedule tasks, data encryption, etc.
 	- [Google Backup and sync](https://apps.apple.com/app/google-drive/id507874739): cloud-based backup tool
@@ -195,22 +196,21 @@
 	- [SavemyEyes](https://github.com/masich/SaveMyEyes/releases):  reminds periodic take-a-break 
 	- [Keyboard Cowboy](https://github.com/zenangst/KeyboardCowboy/releases): keyboard shortcut management
 	- [Posture Pal](https://goodsnooze.gumroad.com/l/posturepal?layout=profile): improve your posture
+  - [f.lux](https://justgetflux.com/dlmac.html): blue light screen protection
+  - [DwellClick for macOS](https://pilotmoon.com/dwellclick/): assistive app for mouse clicks
 * IA
 	- [jan](https://github.com/janhq/jan/releases): local AI assistant
 	- [gpt4all](https://github.com/nomic-ai/gpt4all/releases): run local LLMs on any device
 	- [AppleAI](https://bunnysayzz.github.io/AppleAI/): menu bar app for ChatGPT, Claude, Perplexity, Copilot, DeepSeek, and Grok into one streamlined interface
+* Peripheral management
+  - [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases): control your external monitor brightness & volume
+  - [AlDente](https://github.com/davidwernhart/AlDente): battery charge management
 * Miscellaneous
-	- [f.lux](https://justgetflux.com/dlmac.html): blue light screen protection
-	- [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases): control your external monitor brightness & volume
-	- [Command X](https://sindresorhus.com/command-x): cut and paste files from Finder
-	- [DwellClick for macOS](https://pilotmoon.com/dwellclick/): assistive app for mouse clicks
-	- [iTunes](https://www.apple.com/la/itunes/) 
+	- [Command X](https://sindresorhus.com/command-x): cut and paste files from Finder 
 	- [Veusz](https://github.com/veusz/veusz/releases/download/veusz-3.2/veusz-3.2-AppleOSX.dmg): scientific plotting package
 	- [Java](https://www.java.com/es/download/): runtime to leverage apps 
-	- [AlDente](https://github.com/davidwernhart/AlDente): battery charge management
 	- [Node.js](https://nodejs.org/en/): javascript runtime
 	- [Rectangle](https://rectangleapp.com/): management of system windows
-	- [Talus](https://github.com/juanbrujo/Talus): `bash` script to automate download & setup your Mac OS X development environment
 	- [Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp/releases)
 	- [Folding@home](https://foldingathome.org/start-folding/): fighting diseases donating processing's computer (runs in background and in non-intrusive mode)
 	- [SilentKnight](https://eclecticlight.co/lockrattler-systhist/): verifying security system
