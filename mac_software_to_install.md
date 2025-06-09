@@ -208,13 +208,14 @@
 * Miscellaneous
 	- [Command X](https://sindresorhus.com/command-x): cut and paste files from Finder 
 	- [Veusz](https://github.com/veusz/veusz/releases/download/veusz-3.2/veusz-3.2-AppleOSX.dmg): scientific plotting package
-	- [Java](https://www.java.com/es/download/): runtime to leverage apps 
+	- [Java](https://www.java.com/es/download/): runtime to leverage apps. Please verify this [example](https://github.com/imhicihu/Software-installations/blob/master/dstretch/dstretch_(internal_use).md)
 	- [Node.js](https://nodejs.org/en/): javascript runtime
 	- [Rectangle](https://rectangleapp.com/): management of system windows
 	- [Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp/releases)
 	- [Folding@home](https://foldingathome.org/start-folding/): fighting diseases donating processing's computer (runs in background and in non-intrusive mode)
 	- [SilentKnight](https://eclecticlight.co/lockrattler-systhist/): verifying security system
 	- [gasmask](https://github.com/2ndalpha/gasmask): hosts file manager for OS X
+  - [meetingBar](https://apps.apple.com/us/app/meetingbar/id1532419400?ign-itscg=30200&ign-itsct=apps_box_badge): MeetingBar shows your calendar events in the status bar
 
 ### Legal
 
