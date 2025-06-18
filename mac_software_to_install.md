@@ -78,7 +78,7 @@
 * Virtualization
 	- [Oracle VirtualBox](https://www.virtualbox.org): virtualization of operating systems, _et. al._
 		- [Virtualbox extension pack](https://www.virtualbox.org/wiki/Downloads): add-on for Oracle VirtualBox
-		- [VirtualBuddy](https://github.com/insidegui/VirtualBuddy): virtual machine
+	- [VirtualBuddy](https://github.com/insidegui/VirtualBuddy): virtual machine
 * File renamer (batch & automatic)
 	- [FileRenamer](https://www.sttmedia.com/filerenamer-download)
 * Android emulators
@@ -119,7 +119,7 @@
 	- [Xnview MP](https://www.xnview.com/en/xnviewmp/)
 * Password management
 	- [KeeWeb](https://github.com/keeweb/keeweb/releases/)
-* Font Management
+* Font management
 	- [Fontba.se](https://fontba.se/): typography management
 * Note taking
 	- [Joplin](https://joplinapp.org/)
@@ -153,6 +153,7 @@
 	- [Zoom.us](https://zoom.us/download#client_4meeting): virtual meetings
 	- [Google Meet](https://meet.google.com): virtual meetings
 	- [Utterly](https://www.utterly.app/): environment noise cancellation
+  - [webcam](https://iriun.com/): use your phone's camera as a wireless webcam
 * Network tools
 	- [Wireshark](https://www.wireshark.org/#download): wifi analyzer
 * Messaging (multi-platform)
@@ -216,7 +217,6 @@
 	- [SilentKnight](https://eclecticlight.co/lockrattler-systhist/): verifying security system
 	- [gasmask](https://github.com/2ndalpha/gasmask): hosts file manager for OS X
   - [meetingBar](https://apps.apple.com/us/app/meetingbar/id1532419400?ign-itscg=30200&ign-itsct=apps_box_badge): MeetingBar shows your calendar events in the status bar
-  - [webcam](https://iriun.com/): use your phone's camera as a wireless webcam
 
 ### Legal
 
