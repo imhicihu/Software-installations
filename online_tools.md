@@ -27,7 +27,7 @@
 
 #### Text editor
 * [Dillinger](https://dillinger.io/): markdown editor
-* [Visual Studio Code](https://vscode.dev/): coding environment
+* [Visual Studio Code](https://vscode.dev/): coding editor
 * [Github Dev](https://github.dev/github/dev): coding environment
 
 #### Document sharing
