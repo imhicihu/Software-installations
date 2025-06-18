@@ -143,7 +143,8 @@
 * Miscellaneous
 	- [Java](https://www.java.com/es/download/manual.jsp)
 	- [f.lux](https://justgetflux.com/linux.html): blue light screen protection
-	- [FileRenamer](https://www.sttmedia.com/filerenamer-download)
+  - [FileRenamer](https://www.sttmedia.com/filerenamer-download)
+  - [webcam](https://iriun.com/): use your phone's camera as a wireless webcam
 
 ### Legal
 
