@@ -216,6 +216,7 @@
 	- [SilentKnight](https://eclecticlight.co/lockrattler-systhist/): verifying security system
 	- [gasmask](https://github.com/2ndalpha/gasmask): hosts file manager for OS X
   - [meetingBar](https://apps.apple.com/us/app/meetingbar/id1532419400?ign-itscg=30200&ign-itsct=apps_box_badge): MeetingBar shows your calendar events in the status bar
+  - [webcam](https://iriun.com/): use your phone's camera as a wireless webcam
 
 ### Legal
 
