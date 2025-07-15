@@ -43,6 +43,7 @@
 	- [VLC](http://www.videolan.org): multi-format viewer
 * RAW viewer & image processing
 	- [Hasselblad Phocus](https://www.hasselblad.com/phocus/)
+  - [RapidRAW](https://github.com/CyberTimon/RapidRAW/releases)
 * Cloud hosting
 	- [Dropbox](https://www.dropbox.com/)
 	- [Box](https://box.com/)
