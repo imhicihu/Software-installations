@@ -9,7 +9,7 @@
 	- [Brackets](https://github.com/adobe/brackets/releases)
 	- [Zettlr](https://www.zettlr.com/): markdown editor which integrates CSL, BibLaTeX, Pandoc and many other tools
 * Compressors
-	- [Peazip](https://www.peazip.org/peazip-linux.html): compressor and handler of compressed files
+	- [Peazip](https://github.com/peazip/PeaZip/releases): compressor and handler of compressed files
 * Data backup
 	- [Nero Linux](http://www.nero.com/eng/downloads/previous-versions/download-linux4-update.php?vlang=en): CD/DVD/DVD/Blu-ray burning application
 	- [CDRDAO](http://cdrdao.sourceforge.net/): disk-at-once recording of audio and data CD-Rs/CD-RWs
