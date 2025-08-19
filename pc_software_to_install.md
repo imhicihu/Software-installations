@@ -31,7 +31,7 @@
 	- [Daemon Tools _lite_](https://www.daemon-tools.cc/products/dtLite): virtual disc drive
 * Compressors
 	- [7-Zip](https://www.7-zip.org/): multi-format file types handler
-	- [Peazip](https://www.peazip.org/): compressor and handler of compressed files
+	- [Peazip](https://github.com/peazip/PeaZip/releases): compressor and handler of compressed files
 	- [HJSplit](https://www.usitility.com/es/hjsplit/): multi-part zip processor
 * Database (handling and editor)
 	- [Draxed](https://www.draxed.com/download/lastest/exe): query editor; mysql & postgreSQL supported
