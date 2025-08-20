@@ -22,7 +22,6 @@
   - [Esse](https://esse.ameba.co/): multiple text transformation
   - [Zettlr](https://www.zettlr.com/): markdown editor which integrates CSL, BibLaTeX, Pandoc and many other tools
 * Compressors
-	- [7-Zip](https://www.7-zip.org/): multi-format file types handler
 	- [Peazip](https://github.com/peazip/PeaZip/releases): compressor and handler of compressed files
 	- [HJSplit](https://www.usitility.com/es/hjsplit/): multipart zip processor
 	- [Keka](https://github.com/aonez/Keka/releases): file compressor handler 
