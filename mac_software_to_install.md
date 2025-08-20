@@ -24,7 +24,8 @@
 * Compressors
 	- [Peazip](https://github.com/peazip/PeaZip/releases): compressor and handler of compressed files
 	- [HJSplit](https://www.usitility.com/es/hjsplit/): multipart zip processor
-	- [Keka](https://github.com/aonez/Keka/releases): file compressor handler 
+	- [Keka](https://github.com/aonez/Keka/releases): file compressor handler
+  - [The unarchiver](https://theunarchiver.com/):
 * Data backup
 	- [ImgBurn](http://www.imgburn.com/): CD/DVD/DVD/Blu-ray burning application
 	- [Free ISO Creator](http://www.minidvdsoft.com/isocreator/download_free_iso_creator.html): create ISO image from your files and folders
