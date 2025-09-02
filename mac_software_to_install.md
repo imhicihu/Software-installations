@@ -23,7 +23,6 @@
   - [Zettlr](https://www.zettlr.com/): markdown editor which integrates CSL, BibLaTeX, Pandoc and many other tools
 * Compressors
 	- [Peazip](https://github.com/peazip/PeaZip/releases): compressor and handler of compressed files
-	- [HJSplit](https://www.usitility.com/es/hjsplit/): multipart zip processor
 	- [Keka](https://github.com/aonez/Keka/releases): file compressor handler
   - [The unarchiver](https://theunarchiver.com/):
 * Data backup
