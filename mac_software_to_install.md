@@ -205,6 +205,7 @@
 	- [jan](https://github.com/janhq/jan/releases): local AI assistant
 	- [gpt4all](https://github.com/nomic-ai/gpt4all/releases): run local LLMs on any device
 	- [AppleAI](https://bunnysayzz.github.io/AppleAI/): menu bar app for ChatGPT, Claude, Perplexity, Copilot, DeepSeek, and Grok into one streamlined interface
+  - [Deta surf](https://github.com/deta/surf): local AI notebook for data mining
 * Peripheral management
   - [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases): control your external monitor brightness & volume
   - [AlDente](https://github.com/davidwernhart/AlDente): battery charge management
