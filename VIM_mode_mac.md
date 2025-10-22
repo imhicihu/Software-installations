@@ -12,6 +12,7 @@
 #### Vim mode
 * [KindaVim](https://kindavim.app/)
 * [Homerow](https://github.com/dexterleng/homerow#user-guide)
+* [Shortcat](https://shortcat.app/)
 * [VimMotion](https://github.com/dwarvesf/VimMotionApp)
 * [Vimac](https://github.com/dexterleng/vimac)
 * [ShadowVim](https://github.com/mickael-menu/ShadowVim)
