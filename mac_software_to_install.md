@@ -13,6 +13,7 @@
 	- [KnockKnock](https://objective-see.com/products/knockknock.html)
 	- [BlockBlock](https://objective-see.com/products/blockblock.html)
 	- [RansomWhere?](https://objective-see.com/products/ransomwhere.html); more info can be found [here](https://objective-see.com/products.html)
+  - [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/get.html): inspecting macOS Installer packages
 * Hardware profiler
   - [MachineProfile](http://www.micromat.com/products/machineprofile)
 * Text editor (multipurpose)
