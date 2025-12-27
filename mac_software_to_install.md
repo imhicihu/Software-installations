@@ -93,7 +93,7 @@
 	- [LibreOffice](https://www.libreoffice.org/download/download/): ofimatic
 * Text converter
 	- [Pandoc](https://pandoc.org/installing.html): universal file text converter
-  - [Rosettavert](https://eclecticlight.co/text-utilities-nalaprop-dystextia-and-others/): converts between different text encodings
+  - [Rosettavert](https://eclecticlight.co/2020/08/26/rosettavert-version-1-5-is-now-available-a-universal-app/): converts between different text encodings
 * Text capture
 	- [TRex](https://github.com/amebalabs/TRex/releases)
 * Text expander (automatic replacement)
