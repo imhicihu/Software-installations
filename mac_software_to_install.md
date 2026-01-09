@@ -25,7 +25,7 @@
 * Compressors
 	- [Peazip](https://github.com/peazip/PeaZip/releases): compressor and handler of compressed files
 	- [Keka](https://github.com/aonez/Keka/releases): file compressor handler
-  - [The unarchiver](https://theunarchiver.com/):
+  - [The unarchiver](https://theunarchiver.com/)
 * Data backup
 	- [ImgBurn](http://www.imgburn.com/): CD/DVD/DVD/Blu-ray burning application
 	- [Free ISO Creator](http://www.minidvdsoft.com/isocreator/download_free_iso_creator.html): create ISO image from your files and folders
@@ -52,6 +52,7 @@
 	- [Syncthing](https://github.com/syncthing/syncthing): file synchronization between computers
 * File sharing
   - [LocalSend](https://github.com/localsend/localsend): file transfer across our wifi network
+  - [Keybase](https://keybase.io/): secure file transfer
 * Browsers
 	- [Google Chrome](https://www.google.com/intl/es-419/chrome/): internet browser
 		* plus this add-ons:
@@ -74,11 +75,9 @@
 	- [Opera](https://www.opera.com/): internet browser
 	- [Brave](https://brave.com/): internet browser
   - [Orion](https://kagi.com/orion/): internet browser
-* Personal groups, files & chat
-	- [Keybase](https://keybase.io/)
 * Virtualization
 	- [Oracle VirtualBox](https://www.virtualbox.org): virtualization of operating systems, _et. al._
-		- [Virtualbox extension pack](https://www.virtualbox.org/wiki/Downloads): add-on for Oracle VirtualBox
+	- [Virtualbox extension pack](https://www.virtualbox.org/wiki/Downloads): add-on for Oracle VirtualBox
 	- [VirtualBuddy](https://github.com/insidegui/VirtualBuddy): virtual machine
 * File renamer (batch & automatic)
 	- [FileRenamer](https://www.sttmedia.com/filerenamer-download)
@@ -161,6 +160,7 @@
 	- [Wireshark](https://www.wireshark.org/#download): wifi analyzer
 * Messaging (multi-platform)
 	- [Ferdi](https://getferdi.com/download)
+  - [Keybase](https://keybase.io/)
 * Remote desktop access
 	- [Rustdesk](https://github.com/rustdesk/rustdesk/releases)
 * Bibliographic & citation & personal research assistant
