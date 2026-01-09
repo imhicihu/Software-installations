@@ -24,3 +24,4 @@
 * [Whooshy](https://wooshy.app/)
 * [SuperKey](https://ryanhanson.dev/posts/superkey)
 * [Swiftkey](https://github.com/amebalabs/SwiftKey/)
+* [LeaderKey](https://github.com/mikker/LeaderKey)
