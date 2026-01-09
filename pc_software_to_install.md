@@ -58,6 +58,7 @@
 	- [Syncthing](https://github.com/syncthing/syncthing): file synchronization between computers
 * File sharing
 	- [LocalSend](https://github.com/localsend/localsend): file transfer across our wifi network
+  - [Keybase](https://keybase.io/)
 * Browsers
 	- [Google Chrome](https://www.google.com/intl/es-419/chrome/): internet browser
 		* _plus this add-ons_:
@@ -161,6 +162,7 @@
 	- [Wireshark](https://www.wireshark.org/#download): wifi analyzer
 * Messaging (multi-platform)
 	- [Ferdi](https://getferdi.com/download)
+  - [Keybase](https://keybase.io/)
 * Remote desktop access
 	- [Rustdesk](https://github.com/rustdesk/rustdesk/releases)
 * Bibliographic & personal research assistant
