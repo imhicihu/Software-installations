@@ -23,3 +23,4 @@
 * [Scrolla](https://scrolla.app/)
 * [Whooshy](https://wooshy.app/)
 * [SuperKey](https://ryanhanson.dev/posts/superkey)
+* [Swiftkey](https://github.com/amebalabs/SwiftKey/)
