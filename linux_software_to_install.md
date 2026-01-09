@@ -33,6 +33,7 @@
 	- [Bleachbit](https://www.bleachbit.org/)
 * File sharing
 	- [LocalSend](https://github.com/localsend/localsend): file transfer across our wifi network
+  - [Keybase](https://keybase.io/)
 * Browsers
 	- [Google Chrome](https://support.google.com/chrome/a/answer/9025926?hl=en&ref_topic=9025817): internet browser
 		* plus this add-ons:
@@ -51,8 +52,6 @@
 	- [Opera](https://www.opera.com/es-419/computer): internet browser
 	- [Brave](https://brave.com/): internet browser
 	- [LibreWolf](https://librewolf.net/): internet browser
-* Personal groups, files & chat
-	- [Keybase](https://keybase.io/docs/the_app/install_linux)
 * Virtualization
 	- [Oracle VirtualBox](https://www.virtualbox.org/wiki/Linux_Downloads): virtualization of operating systems, _et. al._
 	- [Virtualbox extension pack](https://www.virtualbox.org/wiki/Downloads): add-on for Oracle VirtualBox
@@ -113,6 +112,7 @@
 	- [Google Meet](https://meet.google.com): virtual meetings
 * Messaging (multi-platform)
 	- [Ferdi](https://getferdi.com/download)
+  - [Keybase](https://keybase.io/)
 * Remote desktop access
 	- [Rustdesk](https://github.com/rustdesk/rustdesk/releases)
 * Bibliographic & citation & personal research assistant
