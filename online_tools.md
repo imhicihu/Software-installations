@@ -11,6 +11,7 @@
 
 #### PDF tools
 * [PDF24 Creator](https://tools.pdf24.org/)
+* [PDFCraft](https://pdfcraft.devtoolcafe.com/en/)
 
 #### Graphic compressor
 * [squoosh](https://squoosh.app/)
