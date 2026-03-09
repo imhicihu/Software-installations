@@ -1,5 +1,5 @@
 #### Multitools
-* [tinywow](https://tinywow.com/tools)
+* [tinywow](https://tinywow.com/tools): myriad of tools
 
 #### Bibliography
 * [Litmaps](https://www.litmaps.com/): interactive visualizations of citation networks
