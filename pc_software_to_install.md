@@ -116,7 +116,7 @@
 	- [SumatraPDF](https://www.sumatrapdfreader.org/download.html): with capabilities of become a EPUB, MOBI, FB2, CHM, XPS, DjVu file format reader too.
 	- ~~[Okular](https://okular.kde.org): with capabilities of become a EPUB, MOBI, FB2, CHM, XPS, DjVu file format reader too.~~
 * PDF editor
-	- [PDFedit](http://pdfedit.cz/en/pdfedit_windows.html)
+	- ~~[PDFedit](http://pdfedit.cz/en/pdfedit_windows.html)~~
 	- [LibreOffice Draw PDF editor](https://www.libreoffice.org/download/download/)
 	- [Apache OpenOffice Draw](https://www.openoffice.org/es/producto/draw.html)
 	- [PDFSam](https://pdfsam.org/es/download-pdfsam-basic/)
