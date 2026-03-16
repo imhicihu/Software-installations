@@ -18,8 +18,7 @@ Ejemplos de comportamientos que contribuyen a crear un ambiente positivo para nu
 
 Ejemplos de comportamiento inaceptable:
 
-* El uso de lenguaje o imágenes sexualizadas, y aproximaciones o
-  atenciones sexuales de cualquier tipo
+* El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones sexuales de cualquier tipo
 * Comentarios despectivos (_trolling_), insultantes o derogatorios, y ataques personales o políticos
 * El acoso en público o privado
 * Publicar información privada de otras personas, tales como direcciones físicas o de correo electrónico, sin su permiso explícito
