@@ -195,7 +195,8 @@
 	- [Spydish](https://github.com/builtbybel/spydish/releases): privacy and security check. _Only for Windows 10_
 	- [SharpApp](https://github.com/mirinsoft/sharpapp/releases): disable telemetry functions in Windows 10
 	- [Debotnet](https://github.com/mirinsoft/debotnet/releases): controlling Windows 10's many privacy-related settings. Requires Windows 10 including both 32-bit and 64-bit versions
-  - [The PC Decrapifier](https://www.pcdecrapifier.com/)
+  - [The PC Decrapifier](https://www.pcdecrapifier.com/): what to remove to speed up your system
+  - [CrapFixer](https://github.com/builtbybel/CrapFixer/releases): Analyze your Windows System and fix it
 * Updater (automation)
 	- [UnigetUI](https://github.com/marticliment/UniGetUI/releases): graphical Interface for your package managers
 	- [Chocolatey GUI](https://github.com/chocolatey/ChocolateyGUI/releases/): to update software via [Chocolatey](https://chocolatey.org/) 
