@@ -4,8 +4,10 @@
 	- [UrBackup](https://www.urbackup.org/download.html#client_windows)
 	- [SyncBackFree](https://www.2brightsparks.com/freeware/index.html)
 	- [Google Backup and sync](https://www.google.com/drive/download/backup-and-sync/): Windows-based backup tool
-* Automation of installations & updates of applications
+* ~~Automation of installations & updates of applications~~
 	- ~~[Roboget](https://github.com/builtbybel/Roboget/releases/)~~
+* Ergonomics
+  - [Autohotkey](https://www.autohotkey.com/)
 * Windows cleaning
 	- [Ccleaner](https://www.ccleaner.com/)
 	- [Cleanmgr+](https://www.mirinsoft.com/cleanmgrplus)
