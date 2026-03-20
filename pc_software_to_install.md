@@ -195,6 +195,7 @@
 	- [Spydish](https://github.com/builtbybel/spydish/releases): privacy and security check. _Only for Windows 10_
 	- [SharpApp](https://github.com/mirinsoft/sharpapp/releases): disable telemetry functions in Windows 10
 	- [Debotnet](https://github.com/mirinsoft/debotnet/releases): controlling Windows 10's many privacy-related settings. Requires Windows 10 including both 32-bit and 64-bit versions
+  - [The PC Decrapifier](https://www.pcdecrapifier.com/)
 * Updater (automation)
 	- [UnigetUI](https://github.com/marticliment/UniGetUI/releases): graphical Interface for your package managers
 	- [Chocolatey GUI](https://github.com/chocolatey/ChocolateyGUI/releases/): to update software via [Chocolatey](https://chocolatey.org/) 
@@ -220,7 +221,6 @@
 	- [FileRenamer](https://www.sttmedia.com/filerenamer-download)
 	- [Wox](https://github.com/Wox-launcher/Wox/releases): application launcher (like [Alfred](https://www.alfredapp.com) for the mac)
 	- [Dependency walker](http://www.dependencywalker.com/): scans any 32-bit or 64-bit Windows module (`exe`, `dll`, `ocx`, `sys`, etc.) and builds a hierarchical tree diagram of all dependent modules
-	- [The PC Decrapifier](https://www.pcdecrapifier.com/)
 	- [Folding@home](https://foldingathome.org/start-folding/): fighting diseases donating processing's computer (runs in background and non-intrusive mode)
   - [webcam](https://iriun.com/): use your phone's camera as a wireless webcam
 	
