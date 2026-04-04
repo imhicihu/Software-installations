@@ -198,7 +198,7 @@
 	- [Maccy](https://github.com/p0deje/Maccy/)
   - [ClipTools](https://apps.apple.com/us/app/cliptools/id1619348240?mt=12)
 * Health / Ergonomics
-	- [SavemyEyes](https://github.com/masich/SaveMyEyes/releases):  reminds periodic take-a-break 
+	- [SavemyEyes](https://github.com/masich/SaveMyEyes/releases): reminds periodic take-a-break 
 	- [Keyboard Cowboy](https://github.com/zenangst/KeyboardCowboy/releases): keyboard shortcut management
 	- [Posture Pal](https://goodsnooze.gumroad.com/l/posturepal?layout=profile): improve your posture
   - [f.lux](https://justgetflux.com/dlmac.html): blue light screen protection
@@ -209,6 +209,7 @@
 	- [gpt4all](https://github.com/nomic-ai/gpt4all/releases): run local LLMs on any device
 	- [AppleAI](https://bunnysayzz.github.io/AppleAI/): menu bar app for ChatGPT, Claude, Perplexity, Copilot, DeepSeek, and Grok into one streamlined interface
   - [Deta surf](https://github.com/deta/surf): local AI notebook for data mining
+  - [Apfel](https://apfel.franzai.com/#demos): use the FREE local Apple Intelligence LLM on your Mac 
 * Peripheral management
   - [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases): control your external monitor brightness & volume
   - [AlDente](https://github.com/davidwernhart/AlDente): battery charge management
