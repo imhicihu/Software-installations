@@ -42,7 +42,7 @@
 * Video viewer
 	- [VLC](http://www.videolan.org): multi-format viewer
 * RAW viewer & image processing
-	- [Hasselblad Phocus](https://www.hasselblad.com/phocus/)
+	- [Hasselblad Phocus](https://www.hasselblad.com/phocus/phocus-for-pc-mac/)
   - [RapidRAW](https://github.com/CyberTimon/RapidRAW/releases)
 * Cloud hosting
 	- [Dropbox](https://www.dropbox.com/)
