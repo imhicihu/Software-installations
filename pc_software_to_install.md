@@ -209,6 +209,7 @@
 	- [jan](https://github.com/janhq/jan/releases): local AI assistant
 	- [gpt4all](https://github.com/nomic-ai/gpt4all/releases): run local LLMs on any device
   - [Deta surf](https://github.com/deta/surf): local AI notebook for data mining
+  - [Ollama](https://ollama.com/): development with local IA models
 * Miscellaneous
 	- [f.lux](https://justgetflux.com/dlwin.html): blue light screen protection
 	- [Scoop](https://scoop.sh/): a command-line installer for Windows
