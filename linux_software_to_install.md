@@ -141,6 +141,7 @@
 	- [jan](https://github.com/janhq/jan/releases): local AI assistant
 	- [gpt4all](https://github.com/nomic-ai/gpt4all/releases): run local LLMs on any device
   - [Deta surf](https://github.com/deta/surf): local AI notebook for data mining
+  - [Ollama](https://ollama.com/): development with local IA models
 * Miscellaneous
 	- [Java](https://www.java.com/es/download/manual.jsp)
 	- [f.lux](https://justgetflux.com/linux.html): blue light screen protection
