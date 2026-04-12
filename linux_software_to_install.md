@@ -147,6 +147,7 @@
 	- [f.lux](https://justgetflux.com/linux.html): blue light screen protection
   - [FileRenamer](https://www.sttmedia.com/filerenamer-download)
   - [webcam](https://iriun.com/): use your phone's camera as a wireless webcam
+  - [Little Snitch](https://obdev.at/products/littlesnitch-linux/index.html): control internet connections
 
 ### Legal
 
