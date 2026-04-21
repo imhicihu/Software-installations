@@ -204,6 +204,7 @@
   - [f.lux](https://justgetflux.com/dlmac.html): blue light screen protection
   - [DwellClick for macOS](https://pilotmoon.com/dwellclick/): assistive app for mouse clicks
   - [shortcat](https://shortcat.app/): manipulate the screen with keyboard
+  - [Hyperkey](https://hyperkey.app/): create custom keyboard shortcuts to type less
 * IA
 	- [jan](https://github.com/janhq/jan/releases): local AI assistant
 	- [gpt4all](https://github.com/nomic-ai/gpt4all/releases): run local LLMs on any device
