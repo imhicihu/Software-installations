@@ -9,7 +9,7 @@
 * [touch-tab](https://github.com/ris58h/Touch-Tab)
 * [HotKey App](https://apps.apple.com/app/hotkey-app/id975890633?mt=12)
 * [Apptivator](https://github.com/acheronfail/apptivator)
-#### Vim mode
+### Vim mode
 * [KindaVim](https://kindavim.app/)
 * [Homerow](https://github.com/dexterleng/homerow#user-guide)
 * [VimMotion](https://github.com/dwarvesf/VimMotionApp)
