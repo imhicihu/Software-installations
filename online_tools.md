@@ -12,6 +12,9 @@
 * [Scoop](https://scoop.sh/)
 * [Chocolatey](https://chocolatey.org/)
 
+#### Academic research searcher
+* [Consensus](https://consensus.app/)
+
 #### PDF tools
 * [PDF24 Creator](https://tools.pdf24.org/)
 * [PDFCraft](https://pdfcraft.devtoolcafe.com/en/)
