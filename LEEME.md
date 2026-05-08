@@ -54,7 +54,7 @@
 
 ### Código de conducta
 
-* Por favor, consulta nuestro [Código de conducta](code_of_conduct.md)
+* Por favor, consulta nuestro [Código de conducta](codigo_de_conducta.md)
 
 ### Aspectos legales ###
 
