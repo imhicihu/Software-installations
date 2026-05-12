@@ -35,6 +35,7 @@
 * Uninstaller 
   - [Appcleaner](https://freemacsoft.net/appcleaner/)
   - [Pearcleaner](https://github.com/alienator88/Pearcleaner/releases)
+  - [Mole](https://github.com/tw93/mole)
 * Database (handling and editor)
 	- [Draxed](https://www.draxed.com/download/lastest/dmg): query editor; mysql & postgreSQL supported
 	- [symphytum](https://github.com/giowck/symphytum): personal database
