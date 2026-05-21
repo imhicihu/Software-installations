@@ -219,6 +219,7 @@
 	- [Command X](https://sindresorhus.com/command-x): cut and paste files from Finder 
 	- [Veusz](https://github.com/veusz/veusz/releases/download/veusz-3.2/veusz-3.2-AppleOSX.dmg): scientific plotting package
 	- [Java](https://www.java.com/es/download/): runtime to leverage apps. Please verify this [example](https://github.com/imhicihu/Software-installations/blob/master/dstretch/dstretch_(internal_use).md)
+  - [Handy](https://handy.computer/): speech to text
 	- [Node.js](https://nodejs.org/en/): javascript runtime
 	- [Rectangle](https://rectangleapp.com/): management of system windows
 	- [Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp/releases)
