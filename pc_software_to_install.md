@@ -215,6 +215,7 @@
 	- [Veusz](https://github.com/veusz/veusz/releases/download/veusz-3.2/veusz-3.2.0.1-windows-setup.exe): a scientific plotting package
 	- [Rufus](https://rufus.ie/): create bootable usb drives
 	- [File Optimizer](https://sourceforge.net/projects/nikkhokkho/files/latest/download)
+  - [Handy](https://handy.computer/): speech to text
 	- [Java](https://www.java.com/es/download/): runtime to leverage apps
 	- [Node.js](https://nodejs.org/en/): javascript runtime
 	- ~~[Microsoft .NET Framework 4.5](https://www.microsoft.com/es-ar/download/details.aspx?id=30653): not essential in Windows 10. Check former operating systems compatibilities~~
