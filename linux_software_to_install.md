@@ -143,6 +143,7 @@
 	- [Java](https://www.java.com/es/download/manual.jsp)
 	- [f.lux](https://justgetflux.com/linux.html): blue light screen protection
   - [FileRenamer](https://www.sttmedia.com/filerenamer-download)
+  - [Handy](https://handy.computer/): speech to text
   - [webcam](https://iriun.com/): use your phone's camera as a wireless webcam
   - [Little Snitch](https://obdev.at/products/littlesnitch-linux/index.html): control internet connections
 
