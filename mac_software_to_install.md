@@ -84,7 +84,7 @@
 	- [FileRenamer](https://www.sttmedia.com/filerenamer-download)
 * Android emulators
 	- [BlueStacks](https://www.bluestacks.com/bluestacks-android-n.html): android emulator
-	- ~~[GenyMotion](https://www.genymotion.com/desktop/): android emulator~~
+	- [GenyMotion](https://www.genymotion.com/desktop/): android emulator
 * GIS & maps & GPS
 	- [QGIS](https://qgis.org/en/site/): GIS handling
 	- [Google Earth](https://www.google.com/intl/es-419_ALL/earth/versions/#earth-pro): virtual globe
