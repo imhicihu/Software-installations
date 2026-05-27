@@ -39,6 +39,9 @@
 * [Visual Studio Code](https://vscode.dev/): coding editor
 * [Github Dev](https://github.dev/github/dev): coding environment
 
+#### Video transcriptions
+* [Transcriptions online tools](https://macparakeet.com/tools/)
+
 #### Document sharing
 * [Peeplink](https://peeplink.in/): transcriptions, gists, _et alia_
 
