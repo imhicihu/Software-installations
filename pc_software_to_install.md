@@ -208,6 +208,10 @@
 	- [gpt4all](https://github.com/nomic-ai/gpt4all/releases): run local LLMs on any device
   - [Deta surf](https://github.com/deta/surf): local AI notebook for data mining
   - [Ollama](https://ollama.com/): development with local IA models
+* Voice & text transcription
+  - [Handy](https://handy.computer/): speech to text
+  - [macparakeet](https://github.com/moona3k/macparakeet/releases): video transcription
+  - [Buzz](https://github.com/chidiwilliams/buzz/releases): transcribe & translate videos
 * Miscellaneous
 	- [f.lux](https://justgetflux.com/dlwin.html): blue light screen protection
 	- [Scoop](https://scoop.sh/): a command-line installer for Windows
@@ -215,7 +219,6 @@
 	- [Veusz](https://github.com/veusz/veusz/releases/download/veusz-3.2/veusz-3.2.0.1-windows-setup.exe): a scientific plotting package
 	- [Rufus](https://rufus.ie/): create bootable usb drives
 	- [File Optimizer](https://sourceforge.net/projects/nikkhokkho/files/latest/download)
-  - [Handy](https://handy.computer/): speech to text
 	- [Java](https://www.java.com/es/download/): runtime to leverage apps
 	- [Node.js](https://nodejs.org/en/): javascript runtime
 	- ~~[Microsoft .NET Framework 4.5](https://www.microsoft.com/es-ar/download/details.aspx?id=30653): not essential in Windows 10. Check former operating systems compatibilities~~
