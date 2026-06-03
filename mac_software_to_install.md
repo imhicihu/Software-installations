@@ -218,7 +218,7 @@
 * Voice & text transcription
   - [Handy](https://handy.computer/): speech to text
   - [macparakeet](https://github.com/moona3k/macparakeet/releases): video transcription
-  - 
+  - [Buzz](https://github.com/chidiwilliams/buzz/releases): transcribe & translate videos
 * Miscellaneous
 	- [Command X](https://sindresorhus.com/command-x): cut and paste files from Finder
 	- [Veusz](https://github.com/veusz/veusz/releases/): scientific plotting package
