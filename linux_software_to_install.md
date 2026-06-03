@@ -134,6 +134,10 @@
 	- [TeXmaker](https://www.xm1math.net/texmaker/)
 * Clipboard management
 	- [CopyQ](https://hluk.github.io/CopyQ/)
+* Voice & text transcription
+  - [Handy](https://handy.computer/): speech to text
+  - [macparakeet](https://github.com/moona3k/macparakeet/releases): video transcription
+  - [Buzz](https://github.com/chidiwilliams/buzz/releases): transcribe & translate videos
 * IA
 	- [jan](https://github.com/janhq/jan/releases): local AI assistant
 	- [gpt4all](https://github.com/nomic-ai/gpt4all/releases): run local LLMs on any device
@@ -142,8 +146,7 @@
 * Miscellaneous
 	- [Java](https://www.java.com/es/download/manual.jsp)
 	- [f.lux](https://justgetflux.com/linux.html): blue light screen protection
-  - [FileRenamer](https://www.sttmedia.com/filerenamer-download)
-  - [Handy](https://handy.computer/): speech to text
+  - [FileRenamer](https://www.sttmedia.com/filerenamer-download): batch file renamer
   - [webcam](https://iriun.com/): use your phone's camera as a wireless webcam
   - [Little Snitch](https://obdev.at/products/littlesnitch-linux/index.html): control internet connections
 
