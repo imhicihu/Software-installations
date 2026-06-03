@@ -215,12 +215,14 @@
 * Peripheral management
   - [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases): control your external monitor brightness & volume
   - [AlDente](https://github.com/davidwernhart/AlDente): battery charge management
+* Voice & text transcription
+  - [Handy](https://handy.computer/): speech to text
+  - [macparakeet](https://github.com/moona3k/macparakeet/releases): video transcription
+  - 
 * Miscellaneous
 	- [Command X](https://sindresorhus.com/command-x): cut and paste files from Finder
 	- [Veusz](https://github.com/veusz/veusz/releases/): scientific plotting package
 	- [Java](https://www.java.com/es/download/): runtime to leverage apps. Please verify this [example](https://github.com/imhicihu/Software-installations/blob/master/dstretch/dstretch_(internal_use).md)
-  - [Handy](https://handy.computer/): speech to text
-  - [macparakeet](https://github.com/moona3k/macparakeet/releases): video transcription
 	- [Node.js](https://nodejs.org/en/): javascript runtime
 	- [Rectangle](https://rectangleapp.com/): management of system windows
 	- [Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp/releases)
