@@ -171,6 +171,7 @@
 	- [JabRef](https://www.jabref.org/): bibliography reference manager
   - [Publish or Perish](https://harzing.com/resources/publish-or-perish): retrieves and analyzes academic citations
   - [Pubs](https://github.com/pubs/pubs): your bibliography on the command line
+  - [Open notebook](https://github.com/lfnovo/open-notebook): alternative to Google's Notebook LM
 * Bibliography searcher
 	- [ScienceFair](https://github.com/sciencefair-land/sciencefair): discover, collect, organize, read and analyze scientific papers
 * Virtual server environment
