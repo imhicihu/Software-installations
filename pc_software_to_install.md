@@ -169,6 +169,7 @@
 	- [Zotero](https://www.zotero.org/download)
 	- [JabRef](https://www.jabref.org/): bibliography reference manager
   - [Publish or Perish](https://harzing.com/resources/publish-or-perish): retrieves and analyzes academic citations
+  - [Open notebook](https://github.com/lfnovo/open-notebook): alternative to Google's Notebook LM
 * Bibliography searcher
 	- [ScienceFair](https://github.com/sciencefair-land/sciencefair): discover, collect, organise, read and analyse scientific papers.
 * Virtual server environment
