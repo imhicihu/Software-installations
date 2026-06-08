@@ -32,6 +32,8 @@
 	- [Syncthing](https://github.com/syncthing/syncthing): file synchronization between computers
 * System cleaning
 	- [Bleachbit](https://www.bleachbit.org/)
+* System optimizer
+  - [Stacer](https://github.com/oguzhaninan/Stacer/releases)
 * File sharing
 	- [LocalSend](https://github.com/localsend/localsend): file transfer across our wifi network
   - [Keybase](https://keybase.io/)
