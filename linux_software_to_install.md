@@ -6,7 +6,8 @@
 	- [Google Backup and sync](https://apps.apple.com/app/google-drive/id507874739): cloud-based backup tool
 * Text editor (multipurpose)
 	- ~~[Atom](http://atom.io/)~~ ([deprecated](https://github.blog/2022-06-08-sunsetting-atom/) by GitHub)
-	- [Brackets](https://github.com/adobe/brackets/releases)
+  - ~~[Brackets](https://github.com/brackets-cont/brackets)~~ _deprecated_
+  - [Phoenix](https://github.com/phcode-dev/phoenix/releases)
 	- [Zettlr](https://www.zettlr.com/): markdown editor which integrates CSL, BibLaTeX, Pandoc and many other tools
 * Compressors
 	- [Peazip](https://github.com/peazip/PeaZip/releases): compressor and handler of compressed files
