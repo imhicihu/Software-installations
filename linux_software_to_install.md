@@ -8,7 +8,7 @@
 	- ~~[Atom](http://atom.io/)~~ ([deprecated](https://github.blog/2022-06-08-sunsetting-atom/) by GitHub)
   - ~~[Brackets](https://github.com/brackets-cont/brackets)~~ _deprecated_
   - [Phoenix](https://github.com/phcode-dev/phoenix/releases)
-	- [Zettlr](https://www.zettlr.com/): markdown editor which integrates CSL, BibLaTeX, Pandoc and many other tools
+  - [Zettlr](https://www.zettlr.com/): markdown editor which integrates CSL, BibLaTeX, Pandoc and many other tools
 * Compressors
 	- [Peazip](https://github.com/peazip/PeaZip/releases): compressor and handler of compressed files
 * Data backup
@@ -33,7 +33,7 @@
 * System cleaning
 	- [Bleachbit](https://www.bleachbit.org/)
 * System optimizer
-  - [Stacer](https://github.com/oguzhaninan/Stacer/releases)
+  - [Stacer](https://github.com/oguzhaninan/Stacer/releases): `sudo apt install stacer`
 * File sharing
 	- [LocalSend](https://github.com/localsend/localsend): file transfer across our wifi network
   - [Keybase](https://keybase.io/)
