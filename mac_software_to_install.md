@@ -199,11 +199,11 @@
 	- [CopyQ](https://hluk.github.io/CopyQ/)
 	- [Maccy](https://github.com/p0deje/Maccy/)
   - [ClipTools](https://apps.apple.com/us/app/cliptools/id1619348240?mt=12)
-* Health / Ergonomics
+* Health / Ergonomics (vide [VIM](VIM_mode_mac.md) section)
 	- [SavemyEyes](https://github.com/masich/SaveMyEyes/releases): reminds periodic take-a-break 
 	- [Keyboard Cowboy](https://github.com/zenangst/KeyboardCowboy/releases): keyboard shortcut management
   - [vimac](https://github.com/nchudleigh/vimac): keyboard-driven navigation and control of the macOS Graphical User Interface
-	- [Posture Pal](https://goodsnooze.gumroad.com/l/posturepal?layout=profile): improve your posture
+  - [Posture Pal](https://goodsnooze.gumroad.com/l/posturepal?layout=profile): improve your posture
   - [f.lux](https://justgetflux.com/dlmac.html): blue light screen protection
   - [DwellClick for macOS](https://pilotmoon.com/dwellclick/): assistive app for mouse clicks
   - [shortcat](https://shortcat.app/): manipulate the screen with keyboard
