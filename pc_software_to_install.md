@@ -197,6 +197,7 @@
 	- [SharpApp](https://github.com/mirinsoft/sharpapp/releases): disable telemetry functions in Windows 10
 	- [Debotnet](https://github.com/mirinsoft/debotnet/releases): controlling Windows 10's many privacy-related settings. Requires Windows 10 including both 32-bit and 64-bit versions
   - [The PC Decrapifier](https://www.pcdecrapifier.com/): what to remove to speed up your system
+  - [mole](https://github.com/tw93/Mole/tree/windows): deep clean and optimize your Windows
   - [CrapFixer](https://github.com/builtbybel/CrapFixer/releases): Analyze your Windows System and fix it
 * Updater (automation)
 	- [UnigetUI](https://github.com/marticliment/UniGetUI/releases): graphical Interface for your package managers
