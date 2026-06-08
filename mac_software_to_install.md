@@ -21,6 +21,7 @@
   - [Beam](https://www.bean-osx.com/Bean.html) 
   - [CotEditor](https://coteditor.com/)
   - ~~[Brackets](https://github.com/brackets-cont/brackets)~~ _deprecated_
+  - [Phoenix](https://github.com/phcode-dev/phoenix/releases)
   - [Esse](https://esse.ameba.co/): multiple text transformation
   - [Zettlr](https://www.zettlr.com/): markdown editor which integrates CSL, BibLaTeX, Pandoc and many other tools
 * Compressors
