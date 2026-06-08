@@ -20,7 +20,7 @@
 * Text editor (multipurpose)
   - [Beam](https://www.bean-osx.com/Bean.html) 
   - [CotEditor](https://coteditor.com/)
-  - [Brackets](http://brackets.io/)
+  - ~~[Brackets](https://github.com/brackets-cont/brackets)~~ _deprecated_
   - [Esse](https://esse.ameba.co/): multiple text transformation
   - [Zettlr](https://www.zettlr.com/): markdown editor which integrates CSL, BibLaTeX, Pandoc and many other tools
 * Compressors
