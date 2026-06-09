@@ -32,7 +32,7 @@
         | [Linux®](linux_software_to_install.md) |  
 
 * Configuración
-    - No existe una situación en la que "esta regla se aplique a todos", ya que hay _algunas_ interdependencias entre las partes, por ejemplo: [Dstretch](dstretch/dstretch_(internal_use).md) necesita [ImageJ](https://imagej.nih.gov/ij/index.html) y, a su vez, [ImageJ](https://imagej.nih.gov/ij/index.html) necesita [Java](https://www.java.com/es/download/). Por cierto, el ejemplo anterior es una situación "rara avis".
+    - No existe una situación en la que "esta regla se aplique a todos", ya que hay _algunas_ interdependencias entre las partes, por ejemplo: [Dstretch](dstretch/dstretch_(internal_use).md) necesita [ImageJ](https://imagej.nih.gov/ij/index.html) y, a su vez, [ImageJ](https://imagej.nih.gov/ij/index.html) necesita [Java](https://www.java.com/es/download/). Por cierto, el ejemplo anterior es -dadas las circunstancias- una situación "_rara avis_".
 * Dependencias
     - Algunos de los programas implicados (principalmente [R](https://www.r-project.org/), [ImageJ](https://imagej.nih.gov/ij/index.html) y [Node.js](https://nodejs.org/) ) tienden a comprobar las interdependencias de forma predeterminada 
  ![software.png](images/2206346255-2_install.png)
@@ -62,4 +62,4 @@
 
 ### Licencia ###
 
-* El contenido de este proyecto está bajo la ![Licencia MIT](images/2049852260-MIT-license-green.png)
+* El contenido de este proyecto está bajo una ![Licencia MIT](images/2049852260-MIT-license-green.png)
