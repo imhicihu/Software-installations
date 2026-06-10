@@ -10,7 +10,7 @@
 
 # RATIONALE / [MOTIVACION](LEEME.md)
 
-* First time installation procedures. A _quick-list_ of software to install with a focus on open-source projects mostly for the Microsoft Windows© realm. By the way, a repo in _perpetual_ progress
+* First time installation procedures. A _quick-list_ of software to install with a focus on open-source projects mostly for the Microsoft Windows©, MacOSX and Linux realm. By the way, a repo in _perpetual_ progress
 * This repo is a living document that will grow and adapt over time according to meet needs, budgets, CPU's power, internal projects, etc.
 ![software.png](images/1919189782-octubre-1-2019.jpg)
 
