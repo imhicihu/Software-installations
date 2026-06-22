@@ -3,6 +3,7 @@
 	- [Homebrew](http://brew.sh/): package & installer manager for macOS
 	- [Latest](https://github.com/mangerlahn/Latest/releases/): updater of installed applications
   - [Talus](https://github.com/juanbrujo/Talus): `bash` script to automate download & setup your Mac OS X development environment
+  - [Updater](https://www.mac-updater.app/): Updater lives in your menu bar and quietly monitors all your applications and package managers for available updates
 * Backup
 	- [Duplicati](https://www.duplicati.com/): backup software with multiple options: schedule tasks, data encryption, etc.
 	- [Google Backup and sync](https://apps.apple.com/app/google-drive/id507874739): cloud-based backup tool
