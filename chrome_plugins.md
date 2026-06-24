@@ -9,7 +9,7 @@
 * Moesif Origin/CORS Changer & API Logger 1.0.6
 * Tampermonkey 5.3.0
 * PixelBlock 2024.3.12
-* Privacy Badger
+* [Privacy Badger](https://privacybadger.org/)
 ### Fonts
 * Snapfont - Preview fonts on any page
 * WhatFont 3.2.0
