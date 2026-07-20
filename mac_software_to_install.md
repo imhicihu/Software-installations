@@ -83,6 +83,7 @@
   - [UTM](https://github.com/utmapp/UTM/)
 * File renamer (batch & automatic)
 	- [FileRenamer](https://www.sttmedia.com/filerenamer-download)
+  - [Transnomino](https://www.transnomino.com/)
 * Android emulators
 	- [BlueStacks](https://www.bluestacks.com/bluestacks-android-n.html): android emulator
 	- [GenyMotion](https://www.genymotion.com/desktop/): android emulator
