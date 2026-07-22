@@ -218,6 +218,8 @@
   - [Deta surf](https://github.com/deta/surf): local AI notebook for data mining
   - [Apfel](https://apfel.franzai.com/#demos): use the _free_ local Apple Intelligence LLM on your Mac
   - [Ollama](https://ollama.com/): development with local IA models
+* Grammar checker
+  - [Harper](https://writewithharper.com/desktop)
 * Peripheral management
   - [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases): control your external monitor brightness & volume
   - [AlDente](https://github.com/davidwernhart/AlDente): battery charge management
