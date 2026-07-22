@@ -16,6 +16,7 @@
 	- [RansomWhere?](https://objective-see.com/products/ransomwhere.html); more info can be found [here](https://objective-see.com/products.html)
   - [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/get.html): inspecting macOS Installer packages
   - [Privileges](https://github.com/SAP/macOS-enterprise-privileges): secure admin rights management
+  - [Mojo Pulse](https://mojopulse.io/): system watchdog
 * Hardware profiler
   - [MachineProfile](http://www.micromat.com/products/machineprofile)
 * Text editor (multipurpose)
@@ -80,7 +81,7 @@
 	- [Oracle VirtualBox](https://www.virtualbox.org): virtualization of operating systems, _et. al._
 	- [Virtualbox extension pack](https://www.virtualbox.org/wiki/Downloads): add-on for Oracle VirtualBox
 	- [VirtualBuddy](https://github.com/insidegui/VirtualBuddy): virtual machine
-  - [UTM](https://github.com/utmapp/UTM/)
+  - [UTM](https://github.com/utmapp/UTM/): Virtual machines in macOS environments
 * File renamer (batch & automatic)
 	- [FileRenamer](https://www.sttmedia.com/filerenamer-download)
   - [Transnomino](https://www.transnomino.com/)
