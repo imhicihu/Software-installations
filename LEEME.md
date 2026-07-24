@@ -6,7 +6,7 @@
 ![internaluse-green](images/3847436881-internal_use_stable.png)
 ![issues-open](images/2944199103-issues_open.png)
 
-# Motivación / [Rationale](README.md)
+## Motivación / [Rationale](README.md)
 
 * Procedimientos para la primera instalación. Una _lista rápida_ de software que instalar, centrada en proyectos de código abierto, principalmente para el entorno Windows© de Microsoft, MacOSX y Linux. Por cierto, se trata de un repositorio en _constante_ evolución
 * Este repositorio es un documento dinámico que crecerá y se adaptará con el tiempo para satisfacer las necesidades, los presupuestos, la potencia de la CPU, los proyectos internos, etc.
