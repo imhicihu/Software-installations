@@ -6,7 +6,7 @@
 ![internaluse-green](images/3847436881-internal_use_stable.png)
 ![issues-open](images/2944199103-issues_open.png)
 
-## RATIONALE / [MOTIVACION](LEEME.md)
+## Rationale / [Motivación](LEEME.md)
 
 * First time installation procedures. A _quick-list_ of software to install with a focus on open-source projects mostly for the Microsoft Windows©, MacOSX and Linux realm. By the way, a repo in _perpetual_ progress
 * This repo is a living document that will grow and adapt over time according to meet needs, budgets, CPU's power, internal projects, etc.
