@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/_qKkTLF0QNmqbu35lbp-cA@2k.webp?raw=true" alt="Logotipo de Software-installations"/>
+  <img src="images/shell.png?raw=true" alt="Logotipo de Software-installations"/>
 </p>
 
 ---
