@@ -5,7 +5,7 @@
 ### Cookies
 * EditThisCookie 1.6.3
 * Cookie Remover 1.0.5
-### security
+### Security
 * Moesif Origin/CORS Changer & API Logger 1.0.6
 * Tampermonkey 5.3.0
 * PixelBlock 2024.3.12
@@ -33,7 +33,7 @@
 * Surfingkeys 1.17.0
 * ~~Handsfree for Web - Voice Control 3.7.0~~ _deprecated_
 * LipSurf - Voice Control for the Web
-### email
+### Email
 * Testi@ - Live Email Testing with (ESP) 0.67.5
 * [Markdown Here 2.12.0](https://github.com/adam-p/markdown-here)
 ### Web development
