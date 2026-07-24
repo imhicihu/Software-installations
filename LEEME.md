@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="images/_qKkTLF0QNmqbu35lbp-cA@2k.webp?raw=true" alt="Logotipo de Software-installations"/>
+  <img src="images/shell.png?raw=true" alt="Logotipo de Software-installations" weigh="800"theight="800"/>
 </p>
-
----
 
 ![stability-work_in_progress](images/477405737-stability_work_in_progress.png)
 ![internaluse-green](images/3847436881-internal_use_stable.png)
 ![issues-open](images/2944199103-issues_open.png)
 
-# JUSTIFICACIÓN / [Rationale](README.md)
+# Motivación / [Rationale](README.md)
 
 * Procedimientos para la primera instalación. Una _lista rápida_ de software que instalar, centrada en proyectos de código abierto, principalmente para el entorno Windows© de Microsoft, MacOSX y Linux. Por cierto, se trata de un repositorio en _constante_ evolución
 * Este repositorio es un documento dinámico que crecerá y se adaptará con el tiempo para satisfacer las necesidades, los presupuestos, la potencia de la CPU, los proyectos internos, etc.
