@@ -103,6 +103,7 @@
 * Document management
 	- [PaperWork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork/#installation): personal document manager. It manages scanned documents and PDFs
 * Digital notebook / Note taking
+  - [Obsidian](https://obsidian.md/download)
 	- [Evernote](https://evernote.com): offline and online mode. Cloud based. 
 		+ Add this add-on: [Evernote for Firefox](https://addons.mozilla.org/es/firefox/addon/evernote-web-clipper/); [Evernote for Google Chrome](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?hl=es)
 * Video meetings
