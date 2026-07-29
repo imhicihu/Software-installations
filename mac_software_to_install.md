@@ -152,6 +152,7 @@
 	- ~~[PaperWork](https://www.openpaper.work/en/)~~
 * Digital notebook / Note taking
   - [Anytype](https://anytype.io)
+  - [Obsidian)(https://obsidian.md/download)
   - [Evernote](https://evernote.com): offline and online mode. Cloud based
     - plus this add-on: [Evernote for Firefox](https://addons.mozilla.org/es/firefox/addon/evernote-web-clipper/); [Evernote for Google Chrome](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?hl=es)
 * Video meetings
