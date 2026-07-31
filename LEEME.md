@@ -23,11 +23,10 @@
 * Resumen de la configuración
     - Consulte nuestra lista de herramientas (en su mayoría) de código abierto, clasificadas por:
 
-        | sistema operativo |  
-        |:--|
-        | [Microsoft Windows®](pc_software_to_install.md) |
-		| [MacOSX®](mac_software_to_install.md) |
-        | [Linux®](linux_software_to_install.md) |  
+		| Sistema operativo|  |  |
+		|:--|:--|:--|
+		| [MacOSX®](mac_software_to_install.md) | [Microsoft Windows®](pc_software_to_install.md) |  [Linux®](linux_software_to_install.md) |
+ 
 
 * Configuración
     - No existe una situación en la que "esta regla se aplique a todos", ya que hay _algunas_ interdependencias entre las partes, por ejemplo: [Dstretch](dstretch/dstretch_(internal_use).md) necesita [ImageJ](https://imagej.nih.gov/ij/index.html) y, a su vez, [ImageJ](https://imagej.nih.gov/ij/index.html) necesita [Java](https://www.java.com/es/download/). Por cierto, el ejemplo anterior es -dadas las circunstancias- una situación "_rara avis_".
