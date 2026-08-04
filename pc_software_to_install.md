@@ -213,7 +213,6 @@
   - [Ollama](https://ollama.com/): development with local IA models
 * Voice & text transcription
   - [Handy](https://handy.computer/): speech to text
-  - [macparakeet](https://github.com/moona3k/macparakeet/releases): video transcription
   - [Buzz](https://github.com/chidiwilliams/buzz/releases): transcribe & translate videos
 * Miscellaneous
 	- [f.lux](https://justgetflux.com/dlwin.html): blue light screen protection
