@@ -47,6 +47,7 @@
 	 	    - [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 		    - [Open Access](https://chrome.google.com/webstore/detail/open-access-button/gknkbkaapnhpmkcgkmdekdffgcddoiel)
 		    - [Kopernio](https://chrome.google.com/webstore/detail/kopernio-powered-by-web-o/fjgncogppolhfdpijihbpfmeohpaadpc)
+        - check our [preferred add-ons](chrome_plugins.md) suitable for our needs 
 	- [Mozilla Firefox](https://www.mozilla.org/es-AR/firefox/linux/): internet browser
 	- [Vivaldi](https://vivaldi.com/es/download/): internet browser
 	- [Opera](https://www.opera.com/es-419/computer): internet browser
