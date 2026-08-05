@@ -203,7 +203,7 @@
 	- [CopyQ](https://hluk.github.io/CopyQ/)
 	- [Maccy](https://github.com/p0deje/Maccy/)
   - [ClipTools](https://apps.apple.com/us/app/cliptools/id1619348240?mt=12)
-* Health / Ergonomics (vide [VIM](VIM_mode_mac.md) section)
+* Health / Ergonomics (_vide_ [VIM](https://github.com/imhicihu/Software-installations/blob/master/VIM_mode_mac.md#only-keyboard--accessibility) section)
 	- [SavemyEyes](https://github.com/masich/SaveMyEyes/releases): reminds periodic take-a-break 
 	- [Keyboard Cowboy](https://github.com/zenangst/KeyboardCowboy/releases): keyboard shortcut management
   - [vimac](https://github.com/nchudleigh/vimac): keyboard-driven navigation and control of the macOS Graphical User Interface
