@@ -74,6 +74,7 @@
 		    - [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp/related)
 		    - ~~[Handsfree for Web - Voice Control](https://chrome.google.com/webstore/detail/handsfree-for-web-voice-c/ldfboinpfdahkgnljbkohgimhimmafip/related?hl=es)~~ -deprecated-
 		    - [Privacy Badger](https://privacybadger.org/)
+        - check our [preferred add-ons](chrome_plugins.md) suitable for our needs 
 	- [Mozilla Firefox](https://www.mozilla.org/es-AR/firefox/): internet browser
 		* _plus this add-on_:
 		    - [Multi-Account Containers](https://addons.mozilla.org/firefox/addon/multi-account-containers/): workflow, privacy
