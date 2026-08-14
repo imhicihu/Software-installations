@@ -41,7 +41,7 @@
 | [x] | Path intellisense
 | [x] | React-Native/React/Redux snippets for es6/es7
 | [x] | Polacode
-| [x] | Prettier - [x] Code formatter
+| [x] | Prettier - Code formatter
 | [x] | React Native tools
 | [x] | Solarized Flat
 | [x] | SubliminalR
