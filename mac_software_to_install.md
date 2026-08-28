@@ -12,6 +12,7 @@
 	- [Syncalicious](https://github.com/zenangst/Syncalicious/releases): system's preferences backup & restore
 * Firewall
 	- [LuLu](https://objective-see.com/products/lulu.html): block unknown outgoing connections, unless explicitly approved by the final user
+  - [blockr](https://twoplus11.com/blockr/): a macOS network content-filter system extension 
 * Security
 	- [KnockKnock](https://objective-see.com/products/knockknock.html)
 	- [BlockBlock](https://objective-see.com/products/blockblock.html)
