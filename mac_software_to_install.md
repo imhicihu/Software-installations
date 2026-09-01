@@ -1,6 +1,8 @@
 ### Software to install (for the MacOSX® environment)
 * Linux distribution
   - [Omarchy mac](https://github.com/omarchy-mac/omarchy-mac/releases)
+* Ad-blocker
+  - [wBlock](https://apps.apple.com/us/app/wblock/id6746388723)
 * Installer & updater of apps
 	- [Homebrew](http://brew.sh/): package & installer manager for macOS
 	- [Latest](https://github.com/mangerlahn/Latest/releases/): updater of installed applications
