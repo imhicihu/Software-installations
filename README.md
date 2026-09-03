@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/shell.png?raw=true" alt="Logotipo de Software-installations" weigh="800"theight="800"/>
+  <img src="images/shell.png?raw=true" alt="Logotipo de Software-installations" weight="800"height="800"/>
 </p>
 
 ![stability-work_in_progress](images/477405737-stability_work_in_progress.png)
