@@ -215,6 +215,8 @@
 * Voice & text transcription
   - [Handy](https://handy.computer/): speech to text
   - [Buzz](https://github.com/chidiwilliams/buzz/releases): transcribe & translate videos
+* CAD
+  - [OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio/releases)
 * Miscellaneous
 	- [f.lux](https://justgetflux.com/dlwin.html): blue light screen protection
 	- [Scoop](https://scoop.sh/): a command-line installer for Windows
