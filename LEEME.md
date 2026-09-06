@@ -25,7 +25,7 @@
 
 		| Sistema operativo|  |  |
 		|:--|:--|:--|
-		| [MacOSX®](mac_software_to_install.md) | [Microsoft Windows®](pc_software_to_install.md) |  [Linux®](linux_software_to_install.md) |
+		| [MacOSX®](mac_software_to_install.md) | [Microsoft Windows®](windows_software_to_install.md) |  [Linux®](linux_software_to_install.md) |
  
 
 * Configuración
