@@ -108,7 +108,7 @@
   - [Rosettavert](https://eclecticlight.co/2020/08/26/rosettavert-version-1-5-is-now-available-a-universal-app/): converts between different text encodings
 * Text capture
 	- [TRex](https://github.com/amebalabs/TRex/releases)
-* Text expander (automatic replacement)
+* Text expander (automatic text replacement)
 	- [Espanso](https://espanso.org/): universal text expander
 * Rich text editor
 	- [Texts](http://www.texts.io/): markdown file format viewer and editor
@@ -248,7 +248,8 @@
 	- [Android File Transfer Application for macOS](https://github.com/ganeshrvel/openmtp/releases)
 	- [Folding@home](https://foldingathome.org/start-folding/): fighting diseases donating processing's computer (runs in background and in non-intrusive mode)
   - [meetingBar](https://apps.apple.com/us/app/meetingbar/id1532419400?ign-itscg=30200&ign-itsct=apps_box_badge): MeetingBar shows your calendar events in the status bar
-  - [Warp](https://www.warp.dev/):  agentic development environment based on the Mac's system terminal.
+  - [Warp](https://www.warp.dev/):  agentic development environment based on the Mac's system terminal
+  - [Deeper](https://www.titanium-software.fr/en/deeper.html): turn on or turn off the hidden functions of the Finder, Dock, etc.
 
 ### Legal
 
