@@ -31,6 +31,7 @@
 * [Quad9](https://quad9.net/)
 * [VirusTotal](https://www.virustotal.com/gui/home/upload)
 * [Examine Email — How did they send this](https://examine.email/)
+* [shelve](https://www.shelve.cloud/): vault your repo secrets
 
 #### Browser security
 * [Browser audit](https://browseraudit.com/): pass test to verify the integrity of your browser
