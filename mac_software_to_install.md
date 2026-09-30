@@ -24,7 +24,7 @@
   - [Privileges](https://github.com/SAP/macOS-enterprise-privileges): secure admin rights management
   - [Mojo Pulse](https://mojopulse.io/): system watchdog
   - [SilentKnight](https://eclecticlight.co/lockrattler-systhist/): verifying security system
-	- [gasmask](https://github.com/2ndalpha/gasmask): hosts file manager for OS X
+  - [gasmask](https://github.com/2ndalpha/gasmask): hosts file manager for OS X
 * Hardware profiler
   - [MachineProfile](http://www.micromat.com/products/machineprofile)
 * Text editor (multipurpose)
