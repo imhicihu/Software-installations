@@ -147,13 +147,13 @@
 * Image enhancer & editor & management
 	- [GIMP](https://www.gimp.org/): image editor and converter
   - [Compositor](https://github.com/robbietilton/Compositor): Photoshop alternative
-	- [GIMPshop](https://www.gimpshop.com/downloads): free alternative to Photoshop
-	- [ImageMagick](https://imagemagick.org/script/download.php#): image editor and converter
-	- [Dark Table](http://www.darktable.org/install/#macos): image treatment, enhancer in a non destructive way
-	- [DigiKam](https://www.digikam.org/download/): photo management
-	- [DJView](https://sourceforge.net/projects/djview-495-for-mac/): DJVU viewer 
-	- [ImageJ](https://imagej.nih.gov/ij/): java-based image processing and analysis
-	- [Tropy](https://tropy.org/): research photo management
+  - [GIMPshop](https://www.gimpshop.com/downloads): free alternative to Photoshop
+  - [ImageMagick](https://imagemagick.org/script/download.php#): image editor and converter
+  - [Dark Table](http://www.darktable.org/install/#macos): image treatment, enhancer in a non destructive way
+  - [DigiKam](https://www.digikam.org/download/): photo management
+  - [DJView](https://sourceforge.net/projects/djview-495-for-mac/): DJVU viewer
+  - [ImageJ](https://imagej.nih.gov/ij/): java-based image processing and analysis
+  - [Tropy](https://tropy.org/): research photo management
 * Image compressor
 	- [Image shrinker](https://github.com/stefansl/image-shrinker/releases)
 * Image to pdf
