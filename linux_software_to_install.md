@@ -138,6 +138,8 @@
 	- [R](http://cran.r-project.org/mirrors.html)
 	- [R Studio](https://rstudio.com/products/rstudio/download/)
 	- [LabPlot](https://labplot.kde.org/): data visualization and analysis
+* Office suite
+  - [GenOffice](https://github.com/genspark-ai/genoffice/releases): Docs, Sheets, Slides, PDF, Markdown and HTML editors 
 * Math & equation editor
 	- [LaTeX](https://www.latex-project.org/get/)
 	- [TeXmaker](https://www.xm1math.net/texmaker/)
