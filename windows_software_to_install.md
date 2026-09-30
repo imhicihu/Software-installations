@@ -95,8 +95,9 @@
 	- [QGIS](https://qgis.org/en/site/): GIS handling
 	- [Google Earth](https://www.google.com/intl/es-419_ALL/earth/versions/#earth-pro): virtual map
 	- [gpxsee](https://www.gpxsee.org/): GPS log file viewer and analyzer 
-* Office automation
+* Office suite
 	- [LibreOffice](https://www.libreoffice.org/download/download/): ofimatic
+  - [GenOffice](https://github.com/genspark-ai/genoffice/releases): Docs, Sheets, Slides, PDF, Markdown and HTML editors
 * File & text converter
 	- [File converter](https://github.com/Tichau/FileConverter)
 	- [Pandoc](https://pandoc.org/installing.html): universal file text converter
