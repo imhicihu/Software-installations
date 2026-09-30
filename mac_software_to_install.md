@@ -181,9 +181,9 @@
 * Bibliographic & citation & personal research assistant
 	- [Zotero](https://www.zotero.org/download)
   - [BibDesk](https://bibdesk.sourceforge.io/): bibliographic manager
-	- [Citationsy](https://apps.apple.com/us/app/citationsy/id1410212159): bibliographic citation organizer
-	- [thelibrarian](http://www.patisoftware.eu/Apps/theLibrarian/theLibrarian.html#theLibrarian): create bibliographical references in a click using the most common citation styles (APA, Chicago, MLA, IEEE, Harvard, Vancouver)
-	- [JabRef](https://www.jabref.org/): bibliography reference manager
+  - [Citationsy](https://apps.apple.com/us/app/citationsy/id1410212159): bibliographic citation organizer
+  - [thelibrarian](http://www.patisoftware.eu/Apps/theLibrarian/theLibrarian.html#theLibrarian): create bibliographical references in a click using the most common citation styles (APA, Chicago, MLA, IEEE, Harvard, Vancouver)
+  - [JabRef](https://www.jabref.org/): bibliography reference manager
   - [Publish or Perish](https://harzing.com/resources/publish-or-perish): retrieves and analyzes academic citations
   - [Pubs](https://github.com/pubs/pubs): your bibliography on the command line
   - [Open notebook](https://github.com/lfnovo/open-notebook): alternative to Google's Notebook LM
