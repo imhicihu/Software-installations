@@ -101,8 +101,9 @@
 	- [QGIS](https://qgis.org/en/site/): GIS handling
 	- [Google Earth](https://www.google.com/intl/es-419_ALL/earth/versions/#earth-pro): virtual globe
 	- [gpxsee](https://www.gpxsee.org/): GPS log file viewer and analyzer
-* Office automation
+* Office suite
 	- [LibreOffice](https://www.libreoffice.org/download/download/): ofimatic
+  - [GenOffice](https://github.com/genspark-ai/genoffice/releases): Docs, Sheets, Slides, PDF, Markdown and HTML editors 
 * Text converter
 	- [Pandoc](https://pandoc.org/installing.html): universal file text converter
   - [Rosettavert](https://eclecticlight.co/2020/08/26/rosettavert-version-1-5-is-now-available-a-universal-app/): converts between different text encodings
