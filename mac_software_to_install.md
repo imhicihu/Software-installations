@@ -244,6 +244,7 @@
   - [OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio/releases)
 * Miscellaneous
 	- [Command X](https://sindresorhus.com/command-x): cut and paste files from Finder
+  - [FileWorks][https://fileworks.innovative-bytes.net/): dual-pane file manager
 	- [Veusz](https://github.com/veusz/veusz/releases/): scientific plotting package
 	- [Java](https://www.java.com/es/download/): runtime to leverage apps. Please verify this [example](https://github.com/imhicihu/Software-installations/blob/master/dstretch/dstretch_(internal_use).md)
 	- [Node.js](https://nodejs.org/en/): javascript runtime
