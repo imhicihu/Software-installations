@@ -13,7 +13,7 @@
 	- [Cleanmgr+](https://www.mirinsoft.com/cleanmgrplus)
 	- [Bleachbit](https://www.bleachbit.org/)
 * Text editor (multipurpose)
-	- ~~[Atom](http://atom.io/)~~ ([deprecated](https://github.blog/2022-06-08-sunsetting-atom/) by GitHub)
+	- ~~[Atom](http://atom.io/) ([deprecated](https://github.blog/2022-06-08-sunsetting-atom/) by GitHub)~~
 	- [Brackets](http://brackets.io/)
 	- [Notepad++](https://notepad-plus-plus.org/downloads/): NotePad enhanced
 	- [Zettlr](https://www.zettlr.com/): markdown editor which integrates CSL, BibLaTeX, Pandoc and many other tools
