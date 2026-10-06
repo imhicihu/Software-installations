@@ -24,7 +24,7 @@
 * Personal groups, files & chat
 	- [Keybase](https://keybase.io/)
 * Hard disk cloner
-	- [Cloneapp](http://www.mirinsoft.com/download/category/2-cloneapp): backup application settings of Windows programs
+	- [Cloneapp](http://www.mirinsoft.com/download/category/2-cloneapp): backup application settings of Windows&trade; programs
 	- [CloneApp UA](http://www.mirinsoft.com/download/category/13-ca-ua): backup application settings of Universal apps (UWP)
 * Clipboard
 	- [CopyQ](https://hluk.github.io/CopyQ/)
@@ -86,7 +86,7 @@
 	- [Browser audit](https://browseraudit.com/): pass test to verify the integrity of your browser. Online tool
 * Virtualization
 	- [Oracle VirtualBox](https://www.virtualbox.org): virtualization of operating systems, _et. al._
-		- [Virtualbox extension pack](https://www.virtualbox.org/wiki/Downloads): add-on for Oracle VirtualBox
+		- [Virtualbox extension pack](https://www.virtualbox.org/wiki/Downloads): add-on for Oracle&trade; VirtualBox
 	- [Windows XP Mode for Windows 7](https://www.microsoft.com/es-ar/download/details.aspx?id=8002): run a _virtual_ Windows XP on Windows 7
 * Android emulators
 	- [BlueStacks](https://www.bluestacks.com/bluestacks-android-n.html): android emulator
@@ -139,7 +139,8 @@
 	- [3DEM](https://www.hangsim.com/3dem/)
 * Image enhancer & editor
 	- [GIMP](https://www.gimp.org/): image editor and converter
-	- [GIMPshop](https://www.gimpshop.com/downloads): free alternative to Photoshop
+	- [GIMPshop](https://www.gimpshop.com/downloads): free alternative to Photoshop&trade;
+  - [Composa](https://www.compilesoftware.nl/composa/): free alternative to GIMP & Photoshop&trade;
 	- [ImageMagick](https://imagemagick.org/script/download.php#windows): image editor and converter
 	- [Dark Table](https://www.darktable.org/install/#windows): image treatment, enhancer in a non destructive way
 	- [DigiKam](https://www.digikam.org/download/): photo management
@@ -175,9 +176,9 @@
   - [Publish or Perish](https://harzing.com/resources/publish-or-perish): retrieves and analyzes academic citations
   - [Open notebook](https://github.com/lfnovo/open-notebook): alternative to Google's Notebook LM
 * Bibliography searcher
-	- [ScienceFair](https://github.com/sciencefair-land/sciencefair): discover, collect, organise, read and analyse scientific papers.
+	- [ScienceFair](https://github.com/sciencefair-land/sciencefair): discover, collect, organise, read and analyse scientific papers
 * Virtual server environment
-	- [WampServer](http://www.wampserver.com/en/#download-wrapper): PHP, MySQL and Apache running on Windows
+	- [WampServer](http://www.wampserver.com/en/#download-wrapper): PHP, MySQL and Apache running on Windows&trade;
 * Data validator 
 	- [DataProofer](https://github.com/dataproofer/Dataproofer/releases): proofreader for your data
 	- [Talent open studio for data quality](https://www.talend.com/products/data-quality/data-quality-open-studio/): Data profiling and analytics with graphical charts and drill-down data
@@ -197,12 +198,12 @@
 	- [GMapTool](https://www.gmaptool.eu/en/content/windows-setup): program for splitting and merging maps in Garmin format
 	- [GeoViewer](https://www.extensis.com/download-geoviewer): display raster imagery, LiDAR point clouds, vector overlays, and MrSID files
 * System check & privacy
-	- [Spydish](https://github.com/builtbybel/spydish/releases): privacy and security check. _Only for Windows 10_
-	- [SharpApp](https://github.com/mirinsoft/sharpapp/releases): disable telemetry functions in Windows 10
-	- [Debotnet](https://github.com/mirinsoft/debotnet/releases): controlling Windows 10's many privacy-related settings. Requires Windows 10 including both 32-bit and 64-bit versions
+	- [Spydish](https://github.com/builtbybel/spydish/releases): privacy and security check. _Only for Windows&trade; 10_
+	- [SharpApp](https://github.com/mirinsoft/sharpapp/releases): disable telemetry functions in Windows&trade; 10
+	- [Debotnet](https://github.com/mirinsoft/debotnet/releases): controlling Windows&trade; 10's many privacy-related settings. Requires Windows&trade; 10 including both 32-bit and 64-bit versions
   - [The PC Decrapifier](https://www.pcdecrapifier.com/): what to remove to speed up your system
-  - [mole](https://github.com/tw93/Mole/tree/windows): deep clean and optimize your Windows
-  - [CrapFixer](https://github.com/builtbybel/CrapFixer/releases): Analyze your Windows System and fix it
+  - [mole](https://github.com/tw93/Mole/tree/windows): deep clean and optimize your Windows&trade;
+  - [CrapFixer](https://github.com/builtbybel/CrapFixer/releases): Analyze your Windows&trade; System and fix it
 * Updater (automation)
 	- [UnigetUI](https://github.com/marticliment/UniGetUI/releases): graphical Interface for your package managers
 	- [Chocolatey GUI](https://github.com/chocolatey/ChocolateyGUI/releases/): to update software via [Chocolatey](https://chocolatey.org/) 
@@ -221,7 +222,7 @@
   - [OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio/releases)
 * Miscellaneous
 	- [f.lux](https://justgetflux.com/dlwin.html): blue light screen protection
-	- [Scoop](https://scoop.sh/): a command-line installer for Windows
+	- [Scoop](https://scoop.sh/): a command-line installer for Windows&trade;
 	- [FindLongFiles](http://www.demenzunmedia.com/lilchips/Software_FindLongFiles_100.zip): locate filespecs too long to copy
 	- [Veusz](https://github.com/veusz/veusz/releases/download/veusz-3.2/veusz-3.2.0.1-windows-setup.exe): a scientific plotting package
 	- [Rufus](https://rufus.ie/): create bootable usb drives
@@ -234,7 +235,7 @@
 	- [FileRenamer](https://www.sttmedia.com/filerenamer-download)
 	- [Wox](https://github.com/Wox-launcher/Wox/releases): application launcher (like [Alfred](https://www.alfredapp.com) for the mac)
   - [AutoHotKey](https://www.autohotkey.com/): automation scripting for automated tasks 
-  - [Dependency walker](http://www.dependencywalker.com/): scans any 32-bit or 64-bit Windows module (`exe`, `dll`, `ocx`, `sys`, etc.) and builds a hierarchical tree diagram of all dependent modules
+  - [Dependency walker](http://www.dependencywalker.com/): scans any 32-bit or 64-bit Windows&trade; module (`exe`, `dll`, `ocx`, `sys`, etc.) and builds a hierarchical tree diagram of all dependent modules
   - [Folding@home](https://foldingathome.org/start-folding/): fighting diseases donating processing's computer (runs in background and non-intrusive mode)
   - [webcam](https://iriun.com/): use your phone's camera as a wireless webcam
 	
