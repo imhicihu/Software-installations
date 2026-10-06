@@ -15,12 +15,12 @@
 	- [Syncalicious](https://github.com/zenangst/Syncalicious/releases): system's preferences backup & restore
 * Firewall
 	- [LuLu](https://objective-see.com/products/lulu.html): block unknown outgoing connections, unless explicitly approved by the final user
-  - [blockr](https://twoplus11.com/blockr/): a macOS network content-filter system extension 
+  - [blockr](https://twoplus11.com/blockr/): a macOS&trade; network content-filter system extension 
 * Security
 	- [KnockKnock](https://objective-see.com/products/knockknock.html)
 	- [BlockBlock](https://objective-see.com/products/blockblock.html)
 	- [RansomWhere?](https://objective-see.com/products/ransomwhere.html); more info can be found [here](https://objective-see.com/products.html)
-  - [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/get.html): inspecting macOS Installer packages
+  - [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/get.html): inspecting macOS&trade; Installer packages
   - [Privileges](https://github.com/SAP/macOS-enterprise-privileges): secure admin rights management
   - [Mojo Pulse](https://mojopulse.io/): system watchdog
   - [SilentKnight](https://eclecticlight.co/lockrattler-systhist/): verifying security system
@@ -91,13 +91,13 @@
 	- [Oracle VirtualBox](https://www.virtualbox.org): virtualization of operating systems, _et. al._
 	  + [Virtualbox extension pack](https://www.virtualbox.org/wiki/Downloads): add-on for Oracle VirtualBox
 	- [VirtualBuddy](https://github.com/insidegui/VirtualBuddy): virtual machine
-  - [UTM](https://github.com/utmapp/UTM/): Virtual machines in macOS environments
+  - [UTM](https://github.com/utmapp/UTM/): Virtual machines in macOS&trade; environments
 * File renamer (batch & automatic)
 	- [FileRenamer](https://www.sttmedia.com/filerenamer-download)
   - [Transnomino](https://www.transnomino.com/)
 * Android emulators
-	- [BlueStacks](https://www.bluestacks.com/bluestacks-android-n.html): android emulator
-	- [GenyMotion](https://www.genymotion.com/desktop/): android emulator
+	- [BlueStacks](https://www.bluestacks.com/bluestacks-android-n.html): android&trade; emulator
+	- [GenyMotion](https://www.genymotion.com/desktop/): android&trade; emulator
 * GIS & maps & GPS
 	- [QGIS](https://qgis.org/en/site/): GIS handling
 	- [Google Earth](https://www.google.com/intl/es-419_ALL/earth/versions/#earth-pro): virtual globe
@@ -148,7 +148,7 @@
 	- ~~[3DEM](http://www.hangsim.com/files/3dem_setup.exe)~~
 * Image enhancer & editor & management
 	- [GIMP](https://www.gimp.org/): image editor and converter
-  - [Compositor](https://github.com/robbietilton/Compositor): Photoshop alternative
+  - [Compositor](https://github.com/robbietilton/Compositor): Photoshop&trade; alternative
   - [GIMPshop](https://www.gimpshop.com/downloads): free alternative to Photoshop
   - [ImageMagick](https://imagemagick.org/script/download.php#): image editor and converter
   - [Dark Table](http://www.darktable.org/install/#macos): image treatment, enhancer in a non destructive way
@@ -245,7 +245,7 @@
   - [OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio/releases)
 * Miscellaneous
 	- [Command X](https://sindresorhus.com/command-x): cut and paste files from Finder
-  - [FileWorks][https://fileworks.innovative-bytes.net/): dual-pane file manager
+  - [FileWorks](https://fileworks.innovative-bytes.net/): dual-pane file manager
 	- [Veusz](https://github.com/veusz/veusz/releases/): scientific plotting package
 	- [Java](https://www.java.com/es/download/): runtime to leverage apps. Please verify this [example](https://github.com/imhicihu/Software-installations/blob/master/dstretch/dstretch_(internal_use).md)
 	- [Node.js](https://nodejs.org/en/): javascript runtime
