@@ -138,20 +138,20 @@
 	- [Clay-viewer](https://github.com/pissang/clay-viewer/releases)
 	- [3DEM](https://www.hangsim.com/3dem/)
 * Image enhancer & editor
-	- [GIMP](https://www.gimp.org/): image editor and converter
-	- [GIMPshop](https://www.gimpshop.com/downloads): free alternative to Photoshop&trade;
+  - [GIMP](https://www.gimp.org/): image editor and converter
+  - [GIMPshop](https://www.gimpshop.com/downloads): free alternative to Photoshop&trade;
   - [Composa](https://www.compilesoftware.nl/composa/): free alternative to GIMP & Photoshop&trade;
   - [ImageMagick](https://imagemagick.org/script/download.php#windows): image editor and converter
-	- [Dark Table](https://www.darktable.org/install/#windows): image treatment, enhancer in a non destructive way
-	- [DigiKam](https://www.digikam.org/download/): photo management
-	- [DJVUlibre](https://sourceforge.net/projects/djvu/files/DjVuLibre_Windows/): DJVU viewer 
-	- [ImageJ](https://imagej.nih.gov/ij/): Java-based image processing and analysis
-	- [Tropy](https://tropy.org/): research photo management 
+  - [Dark Table](https://www.darktable.org/install/#windows): image treatment, enhancer in a non destructive way
+  - [DigiKam](https://www.digikam.org/download/): photo management
+  - [DJVUlibre](https://sourceforge.net/projects/djvu/files/DjVuLibre_Windows/): DJVU viewer 
+  - [ImageJ](https://imagej.nih.gov/ij/): Java-based image processing and analysis
+  - [Tropy](https://tropy.org/): research photo management 
 * Document management
 	- [PaperWork](https://openpaper.work/en/)
 * Digital notebook / Note taking
 	- [Evernote](https://evernote.com): offline and online mode. Cloud based. 
-		+ Add this add-on: [Evernote for Firefox](https://addons.mozilla.org/es/firefox/addon/evernote-web-clipper/);
+		+ Add this add-on: [Evernote for Firefox](https://addons.mozilla.org/es/firefox/addon/evernote-web-clipper/)
     + [Evernote for Google Chrome](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?hl=es)
   - [Joplin](https://joplinapp.org/)
   - [Obsidian](https://obsidian.md/download)
@@ -222,7 +222,7 @@
   - [OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio/releases)
 * Miscellaneous
 	- [f.lux](https://justgetflux.com/dlwin.html): blue light screen protection
-	- [Scoop](https://scoop.sh/): a command-line installer for Windows&trade;
+	- [Scoop](https://scoop.sh/): a command-line installer for Windows&trade
 	- [FindLongFiles](http://www.demenzunmedia.com/lilchips/Software_FindLongFiles_100.zip): locate filespecs too long to copy
 	- [Veusz](https://github.com/veusz/veusz/releases/download/veusz-3.2/veusz-3.2.0.1-windows-setup.exe): a scientific plotting package
 	- [Rufus](https://rufus.ie/): create bootable usb drives
