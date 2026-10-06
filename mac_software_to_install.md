@@ -236,6 +236,7 @@
 * Peripheral management
   - [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases): control your external monitor brightness & volume
   - [AlDente](https://github.com/davidwernhart/AlDente): battery charge management
+  - [Candela](https://github.com/Rydersel/Candela/releases): monitor health, burn out protection
 * Voice & text transcription
   - [Handy](https://handy.computer/): speech to text
   - [macparakeet](https://github.com/moona3k/macparakeet/releases): video transcription
