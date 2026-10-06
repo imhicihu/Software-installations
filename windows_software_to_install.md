@@ -141,7 +141,7 @@
 	- [GIMP](https://www.gimp.org/): image editor and converter
 	- [GIMPshop](https://www.gimpshop.com/downloads): free alternative to Photoshop&trade;
   - [Composa](https://www.compilesoftware.nl/composa/): free alternative to GIMP & Photoshop&trade;
-	- [ImageMagick](https://imagemagick.org/script/download.php#windows): image editor and converter
+  - [ImageMagick](https://imagemagick.org/script/download.php#windows): image editor and converter
 	- [Dark Table](https://www.darktable.org/install/#windows): image treatment, enhancer in a non destructive way
 	- [DigiKam](https://www.digikam.org/download/): photo management
 	- [DJVUlibre](https://sourceforge.net/projects/djvu/files/DjVuLibre_Windows/): DJVU viewer 
