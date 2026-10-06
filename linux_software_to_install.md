@@ -96,7 +96,8 @@
 	- [Clay-viewer](https://github.com/pissang/clay-viewer/releases)
 * Image enhancer & editor
 	- [GIMP](https://www.gimp.org/downloads/): image editor and converter
-	- [GIMPshop](https://www.gimpshop.com/downloads): free alternative to Photoshop
+  - [Composa](https://www.compilesoftware.nl/composa/): free alternative to GIMP & Photoshop&trade;
+	- [GIMPshop](https://www.gimpshop.com/downloads): free alternative to Photoshop&trade;
 	- [ImageMagick](https://imagemagick.org/script/download.php#): image editor and converter
 	- [Dark Table](https://www.darktable.org/install/): image treatment, enhancer in a non destructive way
 	- [DigiKam](https://www.digikam.org/download/): photo management
