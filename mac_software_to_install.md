@@ -163,7 +163,7 @@
 * Image to pdf
 	- [Alchemy](https://dawnlabs.github.io/alchemy/)
 * Document management
-	- ~~[PaperWork](https://www.openpaper.work/en/)~~
+  - [Isidorus Hispalensis](https://isidorus.ai/): personal document management system 
 * Digital notebook / Note taking
   - [Anytype](https://anytype.io)
   - [Obsidian](https://obsidian.md/download)
