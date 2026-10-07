@@ -179,6 +179,7 @@
 	- [ScienceFair](https://github.com/sciencefair-land/sciencefair): discover, collect, organise, read and analyse scientific papers
 * Publication editor
   - [DesignCraft](https://github.com/storytold/designcraft): Indesign&trade; reimplemention open source
+  - [InDesign UXP MCP Server](https://github.com/theloniuser/indesign-uxp-server): MCP server for Indesign&trade;
 * Virtual server environment
 	- [WampServer](http://www.wampserver.com/en/#download-wrapper): PHP, MySQL and Apache running on Windows&trade;
 * Data validator 
