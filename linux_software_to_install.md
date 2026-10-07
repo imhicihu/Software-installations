@@ -107,6 +107,7 @@
 	- [Alchemy](https://dawnlabs.github.io/alchemy/)
 * Document management
 	- [PaperWork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork/#installation): personal document manager. It manages scanned documents and PDFs
+  - [Isidorus Hispalensis](https://isidorus.ai/): personal document management system
 * Digital notebook / Note taking
   - [Obsidian](https://obsidian.md/download)
 	- [Evernote](https://evernote.com): offline and online mode. Cloud based. 
