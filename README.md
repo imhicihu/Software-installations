@@ -8,7 +8,7 @@
 
 ## Rationale / [Motivación](LEEME.md)
 
-* First time installation procedures. A _quick-list_ of software to install with a focus on open-source projects mostly for the Microsoft Windows©, MacOSX and Linux realm. By the way, a repo in _perpetual_ progress
+* First time installation procedures. A _quick-list_ of software to install with a focus on open-source projects mostly for the Microsoft Windows©, MacOSX&trade; and Linux realm. By the way, a repo in _perpetual_ progress
 * This repo is a living document that will grow and adapt over time according to meet needs, budgets, CPU's power, internal projects, etc.
 ![software.png](images/1919189782-octubre-1-2019.jpg)
 
@@ -25,7 +25,7 @@
 
 		| Operating system |  |  |
 		|:--|:--|:--|
-		| [MacOSX®](mac_software_to_install.md) | [Microsoft Windows®](windows_software_to_install.md) |  [Linux®](linux_software_to_install.md) |
+		| [MacOSX&trade;](mac_software_to_install.md) | [Microsoft Windows®](windows_software_to_install.md) |  [Linux®](linux_software_to_install.md) |
 
 * Configuration
     - There is no `this law applies to all` situation, since there is _some_ interdependencies between parties, ie: [Dstretch](dstretch/dstretch_(internal_use).md) needs [ImageJ](https://imagej.nih.gov/ij/index.html) and itself [ImageJ](https://imagej.nih.gov/ij/index.html) needs [Java](https://www.java.com/es/download/). By the way, the former example is a `rara avis` situation
