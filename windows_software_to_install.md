@@ -196,7 +196,7 @@
 * Maps treatment
 	- [cGPSMapper](https://www.gpsfiledepot.com/tools/cgpsmapper.php)
 	- [GMapTool](https://www.gmaptool.eu/en/content/windows-setup): program for splitting and merging maps in Garmin format
-	- [GeoViewer](https://www.extensis.com/download-geoviewer): display raster imagery, LiDAR point clouds, vector overlays, and MrSID files
+	- [GeoViewer](https://www.extensis.com/download-geoviewer): display raster imagery, LiDAR point clouds, vector overlays and MrSID files
 * System check & privacy
 	- [Spydish](https://github.com/builtbybel/spydish/releases): privacy and security check. _Only for Windows&trade; 10_
 	- [SharpApp](https://github.com/mirinsoft/sharpapp/releases): disable telemetry functions in Windows&trade; 10
