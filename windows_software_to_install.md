@@ -177,6 +177,8 @@
   - [Open notebook](https://github.com/lfnovo/open-notebook): alternative to Google's Notebook LM
 * Bibliography searcher
 	- [ScienceFair](https://github.com/sciencefair-land/sciencefair): discover, collect, organise, read and analyse scientific papers
+* Publication editor
+  - [DesignCraft](https://github.com/storytold/designcraft): Indesign&trade; reimplemention open source
 * Virtual server environment
 	- [WampServer](http://www.wampserver.com/en/#download-wrapper): PHP, MySQL and Apache running on Windows&trade;
 * Data validator 
