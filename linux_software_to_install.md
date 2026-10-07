@@ -111,6 +111,8 @@
   - [Obsidian](https://obsidian.md/download)
 	- [Evernote](https://evernote.com): offline and online mode. Cloud based. 
 		+ Add this add-on: [Evernote for Firefox](https://addons.mozilla.org/es/firefox/addon/evernote-web-clipper/); [Evernote for Google Chrome](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc?hl=es)
+* Publication editor
+  - [DesignCraft](https://github.com/storytold/designcraft): Indesign&trade; reimplemention open source
 * Video meetings
 	- [Jitsi](https://jitsi.org/downloads/)
 	- ~~[Skype](https://www.skype.com/es/get-skype/): virtual meetings~~ [deprecated](https://x.com/Skype/status/1895477868261412953)
