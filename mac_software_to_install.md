@@ -112,16 +112,18 @@
 	- [TRex](https://github.com/amebalabs/TRex/releases)
 * Text expander (automatic text replacement)
 	- [Espanso](https://espanso.org/): universal text expander
+* Publication editor
+  - [DesignCraft](https://github.com/storytold/designcraft): Indesign&trade; reimplemention open source
+  - [InDesign UXP MCP Server](https://github.com/theloniuser/indesign-uxp-server): MCP server for Indesign&trade;
 * Rich text editor
 	- [Texts](http://www.texts.io/): markdown file format viewer and editor
-* Ebook manager (plus metadata editor)
+* Ebook manager (_plus_ metadata editor)
 	- [Calibre](https://calibre-ebook.com/download): multi-format ebook reader, cataloguer, searcher
 	- [thelibrarian](http://www.patisoftware.eu/Apps/theLibrarian/theLibrarian.html#theLibrarian): catalogue, organize and manage your collections of books or other kind of documents such as scientific articles
 * PDF Reader
 	- [Foxit Reader](https://www.foxitsoftware.com/downloads/#Foxit-Reader/): pdf reader
 	- [Sioyek](https://github.com/ahrm/sioyek/releases): PDF viewer designed for reading research papers and technical books
 	- [Skim](https://skim-app.sourceforge.io/) PDF reader and note-taker for macOSX. It is designed to help you read and annotate scientific papers in PDF file format
-* PDF Viewer
 	- ~~[Okular](https://okular.kde.org): with capabilities of become a EPUB, MOBI, FB2, CHM, XPS, DjVu file format reader too.~~
 * PDF editor
 	- [LibreOffice Draw PDF editor](https://www.libreoffice.org/download/download/)
