@@ -8,7 +8,7 @@
 	- ~~[Roboget](https://github.com/builtbybel/Roboget/releases/)~~
 * Ergonomics
   - [Autohotkey](https://www.autohotkey.com/)
-* Windows cleaning
+* Windows system cleaning
 	- [Ccleaner](https://www.ccleaner.com/)
 	- [Cleanmgr+](https://www.mirinsoft.com/cleanmgrplus)
 	- [Bleachbit](https://www.bleachbit.org/)
@@ -141,6 +141,7 @@
   - [GIMP](https://www.gimp.org/): image editor and converter
   - [GIMPshop](https://www.gimpshop.com/downloads): free alternative to Photoshop&trade;
   - [Composa](https://www.compilesoftware.nl/composa/): free alternative to GIMP & Photoshop&trade;
+  - [Photocraft](https://github.com/storytold/photocraft): reimplementation of Photoshop&trade;
   - [ImageMagick](https://imagemagick.org/script/download.php#windows): image editor and converter
   - [Dark Table](https://www.darktable.org/install/#windows): image treatment, enhancer in a non destructive way
   - [DigiKam](https://www.digikam.org/download/): photo management
