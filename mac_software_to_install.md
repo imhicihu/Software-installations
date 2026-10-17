@@ -131,6 +131,8 @@
 	- [PDFSam](https://pdfsam.org/es/download-pdfsam-basic/)
 	- [PEP](https://macpep.org/download): PDF Editor for Mac
 	- [PDFGear](https://www.pdfgear.com/)
+* PDF security
+  - [Dangerzone](https://dangerzone.rocks/): Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
 * Vector image editor
 	- [Inkscape](https://inkscape.org/release/)
 * Raster image viewer
