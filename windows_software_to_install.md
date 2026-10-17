@@ -124,6 +124,8 @@
 	- [PDFSam](https://pdfsam.org/es/download-pdfsam-basic/)
 	- [PDFGear](https://www.pdfgear.com/)
 	- [PDF24 Creator](https://tools.pdf24.org/es/creator)
+* PDF security
+  - [Dangerzone](https://dangerzone.rocks/): Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
 * Vector image editor
 	- [Inkscape](https://inkscape.org/release/)
 * Raster image viewer
