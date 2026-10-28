@@ -16,7 +16,6 @@
 
 * Resumen rápido
     - Una lista rápida de software para instalar en una CPU nueva, centrada en herramientas de software de código abierto
-    - Versión 1.01
 
 ### ¿Cómo lo configuro? ###
 
